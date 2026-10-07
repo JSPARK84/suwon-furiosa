@@ -4,7 +4,7 @@
   "force_update": false,
   "min_supported_version": 1,
   "release_date": "2026-10-07",
-  "download_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.0.4/suwon_furiosa.apk",
+  "download_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.0.5/suwon_furiosa.apk",
   "drive_web_url": "https://drive.google.com/file/d/11ky6ermZAGbEjAfyK7c7ghw-3jjG2d8o/view?usp=sharing",
   "notice": "선수단 최다 출전 3대 포지션 연동 및 공식 타율/투수성적 완벽 갱신!",
   "features": [
@@ -14,5 +14,9 @@
     "선수단 상단 타율순/등번호순/출전순 정렬 필터 추가",
     "수원 일요리그 및 토너먼트 다중 리그 분리 조회"
   ],
-  "version_check_url": "https://raw.githubusercontent.com/JSPARK84/suwon-furiosa/main/version.json"
+  "version_check_url": "https://raw.githubusercontent.com/JSPARK84/suwon-furiosa/main/version.json",
+  "versionCode": 5,
+  "versionName": "1.0.5",
+  "updatedAt": "2026-10-07",
+  "releaseNotes": "선수단 화면 카드 내부 빈 공간 완전 제거 및 콤팩트 레이아웃 최적화 (한 화면에 더 많은 선수 시원하게 표시)"
 }
