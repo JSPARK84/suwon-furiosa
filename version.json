@@ -1,0 +1,18 @@
+{
+  "version_code": 4,
+  "version_name": "1.0.4",
+  "force_update": false,
+  "min_supported_version": 1,
+  "release_date": "2026-10-07",
+  "download_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.0.4/suwon_furiosa.apk",
+  "drive_web_url": "https://drive.google.com/file/d/11ky6ermZAGbEjAfyK7c7ghw-3jjG2d8o/view?usp=sharing",
+  "notice": "선수단 최다 출전 3대 포지션 연동 및 공식 타율/투수성적 완벽 갱신!",
+  "features": [
+    "선수별 경기 최다 출전 상위 3개 포지션(Top 3) 뱃지 표기",
+    "2026 공식 타율, OPS, 안타, 홈런, 타점 1:1 완벽 연동",
+    "투수 방어율(ERA), 승-패, 탈삼진, 이닝 지표 연동",
+    "선수단 상단 타율순/등번호순/출전순 정렬 필터 추가",
+    "수원 일요리그 및 토너먼트 다중 리그 분리 조회"
+  ],
+  "version_check_url": "https://raw.githubusercontent.com/JSPARK84/suwon-furiosa/main/version.json"
+}
