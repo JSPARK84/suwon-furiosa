@@ -17,5 +17,5 @@
   ],
   "version_check_url": "https://raw.githubusercontent.com/JSPARK84/suwon-furiosa/main/version.json",
   "updatedAt": "2026-10-07",
-  "releaseNotes": "자동 업데이트 실시간 체크 로직 및 캐시 방지 완벽 개선, 삼성 라이온즈 블루 F 아이콘"
+  "releaseNotes": "실시간 자동 업데이트 감지 로직 완벽 개선 (캐시 방지 및 snake_case/camelCase 완벽 대응), 삼성 라이온즈 블루 F 아이콘"
 }
