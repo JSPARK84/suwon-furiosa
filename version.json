@@ -1,22 +1,21 @@
 {
-  "version_code": 4,
-  "version_name": "1.0.4",
+  "version_code": 8,
+  "versionCode": 8,
+  "version_name": "1.0.8",
+  "versionName": "1.0.8",
   "force_update": false,
   "min_supported_version": 1,
   "release_date": "2026-10-07",
-  "download_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.0.7/suwon_furiosa.apk",
+  "download_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.0.8/suwon_furiosa.apk",
   "drive_web_url": "https://drive.google.com/file/d/11ky6ermZAGbEjAfyK7c7ghw-3jjG2d8o/view?usp=sharing",
-  "notice": "선수단 최다 출전 3대 포지션 연동 및 공식 타율/투수성적 완벽 갱신!",
+  "notice": "자동 업데이트 감지 로직 완벽 개선 & 삼성 라이온즈 블루 F 엠블럼 적용",
   "features": [
-    "선수별 경기 최다 출전 상위 3개 포지션(Top 3) 뱃지 표기",
-    "2026 공식 타율, OPS, 안타, 홈런, 타점 1:1 완벽 연동",
-    "투수 방어율(ERA), 승-패, 탈삼진, 이닝 지표 연동",
-    "선수단 상단 타율순/등번호순/출전순 정렬 필터 추가",
-    "수원 일요리그 및 토너먼트 다중 리그 분리 조회"
+    "앱 실행 시 실시간 최신 버전 자동 감지 (캐시 방지 적용)",
+    "삼성 라이온즈 블루 바탕의 흰색 볼드 F 앱 런처 아이콘",
+    "유니크플레이 26편 전 경기 풀영상 & 핫클립 연동",
+    "선수단 카드 공간 효율화 및 콤팩트 뷰"
   ],
   "version_check_url": "https://raw.githubusercontent.com/JSPARK84/suwon-furiosa/main/version.json",
-  "versionCode": 7,
-  "versionName": "1.0.7",
   "updatedAt": "2026-10-07",
-  "releaseNotes": "팀 공식 엠블럼 적용 (삼성 라이온즈 블루 바탕의 깔끔한 볼드 'F' 앱 아이콘 및 상단 엠블럼 전면 반영)"
+  "releaseNotes": "자동 업데이트 실시간 체크 로직 및 캐시 방지 완벽 개선, 삼성 라이온즈 블루 F 아이콘"
 }
