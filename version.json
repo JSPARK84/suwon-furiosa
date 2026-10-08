@@ -1,8 +1,8 @@
 {
-  "version_code": 17,
-  "versionCode": 17,
-  "version_name": "1.1.7",
-  "versionName": "1.1.7",
+  "version_code": 18,
+  "versionCode": 18,
+  "version_name": "1.1.8",
+  "versionName": "1.1.8",
   "force_update": false,
   "min_supported_version": 1,
   "release_date": "2026-10-08",
@@ -12,16 +12,16 @@
   "play_store_url": "market://details?id=com.furiosa.suwon_furiosa",
   "play_store_web_url": "https://play.google.com/store/apps/details?id=com.furiosa.suwon_furiosa",
   "download_url": "https://drive.google.com/uc?export=download&id=11ky6ermZAGbEjAfyK7c7ghw-3jjG2d8o",
-  "github_fallback_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.1.7/suwon_furiosa.apk",
-  "notice": "수원 퓨리오사 v1.1.7 🎯 박준성 강견 포수 실전 도루 저지 4개 & 영상 이중 체크 시스템",
+  "github_fallback_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.1.8/suwon_furiosa.apk",
+  "notice": "수원 퓨리오사 v1.1.8 🎯 주루사 ➔ 영상 1:1 대조 고정 표준 파이프라인 & 박준성 실전 도루 저지 5개 반영",
   "features": [
-    "🎯 박준성 포수 실전 도루 저지 4개(저지율 36.4%, 리그 1위) 및 경기별 영상 검증 로그 탑재",
-    "🧤 황재민 포수 실전 팩트 반영: 도루 저지 송구 무리한 시도 자제 및 원바운드 블로킹·투수 리드형 안방 분석",
-    "📹 유니크플레이 실전 경기 영상(26편) 기반 기록원 기록 1:1 교차 검증 시스템 탑재",
-    "🔍 박스스코어 모달에 1차 기록원 기록 vs 2차 실전 영상 판독 vs 정정 조치 상세 타임스탬프 카드 탑재",
-    "🔄 경기 도중 포수 교체(박준성/박기웅 대수비) 시점별 피도루 분리 귀속 및 투수 폭투 진루 정상 정정"
+    "🔍 고정 검증 패턴 구축: 기록지 '주루사/도루실패' ➔ 유니크플레이 풀영상 타임스탬프 대조 ➔ 순수 도루저지 판정 파이프라인 공식화",
+    "🎯 박준성 포수 올 시즌 실전 도루 저지 5개(개막전 03.29 유신고 포함, 저지율 41.7%, S+등급) 전수 공인",
+    "🧤 황재민 포수 실전 팩트 반영: 09.20 런다운 주루사 오기 분리 정정 및 원바운드 블로킹·투수 리드 집중형 확정",
+    "📹 박스스코어 모달 내 영상 타임스탬프 이중 체크 및 주루사 상세 판독 카드 탑재",
+    "🛡️ 팀 전력분석실 내 주루사 전수 조사 기반 도루 저지율 20.0%(박준성 출전 시 41.7%) 공식 반영"
   ],
   "version_check_url": "https://raw.githubusercontent.com/JSPARK84/suwon-furiosa/main/version.json",
   "updatedAt": "2026-10-08",
-  "releaseNotes": "박준성 포수 실전 도루 저지 4개(저지율 36.4%) 및 실전 영상 기반 기록 이중 체크 시스템 탑재"
+  "releaseNotes": "기록지 주루사 전수 조사 및 실전 영상 1:1 대조 고정 표준 파이프라인 구축, 박준성 개막전 포함 도루 저지 5개 공인"
 }
