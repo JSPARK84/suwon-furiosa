@@ -1,8 +1,8 @@
 {
-  "version_code": 16,
-  "versionCode": 16,
-  "version_name": "1.1.6",
-  "versionName": "1.1.6",
+  "version_code": 17,
+  "versionCode": 17,
+  "version_name": "1.1.7",
+  "versionName": "1.1.7",
   "force_update": false,
   "min_supported_version": 1,
   "release_date": "2026-10-08",
@@ -12,16 +12,16 @@
   "play_store_url": "market://details?id=com.furiosa.suwon_furiosa",
   "play_store_web_url": "https://play.google.com/store/apps/details?id=com.furiosa.suwon_furiosa",
   "download_url": "https://drive.google.com/uc?export=download&id=11ky6ermZAGbEjAfyK7c7ghw-3jjG2d8o",
-  "github_fallback_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.1.6/suwon_furiosa.apk",
-  "notice": "수원 퓨리오사 v1.1.6 우리 팀 포수 안방 수비 & 피도루 허용 분석 업데이트",
+  "github_fallback_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.1.7/suwon_furiosa.apk",
+  "notice": "수원 퓨리오사 v1.1.7 📹 실전 영상 기록 이중 체크(Video Double-Check) & 포수 팩트 데이터 정정 업데이트",
   "features": [
-    "우리 팀 포수진(#88 황재민, #13 박준성 등) 경기당 평균 도루 허용(피도루) 및 도루 저지율(CS%) 기록 탑재",
-    "선수 상세 정보 모달에 🧤 포수 안방 수비 & 피도루/도루 저지 분석 카드 신설",
-    "팀 전력분석실에 🧤 퓨리오사 안방 포수진 & 피도루 방어력 분석 카드 탑재",
-    "상대팀 경기당 도루 허용 및 ⚡ 주루 & 기동력 맞춤 승리 가이드 제공",
-    "상대팀 전력 분석 전체 화면(Full Page) 지원 및 갤러리('수원퓨리오사' 앨범) 직통 저장"
+    "📹 유니크플레이 실전 경기 영상(26편) 기반 기록원 기록 1:1 교차 검증 시스템 탑재",
+    "🧤 황재민 선수 실전 팩트 반영: 도루 저지 0회 정정(런다운/주루사 오기 바로잡기) 및 원바운드 블로킹·투수 리드형 안방 분석",
+    "🔍 박스스코어 모달에 1차 기록원 기록 vs 2차 실전 영상 판독 vs 정정 조치 상세 타임스탬프 카드 탑재",
+    "🔄 경기 도중 포수 교체(박준성/박기웅 대수비) 시점별 피도루 분리 귀속 및 투수 폭투 진루 정상 정정",
+    "🛡️ 팀 전력분석실 & 선수 상세 정보에 실전 영상 이중 검증(Video Double-Check) 보증 뱃지 탑재"
   ],
   "version_check_url": "https://raw.githubusercontent.com/JSPARK84/suwon-furiosa/main/version.json",
   "updatedAt": "2026-10-08",
-  "releaseNotes": "우리 팀 포수진 경기당 평균 피도루 및 도루 저지율, 안방 방어력 분석 카드 탑재"
+  "releaseNotes": "실전 영상 기반 기록 이중 체크 시스템 및 황재민 포수 실전 팩트(도루저지 0회 정정, 블로킹 집중) 반영"
 }
