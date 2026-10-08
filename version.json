@@ -1,8 +1,8 @@
 {
-  "version_code": 26,
-  "versionCode": 26,
-  "version_name": "1.2.6",
-  "versionName": "1.2.6",
+  "version_code": 27,
+  "versionCode": 27,
+  "version_name": "1.2.7",
+  "versionName": "1.2.7",
   "force_update": false,
   "min_supported_version": 1,
   "release_date": "2026-10-09",
@@ -11,11 +11,11 @@
   "drive_folder_url": "https://drive.google.com/drive/folders/11ky6ermZAGbEjAfyK7c7ghw-3jjG2d8o",
   "play_store_url": "market://details?id=com.furiosa.suwon_furiosa",
   "play_store_web_url": "https://play.google.com/store/apps/details?id=com.furiosa.suwon_furiosa",
-  "download_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.2.6/suwon_furiosa.apk",
-  "github_fallback_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.2.6/suwon_furiosa.apk",
-  "notice": "수원 퓨리오사 v1.2.6 🎯 박준성 9-3 우땅 외야 보살 05.10 DoubleB전(신금수 타석) 공식 기록지 팩트 정정 반영!",
+  "download_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.2.7/suwon_furiosa.apk",
+  "github_fallback_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.2.7/suwon_furiosa.apk",
+  "notice": "수원 퓨리오사 v1.2.7 🎯 박준성 9-3 우땅 외야 보살 05.10 DoubleB전(36:26 풀영상 딥링크) 팩트 탑재 완료!",
   "features": [
-    "🧤 박준성 외야 수비 보살: 05.10 DoubleB전 3번 우익수 선발 출전, 2회 상대 7번 신금수 타구 9-3 우땅 아웃 공식 기록지 팩트 일치 반영 (영건즈전 ➔ 더블비전 정정)",
+    "🧤 박준성 외야 수비 보살: 05.10 DoubleB전 3번 우익수 선발 출전, 2회 상대 7번 신금수 타구 9-3 우땅 아웃 (유니크플레이 풀영상 36:26 타석 및 호수비 100% 공인)",
     "🎯 08.23 Luminous전 박준성 포수 공식 1호 도루 저지 공인 (상대 8번 황규하 2루 도루 저지, 유니크플레이 20:46 투수 키킹 & 20:53 아웃 100% 공인)",
     "🎯 06.07 Team-JSB전 황재민 포수 공식 1호 도루 저지 공인 (상대 6번 이상훈 2루 도루 저지, 풀영상 22:22 공인)",
     "🛡️ 전 시즌 공식 박스스코어 전수 조사: 왕코끼리(미출전)·Kairos(주루사)·어중이떠중이(주루사) 등 오인 기록 완벽 정정",
@@ -24,5 +24,5 @@
   ],
   "version_check_url": "https://raw.githubusercontent.com/JSPARK84/suwon-furiosa/main/version.json",
   "updatedAt": "2026-10-09",
-  "releaseNotes": "박준성 외야 9-3 우땅 수비 보살 05.10 DoubleB전 정정 반영, 박준성 08.23 Luminous 도루저지 및 황재민 06.07 JSB 도루저지 공인 팩트 확정"
+  "releaseNotes": "박준성 05.10 DoubleB전 9-3 우땅 외야 보살(36:26 영상 딥링크) 탑재, 박준성 08.23 Luminous 도루저지(20:46) 및 황재민 06.07 JSB 도루저지(22:22) 공인 팩트 확정"
 }
