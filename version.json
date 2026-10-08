@@ -1,8 +1,8 @@
 {
-  "version_code": 22,
-  "versionCode": 22,
-  "version_name": "1.2.2",
-  "versionName": "1.2.2",
+  "version_code": 23,
+  "versionCode": 23,
+  "version_name": "1.2.3",
+  "versionName": "1.2.3",
   "force_update": false,
   "min_supported_version": 1,
   "release_date": "2026-10-08",
@@ -11,16 +11,17 @@
   "drive_folder_url": "https://drive.google.com/drive/folders/11ky6ermZAGbEjAfyK7c7ghw-3jjG2d8o",
   "play_store_url": "market://details?id=com.furiosa.suwon_furiosa",
   "play_store_web_url": "https://play.google.com/store/apps/details?id=com.furiosa.suwon_furiosa",
-  "download_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.2.2/suwon_furiosa.apk",
-  "github_fallback_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.2.2/suwon_furiosa.apk",
-  "notice": "수원 퓨리오사 v1.2.2 🎯 박준성 도루저지 투구 시작 정밀 싱크 & 9-3 우익수 앞 땅볼(우땅) 호수비 탑재",
+  "download_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.2.3/suwon_furiosa.apk",
+  "github_fallback_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.2.3/suwon_furiosa.apk",
+  "notice": "수원 퓨리오사 v1.2.3 ⚡ GameOne 공인 실전 상대팀(썬더볼츠·Triumph·DoubleB·그린비·비야구단) 100% 팩트 전력분석 전면 정정",
   "features": [
-    "🎯 박준성 포수 2루 도루 저지 실전 영상 타임스탬프 전면 재동기화 (투수 세트포지션 키킹 개시 시점 1초 단위 정밀 일치)",
-    "⚾ 03.01 어중이떠중이전(18:14), 03.29 왕코끼리전(17:06), 09.06 The Shouting전(37:43), 10.04 비야구단전(31:11) 정밀 싱크",
-    "🧤 박준성 07.12 YoungGunz전 7번 우익수 선발 출전 및 9-3 우익수 앞 땅볼(우땅) 호수비 실전 히스토리 공식 탑재",
-    "🛡️ 10.04 비야구단전 박준성 선발 포수 완투 출장 및 쐐기 도루 저지 공식 기록 정정 반영"
+    "⚡ 썬더볼츠(차기 맞대결 10.11): GameOne 공인 실전 로스터 전면 교체 (김동규 #29 포수/타율 .565, 이장비 #15 유격수/12도루, 정민규 #51, 김진세 #1, 남기택 #22 실명·실제기록 매칭)",
+    "🎯 Triumph Baseball Club: 퓨리오사전(19:8 승) 및 썬더볼츠전 실전 기반 공인 선수(김경욱 #31, 조대연 #29, 박창환 #15, 최성락 #9) 전력분석 및 11도루 허용 취약점 공략",
+    "🔥 DoubleB: 퓨리오사전(6:10) 실전 기반 4번 거포 이재원(#58/홈런), 이동현(#51/3도루), 한규진(#12), 이준호(#2) 100% 실명·기록 동기화",
+    "🛡️ 그린비야구단 & 비야구단: 한용철(#77 선발/ERA 5.04), 정성진(#17 포수/타율 .625), 양승훈(#2), 임승민(#47), 이준형(#19) 등 공인 박스스코어 100% 일치",
+    "📱 상대팀 분석 및 스코어보드 UI 모바일 오버플로우 방지 FittedBox 적응형 레이아웃 적용"
   ],
   "version_check_url": "https://raw.githubusercontent.com/JSPARK84/suwon-furiosa/main/version.json",
   "updatedAt": "2026-10-08",
-  "releaseNotes": "박준성 포수 도루 저지 영상 투구 시작점 정밀 싱크, 9-3 우땅 호수비 히스토리 탑재 및 비야구단전 선발 완투 정정"
+  "releaseNotes": "GameOne 공인 상대팀(썬더볼츠·Triumph·DoubleB·그린비·비야구단) 100% 실전 팩트 데이터 전면 정정 및 UI 오버플로우 최적화"
 }
