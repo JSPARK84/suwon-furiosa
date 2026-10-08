@@ -1,8 +1,8 @@
 {
-  "version_code": 27,
-  "versionCode": 27,
-  "version_name": "1.2.7",
-  "versionName": "1.2.7",
+  "version_code": 28,
+  "versionCode": 28,
+  "version_name": "1.2.8",
+  "versionName": "1.2.8",
   "force_update": false,
   "min_supported_version": 1,
   "release_date": "2026-10-09",
@@ -11,10 +11,13 @@
   "drive_folder_url": "https://drive.google.com/drive/folders/11ky6ermZAGbEjAfyK7c7ghw-3jjG2d8o",
   "play_store_url": "market://details?id=com.furiosa.suwon_furiosa",
   "play_store_web_url": "https://play.google.com/store/apps/details?id=com.furiosa.suwon_furiosa",
-  "download_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.2.7/suwon_furiosa.apk",
-  "github_fallback_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.2.7/suwon_furiosa.apk",
-  "notice": "수원 퓨리오사 v1.2.7 🎯 박준성 9-3 우땅 외야 보살 05.10 DoubleB전(36:26 풀영상 딥링크) 팩트 탑재 완료!",
+  "download_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.2.8/suwon_furiosa.apk",
+  "github_fallback_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.2.8/suwon_furiosa.apk",
+  "notice": "수원 퓨리오사 v1.2.8 ⚾ 어플 자체 공식 런처 아이콘(정통 삼성 라이온즈 블루 #074CA1 & 화이트 F) 전면 탑재 완료!",
   "features": [
+    "🎨 어플 자체 런처 아이콘 전면 교체: 정통 삼성 라이온즈 블루(#074CA1) 배경에 볼드 화이트 'F' 심볼 탑재",
+    "📱 Android Adaptive Icon(Android 8.0~15+) 완벽 대응: One UI(갤럭시)·Pixel 맞춤형 안전 영역(Safe-zone) 정밀 조정",
+    "🔵 Legacy Icon & Round Icon 동시 지원: 홈 화면 및 서랍, 설정, 알림 등 모든 화면에서 일관된 정통 파란색 F 엠블럼 표출",
     "🧤 박준성 외야 수비 보살: 05.10 DoubleB전 3번 우익수 선발 출전, 2회 상대 7번 신금수 타구 9-3 우땅 아웃 (유니크플레이 풀영상 36:26 타석 및 호수비 100% 공인)",
     "🎯 08.23 Luminous전 박준성 포수 공식 1호 도루 저지 공인 (상대 8번 황규하 2루 도루 저지, 유니크플레이 20:46 투수 키킹 & 20:53 아웃 100% 공인)",
     "🎯 06.07 Team-JSB전 황재민 포수 공식 1호 도루 저지 공인 (상대 6번 이상훈 2루 도루 저지, 풀영상 22:22 공인)",
@@ -24,5 +27,5 @@
   ],
   "version_check_url": "https://raw.githubusercontent.com/JSPARK84/suwon-furiosa/main/version.json",
   "updatedAt": "2026-10-09",
-  "releaseNotes": "박준성 05.10 DoubleB전 9-3 우땅 외야 보살(36:26 영상 딥링크) 탑재, 박준성 08.23 Luminous 도루저지(20:46) 및 황재민 06.07 JSB 도루저지(22:22) 공인 팩트 확정"
+  "releaseNotes": "어플 자체 공식 런처 아이콘(삼성 라이온즈 블루 #074CA1 & 화이트 F) 전면 탑재, 박준성 05.10 DoubleB전 9-3 우땅 외야 보살(36:26 영상 딥링크) 탑재, 박준성 08.23 Luminous 도루저지(20:46) 및 황재민 06.07 JSB 도루저지(22:22) 공인 팩트 확정"
 }
