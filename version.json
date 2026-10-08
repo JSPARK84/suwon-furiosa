@@ -1,8 +1,8 @@
 {
-  "version_code": 21,
-  "versionCode": 21,
-  "version_name": "1.2.1",
-  "versionName": "1.2.1",
+  "version_code": 22,
+  "versionCode": 22,
+  "version_name": "1.2.2",
+  "versionName": "1.2.2",
   "force_update": false,
   "min_supported_version": 1,
   "release_date": "2026-10-08",
@@ -11,17 +11,16 @@
   "drive_folder_url": "https://drive.google.com/drive/folders/11ky6ermZAGbEjAfyK7c7ghw-3jjG2d8o",
   "play_store_url": "market://details?id=com.furiosa.suwon_furiosa",
   "play_store_web_url": "https://play.google.com/store/apps/details?id=com.furiosa.suwon_furiosa",
-  "download_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.2.1/suwon_furiosa.apk",
-  "github_fallback_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.2.1/suwon_furiosa.apk",
-  "notice": "수원 퓨리오사 v1.2.1 💥 홍영재 홈런 히스토리 탑재 & 인앱 바이너리 직다운로드 엔진 완벽 안정화",
+  "download_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.2.2/suwon_furiosa.apk",
+  "github_fallback_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.2.2/suwon_furiosa.apk",
+  "notice": "수원 퓨리오사 v1.2.2 🎯 박준성 도루저지 투구 시작 정밀 싱크 & 9-3 우익수 앞 땅볼(우땅) 호수비 탑재",
   "features": [
-    "⚡ 인앱 다운로드 엔진 안정화: 구글 드라이브 100MB 초과 웹페이지 파싱 오류 원천 차단 및 순수 APK 바이너리 직다운로드 지원",
-    "💥 홍영재(#17) 정규리그 1호 솔로 홈런(06.07 Team-JSB전 좌월 대형포) 실전 검증 히스토리 공식 탑재",
-    "⚾ 홍영재 선발 마운드 5이닝 호투 & 타석 1루 전력 질주 세이프 투타 겸업 멀티 히스토리 등록",
-    "💥 김재웅(#34) 정규리그 1호 좌월 2점 홈런(09.20 Triumph전) 실전 히스토리 등록",
-    "🎨 타격 기록 카드 내 홈런(HR) 수치 강렬한 레드 하이라이트 표시 및 레이아웃 오버플로우 방지 최적화"
+    "🎯 박준성 포수 2루 도루 저지 실전 영상 타임스탬프 전면 재동기화 (투수 세트포지션 키킹 개시 시점 1초 단위 정밀 일치)",
+    "⚾ 03.01 어중이떠중이전(18:14), 03.29 왕코끼리전(17:06), 09.06 The Shouting전(37:43), 10.04 비야구단전(31:11) 정밀 싱크",
+    "🧤 박준성 07.12 YoungGunz전 7번 우익수 선발 출전 및 9-3 우익수 앞 땅볼(우땅) 호수비 실전 히스토리 공식 탑재",
+    "🛡️ 10.04 비야구단전 박준성 선발 포수 완투 출장 및 쐐기 도루 저지 공식 기록 정정 반영"
   ],
   "version_check_url": "https://raw.githubusercontent.com/JSPARK84/suwon-furiosa/main/version.json",
   "updatedAt": "2026-10-08",
-  "releaseNotes": "인앱 APK 바이너리 다운로드 엔진 안정화, 홍영재 1호 솔로 홈런 실전 검증 히스토리 탑재"
+  "releaseNotes": "박준성 포수 도루 저지 영상 투구 시작점 정밀 싱크, 9-3 우땅 호수비 히스토리 탑재 및 비야구단전 선발 완투 정정"
 }
