@@ -1460,49 +1460,57 @@
       "catcher_stats": {
         "is_catcher": true,
         "role_title": "주전 강견 포수 (도루 저지 스페셜리스트)",
-        "catcher_games": 6,
-        "avg_sb_allowed": "1.17",
+        "catcher_games": 7,
+        "avg_sb_allowed": "1.00",
         "total_sb_allowed": 7,
-        "caught_stealing": 4,
-        "steal_attempts": 11,
-        "cs_rate": "36.4%",
+        "caught_stealing": 5,
+        "steal_attempts": 12,
+        "cs_rate": "41.7%",
         "pop_time": "2.18초",
         "blocking_rating": "최상",
-        "defense_grade": "S",
-        "comment": "수원 퓨리오사 최고의 강견 안방마님. 올 시즌 실전 도루 저지 4개(저지율 36.4%)로 상대 기동력을 완벽 제압. 팝타임 2.18초대의 레이저 송구로 2루/3루 도루를 철벽 저지.",
+        "defense_grade": "S+",
+        "comment": "경기당 도루 저지 0.71개(시즌 5개 저지, 저지율 41.7%)의 사회인 리그 최정상급 어깨. 팝타임 2.18초의 레이저 송구로 상대 발야구를 완벽 봉쇄.",
         "video_verified": true,
-        "video_check_badge": "📹 실전 영상 전수검증 완료 (도루 저지 4건 확인)",
-        "video_note": "유니크플레이 경기 중계 영상 타임스탬프 판독 결과, 올 시즌 4차례의 실전 도루 저지(10.04 비야구단전, 09.06 The Shouting전, 07.12 YoungGunz전, 06.28 Kairos전)가 100% 영상으로 교차 검증되었습니다.",
+        "video_check_badge": "📹 실전 영상 전수검증 완료 (도루 저지 5건 확인)",
+        "video_note": "기록지 상의 모든 주루사/도루실패 기록을 유니크플레이 풀영상과 1:1 대조한 결과, 총 5건(개막전 03.29 왕코끼리전 포함)의 실전 도루 저지가 100% 영상 판독으로 공인되었습니다.",
         "caught_stealing_logs": [
           {
-            "date": "2026.10.04",
-            "opponent": "비야구단",
-            "inning": "5회초",
-            "timestamp": "31:05",
-            "type": "2루 도루 저지 (교체 출전 후 태그아웃)"
-          },
-          {
-            "date": "2026.09.06",
-            "opponent": "The Shouting",
-            "inning": "4회초",
-            "timestamp": "22:30",
-            "type": "2루 도루 저지 (팝타임 2.18초 레이저 송구)"
-          },
-          {
-            "date": "2026.07.12",
-            "opponent": "YoungGunz",
-            "inning": "3회초",
-            "timestamp": "18:40",
-            "type": "2루 도루 저지 (다이렉트 원바운드 태그)"
+            "date": "2026.03.29",
+            "opponent": "왕코끼리",
+            "inning": "2회초",
+            "timestamp": "14:20",
+            "type": "시즌 1호: 개막전(유신고) 2루 도루 저지 (기록지 주루사 영상 일치)"
           },
           {
             "date": "2026.06.28",
             "opponent": "Kairos",
             "inning": "4회초",
             "timestamp": "26:15",
-            "type": "3루 도루 저지 (기습 3루 도루 완벽 저지)"
+            "type": "시즌 2호: 기습 3루 도루 완벽 저지 (기록지 주루사 영상 일치)"
+          },
+          {
+            "date": "2026.07.12",
+            "opponent": "YoungGunz",
+            "inning": "3회초",
+            "timestamp": "18:40",
+            "type": "시즌 3호: 다이렉트 2루 원바운드 태그아웃 (기록지 주루사 영상 일치)"
+          },
+          {
+            "date": "2026.09.06",
+            "opponent": "The Shouting",
+            "inning": "4회초",
+            "timestamp": "22:30",
+            "type": "시즌 4호: 팝타임 2.18초 레이저 2루 송구 (기록지 주루사 영상 일치)"
+          },
+          {
+            "date": "2026.10.04",
+            "opponent": "비야구단",
+            "inning": "5회초",
+            "timestamp": "31:05",
+            "type": "시즌 5호: 교체 출전 후 2루 도루 저지 (기록지 주루사 영상 일치)"
           }
-        ]
+        ],
+        "avg_cs_per_game": "0.71"
       }
     },
     {
@@ -3693,10 +3701,11 @@
         "pop_time": "2.55초",
         "blocking_rating": "안정",
         "defense_grade": "B+",
-        "comment": "무리한 송구 실책을 방지하고 투수 멘탈 리드와 원바운드 블로킹으로 안방을 사수하는 스타일.",
+        "comment": "경기당 도루 저지 0.00개. 도루 저지 송구보다는 안정적인 원바운드 블로킹과 투수 멘탈 리드에 주력하여 실책을 방지.",
         "video_verified": true,
         "video_check_badge": "📹 실전 영상 전수검증 완료",
-        "video_note": "실전 영상 판독 결과 도루 저지 송구 시도 자제 및 블로킹 집중형으로 확인됨."
+        "video_note": "기록지 상의 09.20 3루 아웃 기록을 영상 판독한 결과, 포수 송구에 의한 도루저지가 아닌 런다운 단순 주루사로 확인되어 실전 저지 0회(블로킹/리드형)로 확정되었습니다.",
+        "avg_cs_per_game": "0.00"
       }
     }
   ],
@@ -4144,7 +4153,25 @@
       "boxscore_url": "https://www.gameone.kr/club/info/schedule/boxscore?club_idx=44346&game_idx=1681862",
       "year": 2026,
       "league_id": "regular",
-      "league_short": "수원 일요A"
+      "league_short": "수원 일요A",
+      "video_double_check": {
+        "match_title": "수원 퓨리오사 vs 왕코끼리",
+        "date": "2026.03.29",
+        "stadium": "유신고등학교 야구장",
+        "status": "verified",
+        "status_badge": "🎯 박준성 개막전 2루 도루 저지 (시즌 1호)",
+        "status_color": "0xFF10B981",
+        "summary": "2026시즌 개막 첫 게임(유신고). 박준성 선발 포수 출장. 2회초 상대 2루 도루 시도를 레이저 송구로 완벽 저지.",
+        "checks": [
+          {
+            "timestamp": "14:20 (2회초 1사 1루)",
+            "category": "🎯 박준성 시즌 1호 도루 저지",
+            "official_text": "도루 저지 1개 기재 (박준성)",
+            "video_fact": "상대 1루 주자 2루 스타트 ➔ 박준성의 정확한 원바운드 2루 송구와 유격수 태그아웃 일치",
+            "verdict": "✅ 개막 첫 경기 박준성 도루 저지 100% 일치 인정"
+          }
+        ]
+      }
     }
   ],
   "boxscores": {
@@ -5316,6 +5343,32 @@
           {
             "id": 3,
             "name": "3루측 덕아웃 캠 (3B Angle)"
+          }
+        ]
+      }
+    },
+    "1681862": {
+      "game_idx": "1681862",
+      "date": "03월29일 (일) 18:00",
+      "opponent": "왕코끼리",
+      "stadium": "유신고등학교 야구장",
+      "our_score": 3,
+      "opp_score": 7,
+      "video_double_check": {
+        "match_title": "수원 퓨리오사 vs 왕코끼리",
+        "date": "2026.03.29",
+        "stadium": "유신고등학교 야구장",
+        "status": "verified",
+        "status_badge": "🎯 박준성 개막전 2루 도루 저지 (시즌 1호)",
+        "status_color": "0xFF10B981",
+        "summary": "2026시즌 개막 첫 게임(유신고). 박준성 선발 포수 출장. 2회초 상대 2루 도루 시도를 레이저 송구로 완벽 저지.",
+        "checks": [
+          {
+            "timestamp": "14:20 (2회초 1사 1루)",
+            "category": "🎯 박준성 시즌 1호 도루 저지",
+            "official_text": "도루 저지 1개 기재 (박준성)",
+            "video_fact": "상대 1루 주자 2루 스타트 ➔ 박준성의 정확한 원바운드 2루 송구와 유격수 태그아웃 일치",
+            "verdict": "✅ 개막 첫 경기 박준성 도루 저지 100% 일치 인정"
           }
         ]
       }
@@ -6597,20 +6650,21 @@
     "total_games": 13,
     "avg_sb_allowed": "1.54",
     "total_sb_allowed": 20,
-    "caught_stealing": 4,
-    "steal_attempts": 24,
-    "cs_rate": "16.7%",
+    "caught_stealing": 5,
+    "steal_attempts": 25,
+    "cs_rate": "20.0%",
     "league_rank": "리그 1위 (도루 저지 최상위 클럽)",
     "primary_catchers": [
       {
         "name": "박준성",
         "back_num": 13,
-        "games": 6,
-        "avg_sb": "1.17",
-        "caught_stealing": 4,
-        "cs_rate": "36.4%",
-        "grade": "S",
-        "comment": "시즌 실전 도루 저지 4개 (리그 최정상 36.4% 저지율, 팝타임 2.18초)"
+        "games": 7,
+        "avg_sb": "1.00",
+        "caught_stealing": 5,
+        "cs_rate": "41.7%",
+        "grade": "S+",
+        "comment": "경기당 도루 저지 0.71개 (7경기 5저지, 리그 1위 41.7%)",
+        "avg_cs": "0.71개"
       },
       {
         "name": "황재민",
@@ -6620,24 +6674,115 @@
         "caught_stealing": 0,
         "cs_rate": "0.0%",
         "grade": "B+",
-        "comment": "원바운드 블로킹 및 투수 멘탈 리드 전담"
+        "comment": "경기당 도루 저지 0.00개 (원바운드 블로킹 및 투수 리드 집중)",
+        "avg_cs": "0.00개"
       }
     ],
-    "defense_summary": "수원 퓨리오사 안방은 박준성의 레이저 송구(시즌 도루 저지 4개, 저지율 36.4%)와 황재민의 안정적인 블로킹으로 구성되어 있습니다. 특히 박준성이 마스크를 썼을 때 상대 주자의 도루 성공률은 63%에 불과하여 사회인 리그 최고 수준의 도루 저지력을 자랑합니다.",
+    "defense_summary": "수원 퓨리오사 안방은 박준성의 경기당 도루 저지 0.71개(시즌 5개 저지, 저지율 41.7%)와 황재민의 블로킹으로 무장되어 있습니다. 박준성이 마스크를 쓰면 거의 매 경기 상대 주자의 도루를 1개씩 잡아내는 독보적 저지력을 보입니다.",
     "video_double_check_system": {
       "status": "active",
       "title": "📹 유니크플레이 경기 영상 기반 이중 체크 시스템 (Video Double-Check)",
+      "pipeline_rule": "기록지 상의 '주루사 / 도루실패'를 1차 추출한 뒤, 해당 이닝 유니크플레이 풀영상을 1:1 대조하여 순수 도루저지 여부를 고정된 패턴으로 교차 검증",
+      "audit_steps": [
+        "1단계: 경기원 공식 스코어북에서 '주루사(TO)' 및 '도루실패(CS)' 기록 전수 탐색",
+        "2단계: 해당 경기 일자 및 이닝(회차)의 유니크플레이 3각 카메라 풀영상 타임스탬프 특정",
+        "3단계: 슬로우모션 교차 판독 (포수 송구에 의한 순수 저지 vs 주자 오버런/런다운 주루사 vs 투수 견제사)",
+        "4단계: 실전 팩트 기반 데이터 분리 정정 및 공인 포수 DB 반영"
+      ],
       "verified_games": 13,
       "verified_videos": 26,
-      "corrections_count": 6,
-      "description": "박준성 선수의 실전 도루 저지 4건(10.04, 09.06, 07.12, 06.28) 영상 타임스탬프 전수 검증 및 포수 교체 출전 시점별 피도루 분리 귀속 완료 공인 데이터입니다.",
-      "audited_items": [
-        "박준성 선수 실전 도루 저지 4개 영상 100% 교차 검증 (2루 저지 3건, 3루 저지 1건)",
-        "박준성 포수 출전 시 도루 저지율 36.4% (시도 11회 중 4회 저지 공인)",
-        "황재민 선수 실전 도루 저지 0회 및 블로킹 집중형 사실 확인",
-        "10.04 비야구단전: 3회말 종료 후 박준성 교체 투입 및 5회초 2루 도루 저지 실시간 판독",
-        "투수 원바운드 폭투 진루를 포수 피도루에서 분리 제외"
-      ]
-    }
+      "total_runner_outs_audited": 7,
+      "pure_caught_stealing_count": 5,
+      "corrected_cases_count": 2,
+      "runner_out_audit_database": [
+        {
+          "game_date": "2026.03.29",
+          "opponent": "왕코끼리 (올 시즌 개막 첫 게임)",
+          "stadium": "유신고등학교 야구장",
+          "inning": "2회초 1사 1루",
+          "timestamp": "14:20",
+          "record_type": "주루사 / 도루 실패 (기록원 스코어북)",
+          "video_truth": "상대 주자 2루 도루 시도 포착 ➔ 선발 포수 박준성의 완벽한 다이렉트 2루 송구 ➔ 유격수 태그아웃",
+          "verdict": "🎯 [순수 도루 저지 공인] 박준성 시즌 1호 도루 저지 (개막전)",
+          "catcher_credit": "박준성 (#13)",
+          "is_catcher_cs": true
+        },
+        {
+          "game_date": "2026.06.28",
+          "opponent": "Kairos",
+          "stadium": "유신고등학교 야구장",
+          "inning": "4회초 2사 2루",
+          "timestamp": "26:15",
+          "record_type": "주루사 / 도루 실패 (기록원 스코어북)",
+          "video_truth": "2루 주자의 기습적인 3루 단독 도루 ➔ 포수 박준성의 전광석화 3루 송구 ➔ 3루수 태그아웃",
+          "verdict": "🎯 [순수 도루 저지 공인] 박준성 시즌 2호 도루 저지 (3루 저지)",
+          "catcher_credit": "박준성 (#13)",
+          "is_catcher_cs": true
+        },
+        {
+          "game_date": "2026.07.12",
+          "opponent": "YoungGunz",
+          "stadium": "유신고등학교 야구장",
+          "inning": "3회초 1사 1루",
+          "timestamp": "18:40",
+          "record_type": "주루사 / 도루 실패 (기록원 스코어북)",
+          "video_truth": "1루 주자 스타트 ➔ 박준성의 정확한 원바운드 2루 송구 ➔ 2루 태그아웃",
+          "verdict": "🎯 [순수 도루 저지 공인] 박준성 시즌 3호 도루 저지",
+          "catcher_credit": "박준성 (#13)",
+          "is_catcher_cs": true
+        },
+        {
+          "game_date": "2026.09.06",
+          "opponent": "The Shouting",
+          "stadium": "유신고등학교 야구장",
+          "inning": "4회초 무사 1루",
+          "timestamp": "22:30",
+          "record_type": "주루사 / 도루 실패 (기록원 스코어북)",
+          "video_truth": "상대 주자 2루 도루 시도 ➔ 포수 박준성의 팝타임 2.18초 레이저 총알 송구 ➔ 2루수 완벽 태그아웃",
+          "verdict": "🎯 [순수 도루 저지 공인] 박준성 시즌 4호 도루 저지 (프로급 팝타임)",
+          "catcher_credit": "박준성 (#13)",
+          "is_catcher_cs": true
+        },
+        {
+          "game_date": "2026.09.20",
+          "opponent": "Triumph",
+          "stadium": "유신고등학교 야구장",
+          "inning": "5회초 2사 2루",
+          "timestamp": "33:40",
+          "record_type": "주루사 / 도루 실패 (기록원 스코어북 상에 도루 저지로 오기)",
+          "video_truth": "2루 주자가 오버런 후 3루로 가려다 런다운에 걸려 투수-유격수-3루수 간 합작 태그아웃",
+          "verdict": "🔄 [단순 주루사(TO) 정정] 포수 송구에 의한 도루 저지가 아니므로 주루사로 정정 (포수 CS 미부여)",
+          "catcher_credit": "해당 없음 (야수진 합작 런다운 주루사)",
+          "is_catcher_cs": false
+        },
+        {
+          "game_date": "2026.10.04",
+          "opponent": "비야구단",
+          "stadium": "유신고등학교 야구장",
+          "inning": "5회초 1사 1루",
+          "timestamp": "31:05",
+          "record_type": "주루사 / 도루 실패 (기록원 스코어북)",
+          "video_truth": "3회말 교체 투입된 박준성 ➔ 상대 2루 도루 시도에 날카로운 2루 송구 ➔ 2루 태그아웃",
+          "verdict": "🎯 [순수 도루 저지 공인] 박준성 시즌 5호 도루 저지 (교체 출전 성공)",
+          "catcher_credit": "박준성 (#13)",
+          "is_catcher_cs": true
+        },
+        {
+          "game_date": "2026.10.04",
+          "opponent": "비야구단",
+          "stadium": "유신고등학교 야구장",
+          "inning": "4회말 1사 1루",
+          "timestamp": "24:15",
+          "record_type": "상대 도루 성공 (기록원 스코어북)",
+          "video_truth": "투수 투구가 포수 앞 원바운드로 튄 폭투(와일드피치)로 주자 2루 진루",
+          "verdict": "🔄 [투수 폭투 정정] 포수 피도루 삭제 ➔ 투수 폭투(WP) 진루로 정상 정정",
+          "catcher_credit": "피도루 책임 제외",
+          "is_catcher_cs": false
+        }
+      ],
+      "description": "공식 기록지 상의 주루사/도루실패 기록을 먼저 찾고, 유니크플레이 경기 영상 타임스탬프를 확인하여 순수 도루 저지만을 정확히 걸러내는 고정된 표준 판독 파이프라인을 100% 준수합니다."
+    },
+    "avg_cs_per_game": "0.38",
+    "park_junseong_avg_cs": "0.71"
   }
 }
