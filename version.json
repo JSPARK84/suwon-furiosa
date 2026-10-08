@@ -1,8 +1,8 @@
 {
-  "version_code": 14,
-  "versionCode": 14,
-  "version_name": "1.1.4",
-  "versionName": "1.1.4",
+  "version_code": 15,
+  "versionCode": 15,
+  "version_name": "1.1.5",
+  "versionName": "1.1.5",
   "force_update": false,
   "min_supported_version": 1,
   "release_date": "2026-10-08",
@@ -12,17 +12,16 @@
   "play_store_url": "market://details?id=com.furiosa.suwon_furiosa",
   "play_store_web_url": "https://play.google.com/store/apps/details?id=com.furiosa.suwon_furiosa",
   "download_url": "https://drive.google.com/uc?export=download&id=11ky6ermZAGbEjAfyK7c7ghw-3jjG2d8o",
-  "github_fallback_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.1.4/suwon_furiosa.apk",
-  "notice": "수원 퓨리오사 v1.1.4 전력 분석 전체화면 및 인앱 캡처 업데이트",
+  "github_fallback_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.1.5/suwon_furiosa.apk",
+  "notice": "수원 퓨리오사 v1.1.5 상대팀 포수 도루 허용 & 기동력 공략 업데이트",
   "features": [
-    "상대팀 전력 분석 전체 화면(Full Page) 지원으로 시스템 스크롤 캡처 제한 완전 해제",
-    "상대팀 전력 분석 및 주요 선수 라인업 원클릭 전체 캡처 저장(📸) 기능 탑재",
-    "Android FLAG_SECURE 화면 캡처 제한 명시적 해제 적용",
-    "김재웅 타격 임팩트 지점 정중앙 자동 줌인 & 0.32x 초슬로우 모션 탑재",
-    "2026 시즌 전체 13경기 26편 영상(핫클립 및 풀영상) 1:1 전수 매핑",
+    "상대팀 경기당 평균 도루 허용(피도루) 지표 및 포수 안방 전력(도루 저지율, 팝타임) 분석 탑재",
+    "사회인 야구 특화 ⚡ 주루 & 기동력 공략 가이드 (그린라이트 전술) 신설",
+    "상대팀 핵심 주요 선수에 주전 포수 프로필(안방 약점 및 도루 저지율) 카드 추가",
+    "상대팀 전력 분석 전체 화면(Full Page) 지원 및 갤러리('수원퓨리오사' 앨범) 직통 저장",
     "투수 포수 미트 일치 커맨드 점수 & 적중률(%) 지표 제공"
   ],
   "version_check_url": "https://raw.githubusercontent.com/JSPARK84/suwon-furiosa/main/version.json",
   "updatedAt": "2026-10-08",
-  "releaseNotes": "상대팀 전력 분석 전체화면 지원 및 인앱 원클릭 전체 캡처(📸) 기능 탑재, 캡처 제한 해제"
+  "releaseNotes": "상대팀 도루 허용 및 포수 안방 전력 분석, ⚡ 주루 & 기동력 승리 플랜 탑재"
 }
