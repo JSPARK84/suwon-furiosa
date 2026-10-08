@@ -1,22 +1,20 @@
 {
-  "version_code": 11,
-  "versionCode": 11,
-  "version_name": "1.1.1",
-  "versionName": "1.1.1",
-  "force_update": true,
+  "version_code": 8,
+  "versionCode": 8,
+  "version_name": "1.0.8",
+  "versionName": "1.0.8",
+  "force_update": false,
   "min_supported_version": 1,
-  "release_date": "2026-10-08",
-  "download_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.1.1/suwon_furiosa.apk",
+  "release_date": "2026-10-07",
+  "download_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.0.8/suwon_furiosa.apk",
   "drive_web_url": "https://drive.google.com/file/d/11ky6ermZAGbEjAfyK7c7ghw-3jjG2d8o/view?usp=sharing",
-  "notice": "안드로이드 자동 업데이트 패키지 인스톨러(FileProvider) 오류 완전 해결 및 실전 타격 영상 16개 연동",
+  "notice": "수원 퓨리오사 모바일 공식 안정화 버전 (v1.0.8 롤백 복원)",
   "features": [
-    "안드로이드 인앱 자동 설치(FileProvider/filepaths.xml) 권한 충돌 완벽 해결",
-    "김재웅(#34) 등 선수단 16인 실제 유신고 타격 영상 100% 오프라인 에셋 탑재",
-    "더미 영상(바다/새떼) 완전 영구 제거 및 경기별 실전 타격 하이라이트 매핑",
-    "타격 순간 1.85배 다이내믹 클로즈업(Zoom-in) 및 0.5배속 슬로우 모션 연출",
-    "인앱 원클릭 자동 업데이트 및 웹 브라우저/구글드라이브 다이렉트 설치 지원"
+    "2026 공식 타율, OPS, 안타, 홈런, 타점 1:1 완벽 연동",
+    "투수 방어율(ERA), 승-패, 탈삼진, 이닝 지표 연동",
+    "선수단 상단 타율순/등번호순/출전순 빠른 정렬 바",
+    "유니크플레이 공식 경기 영상 연동"
   ],
   "version_check_url": "https://raw.githubusercontent.com/JSPARK84/suwon-furiosa/main/version.json",
-  "updatedAt": "2026-10-08",
-  "releaseNotes": "인앱 자동 업데이트 패키지 인스톨러 권한 충돌 완전 해결 및 선수단 실전 타격 영상 16개 탑재"
+  "updatedAt": "2026-10-07"
 }
