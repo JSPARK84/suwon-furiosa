@@ -1,15 +1,16 @@
 {
-  "version_code": 10,
-  "versionCode": 10,
-  "version_name": "1.1.0",
-  "versionName": "1.1.0",
+  "version_code": 11,
+  "versionCode": 11,
+  "version_name": "1.1.1",
+  "versionName": "1.1.1",
   "force_update": true,
   "min_supported_version": 1,
   "release_date": "2026-10-08",
-  "download_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.1.0/suwon_furiosa.apk",
+  "download_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.1.1/suwon_furiosa.apk",
   "drive_web_url": "https://drive.google.com/file/d/11ky6ermZAGbEjAfyK7c7ghw-3jjG2d8o/view?usp=sharing",
-  "notice": "선수단 실전 타격 영상 16개 & 경기 클립 연동 (더미 바다 영상 완전 제거)",
+  "notice": "안드로이드 자동 업데이트 패키지 인스톨러(FileProvider) 오류 완전 해결 및 실전 타격 영상 16개 연동",
   "features": [
+    "안드로이드 인앱 자동 설치(FileProvider/filepaths.xml) 권한 충돌 완벽 해결",
     "김재웅(#34) 등 선수단 16인 실제 유신고 타격 영상 100% 오프라인 에셋 탑재",
     "더미 영상(바다/새떼) 완전 영구 제거 및 경기별 실전 타격 하이라이트 매핑",
     "타격 순간 1.85배 다이내믹 클로즈업(Zoom-in) 및 0.5배속 슬로우 모션 연출",
@@ -17,5 +18,5 @@
   ],
   "version_check_url": "https://raw.githubusercontent.com/JSPARK84/suwon-furiosa/main/version.json",
   "updatedAt": "2026-10-08",
-  "releaseNotes": "선수단 실전 타격 영상 16개 탑재 및 더미 바다 영상 완전 제거, 타격 임팩트 1.85배 자동 슬로우 줌 엔진 탑재"
+  "releaseNotes": "인앱 자동 업데이트 패키지 인스톨러 권한 충돌 완전 해결 및 선수단 실전 타격 영상 16개 탑재"
 }
