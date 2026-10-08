@@ -1,8 +1,8 @@
 {
-  "version_code": 28,
-  "versionCode": 28,
-  "version_name": "1.2.8",
-  "versionName": "1.2.8",
+  "version_code": 29,
+  "versionCode": 29,
+  "version_name": "1.2.9",
+  "versionName": "1.2.9",
   "force_update": false,
   "min_supported_version": 1,
   "release_date": "2026-10-09",
@@ -11,21 +11,17 @@
   "drive_folder_url": "https://drive.google.com/drive/folders/11ky6ermZAGbEjAfyK7c7ghw-3jjG2d8o",
   "play_store_url": "market://details?id=com.furiosa.suwon_furiosa",
   "play_store_web_url": "https://play.google.com/store/apps/details?id=com.furiosa.suwon_furiosa",
-  "download_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.2.8/suwon_furiosa.apk",
-  "github_fallback_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.2.8/suwon_furiosa.apk",
-  "notice": "수원 퓨리오사 v1.2.8 ⚾ 어플 자체 공식 런처 아이콘(정통 삼성 라이온즈 블루 #074CA1 & 화이트 F) 전면 탑재 완료!",
+  "download_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.2.9/suwon_furiosa.apk",
+  "github_fallback_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.2.9/suwon_furiosa.apk",
+  "notice": "수원 퓨리오사 v1.2.9 ⚾ 게임원(GameOne) 공식 2026 리그 순위표(6위) 및 실측 팀 스탯 무결점 동기화 완료!",
   "features": [
-    "🎨 어플 자체 런처 아이콘 전면 교체: 정통 삼성 라이온즈 블루(#074CA1) 배경에 볼드 화이트 'F' 심볼 탑재",
-    "📱 Android Adaptive Icon(Android 8.0~15+) 완벽 대응: One UI(갤럭시)·Pixel 맞춤형 안전 영역(Safe-zone) 정밀 조정",
-    "🔵 Legacy Icon & Round Icon 동시 지원: 홈 화면 및 서랍, 설정, 알림 등 모든 화면에서 일관된 정통 파란색 F 엠블럼 표출",
-    "🧤 박준성 외야 수비 보살: 05.10 DoubleB전 3번 우익수 선발 출전, 2회 상대 7번 신금수 타구 9-3 우땅 아웃 (유니크플레이 풀영상 36:26 타석 및 호수비 100% 공인)",
-    "🎯 08.23 Luminous전 박준성 포수 공식 1호 도루 저지 공인 (상대 8번 황규하 2루 도루 저지, 유니크플레이 20:46 투수 키킹 & 20:53 아웃 100% 공인)",
-    "🎯 06.07 Team-JSB전 황재민 포수 공식 1호 도루 저지 공인 (상대 6번 이상훈 2루 도루 저지, 풀영상 22:22 공인)",
-    "🛡️ 전 시즌 공식 박스스코어 전수 조사: 왕코끼리(미출전)·Kairos(주루사)·어중이떠중이(주루사) 등 오인 기록 완벽 정정",
-    "🛡️ 퓨리오사 팀 안방 도루 저지: 총 2개 (박준성 1개 + 황재민 1개), 팀 도루 저지율 8.7%(경기당 0.15개) 팩트 확정",
-    "⚡ 썬더볼츠·Triumph·DoubleB·그린비야구단·비야구단 GameOne 실전 팩트 전력분석 데이터 완비"
+    "📊 게임원 공식 리그 순위표(13개 팀) 전력분석실 전면 탑재: 1위 왕코끼리부터 13위 Team-JSB까지 공식 순위·승패·승률·승점·승차 실측 연동",
+    "⚾ 수원 퓨리오사 공식 순위 6위(7승 1무 4패, 승점 22점, 승차 2.5) 하이라이트 및 실측 데이터 반영",
+    "🔥 팀 타격/투구 공식 기록 완벽 일치: 팀 타율 .377(107안타, OPS 1.043, 93도루, 127득점), 팀 방어율 8.78(55이닝 52탈삼진 86실점 69자책, 득실마진 +41점)",
+    "🚫 가짜/임의 추정치(이닝별 임의 퍼센트 등) 전면 영구 삭제 및 100% 공인 데이터 기반 렌더링",
+    "📱 기본 대시보드 리그 필터 정규리그(유신 일요A) 우선 표출 및 토너먼트/통합 전적 분리 조회 지원"
   ],
   "version_check_url": "https://raw.githubusercontent.com/JSPARK84/suwon-furiosa/main/version.json",
   "updatedAt": "2026-10-09",
-  "releaseNotes": "어플 자체 공식 런처 아이콘(삼성 라이온즈 블루 #074CA1 & 화이트 F) 전면 탑재, 박준성 05.10 DoubleB전 9-3 우땅 외야 보살(36:26 영상 딥링크) 탑재, 박준성 08.23 Luminous 도루저지(20:46) 및 황재민 06.07 JSB 도루저지(22:22) 공인 팩트 확정"
+  "releaseNotes": "게임원(GameOne) 공식 유신 일요A 정규리그 순위표(퓨리오사 6위, 7승 1무 4패 .636) 전면 탑재, 하드코딩 추정치 완전 박멸, 실측 타율(.377)/방어율(8.78)/득실점(127득점 86실점) 동기화 완료"
 }
