@@ -1,24 +1,23 @@
 {
-  "version_code": 13,
-  "versionCode": 13,
-  "version_name": "1.1.3",
-  "versionName": "1.1.3",
+  "version_code": 14,
+  "versionCode": 14,
+  "version_name": "1.1.4",
+  "versionName": "1.1.4",
   "force_update": false,
   "min_supported_version": 1,
   "release_date": "2026-10-08",
-  "download_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.1.3/suwon_furiosa.apk",
+  "download_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.1.4/suwon_furiosa.apk",
   "drive_web_url": "https://drive.google.com/file/d/11ky6ermZAGbEjAfyK7c7ghw-3jjG2d8o/view?usp=sharing",
-  "notice": "수원 퓨리오사 v1.1.3 자체 자동 업데이트 & 안정화 패치",
+  "notice": "수원 퓨리오사 v1.1.4 전력 분석 전체화면 및 인앱 캡처 업데이트",
   "features": [
-    "앱 내 자체 자동 업데이트 감지 및 설치 로직 완벽 개선 (재설치 루프 원천 해결)",
-    "OTA 고유 캐시 파일명 적용으로 구버전 설치 충돌 방지 및 브라우저 즉시 다운로드 제공",
-    "하단 2단 확장 네비게이션 독 바 (높이 최적화 & 8대 핵심 탭 구성)",
-    "선수단 추천 4대 기능 (기록·랭킹, 구장안내, 팀 전력, 경기준비)",
-    "투수 포수 미트 일치 커맨드 점수 & 적중률(%) 지표 및 랭킹 전면 반영",
-    "일정·결과: 다가올 가장 가까운 경기 상부 배치 및 최근 경기 하부 정렬",
-    "2026시즌 13경기 26편 영상관 및 40~55초 타격·주루 풀클립 탑재"
+    "상대팀 전력 분석 전체 화면(Full Page) 지원으로 시스템 스크롤 캡처 제한 완전 해제",
+    "상대팀 전력 분석 및 주요 선수 라인업 원클릭 전체 캡처 저장(📸) 기능 탑재",
+    "Android FLAG_SECURE 화면 캡처 제한 명시적 해제 적용",
+    "김재웅 타격 임팩트 지점 정중앙 자동 줌인 & 0.32x 초슬로우 모션 탑재",
+    "2026 시즌 전체 13경기 26편 영상(핫클립 및 풀영상) 1:1 전수 매핑",
+    "투수 포수 미트 일치 커맨드 점수 & 적중률(%) 지표 제공"
   ],
   "version_check_url": "https://raw.githubusercontent.com/JSPARK84/suwon-furiosa/main/version.json",
   "updatedAt": "2026-10-08",
-  "releaseNotes": "자체 자동 업데이트 로직 완벽 개선 및 재설치 루프 해결, 하단 2단 독바 및 추천 4대 기능 안정화"
+  "releaseNotes": "상대팀 전력 분석 전체화면 지원 및 인앱 원클릭 전체 캡처(📸) 기능 탑재, 캡처 제한 해제"
 }
