@@ -1487,25 +1487,25 @@
         "pop_time": "2.18초",
         "blocking_rating": "최상",
         "defense_grade": "S+",
-        "comment": "08.23 Luminous전 1회 실전 도루 저지 1개(유니크플레이 20:46 공인)와 05.10 DoubleB전 3번 우익수 출전 9-3 우땅 수비 보살을 기록한 수원 퓨리오사의 핵심 수비 자원.",
+        "comment": "08.23 Luminous전 1회 실전 도루 저지 1개(유니크플레이 20:46 공인)와 05.10 DoubleB전 3번 우익수 출전 9-3 우땅 수비 보살(36:26 영상 공인)을 기록한 수원 퓨리오사의 핵심 수비 자원.",
         "video_verified": true,
         "video_check_badge": "📹 실전 수비 영상 검증 완료 (도루저지 1건 + 우익수 9-3 우땅 수비 1건)",
-        "video_note": "기록지 공식 기록과 유니크플레이 풀영상을 1:1 전수 대조한 결과, 포수 도루저지 1건(08.23 Luminous전 20:46)과 우익수 출전 9-3 우땅 호수비 1건(05.10 DoubleB전 2회 신금수 타석)이 100% 교차 검증되었습니다.",
+        "video_note": "기록지 공식 기록과 유니크플레이 풀영상을 1:1 전수 대조한 결과, 포수 도루저지 1건(08.23 Luminous전 20:46)과 우익수 출전 9-3 우땅 호수비 1건(05.10 DoubleB전 36:26)이 100% 교차 검증되었습니다.",
         "caught_stealing_logs": [
           {
             "date": "2026.05.10",
             "opponent": "DoubleB",
             "inning": "2회말",
-            "timestamp": "2회말",
-            "type": "시즌 1호 외야 보살: 3번 우익수 선발 출전 ➔ 2회 상대 7번 신금수 타구 포구 후 1루 송구 9-3 우익수 앞 땅볼(우땅) 수비 아웃 (공식 기록지 '우땅' 팩트 확인)",
-            "youtube_url": "https://www.youtube.com/watch?v=6_sVI5sJbHY"
+            "timestamp": "36:26",
+            "type": "시즌 1호 외야 보살: 3번 우익수 선발 출전 ➔ 2회 상대 7번 신금수 타구 포구(36:26) 후 1루 송구 9-3 우익수 앞 땅볼(우땅) 수비 아웃 (풀영상 6_sVI5sJbHY 36:26)",
+            "youtube_url": "https://www.youtube.com/watch?v=6_sVI5sJbHY&t=2186s"
           },
           {
             "date": "2026.08.23",
             "opponent": "Luminous",
             "inning": "1회",
             "timestamp": "20:46",
-            "type": "시즌 1호 도루저지: 선발 포수 출전 중 1회 투수 키킹(20:46) ➔ 상대 8번 황규하 2루 도루 시도 완벽 저지 (풀영상 ls06HvUDvW0)",
+            "type": "시즌 1호 도루저지: 선발 포수 출전 중 1회 투수 키킹(20:46) ➔ 상대 8번 황규하 2루 도루 시도 완벽 저지 (풀영상 ls06HvUDvW0 20:46)",
             "youtube_url": "https://www.youtube.com/watch?v=ls06HvUDvW0&t=1246s"
           }
         ]
@@ -1520,10 +1520,10 @@
           "title": "우익수 수비 출전 ➔ 9-3 우익수 앞 땅볼(우땅) 아웃 수비 성공",
           "badge": "9-3 우땅 보살",
           "badge_color": "0xFF3B82F6",
-          "detail": "3번 타자 겸 우익수로 선발 출전하여, 2회 상대 7번 신금수의 우익수 방면 깊은 안타성 타구를 빠르게 포구 후 정확한 1루 강견 송구로 타자 주자를 1루에서 아웃시키는 진기한 9-3 우땅 호수비 달성. (공식 기록지 '우땅' 팩트 확인)",
+          "detail": "3번 타자 겸 우익수로 선발 출전하여, 2회 상대 7번 신금수의 우익수 방면 깊은 안타성 타구(36:26)를 빠르게 포구 후 정확한 1루 강견 송구로 타자 주자를 1루에서 아웃시키는 진기한 9-3 우땅 호수비 달성. (풀영상 36:26 팩트 확인)",
           "youtube_id": "6_sVI5sJbHY",
-          "timestamp": "2회말",
-          "youtube_url": "https://www.youtube.com/watch?v=6_sVI5sJbHY",
+          "timestamp": "36:26",
+          "youtube_url": "https://www.youtube.com/watch?v=6_sVI5sJbHY&t=2186s",
           "stat_effect": "외야 보살 +1 (우익수 수비)"
         },
         {
@@ -4277,18 +4277,19 @@
         "match_title": "수원 퓨리오사 vs DoubleB",
         "date": "2026.05.10",
         "youtube_id": "6_sVI5sJbHY",
-        "youtube_url": "https://www.youtube.com/watch?v=6_sVI5sJbHY",
+        "youtube_url": "https://www.youtube.com/watch?v=6_sVI5sJbHY&t=2186s",
         "status": "verified",
-        "status_badge": "🧤 박준성 9-3 우땅 수비 아웃 확인 (외야 보살 1호)",
+        "status_badge": "🧤 박준성 9-3 우땅 수비 아웃 확인 (영상 36:26)",
         "status_color": "0xFF3B82F6",
-        "summary": "박준성 3번 우익수 선발 출전. 2회 DoubleB 7번 신금수의 우익수 앞 깊은 타구를 잡아 1루 강견 송구 아웃 (공식 기록지 '우땅' 팩트 확인, 외야 보살 1호 공인).",
+        "summary": "박준성 3번 우익수 선발 출전. 2회 DoubleB 7번 신금수의 우익수 앞 깊은 타구를 잡아 1루 강견 송구 아웃 (풀영상 36:26 확인, 외야 보살 1호 공인).",
         "checks": [
           {
-            "timestamp": "2회말",
+            "timestamp": "36:26 (2회말)",
             "category": "외야 보살 수비 검증",
             "official_text": "박준성 3번 우익수 선발 출전, 상대 7번 신금수 2회 '우땅' 공식 기록",
-            "video_fact": "우익수 앞 땅볼 타구를 잡아 1루 송구 아웃(9-3) 호수비 공식 기록지 완벽 일치",
-            "verdict": "외야 보살 공인 (수비 기록)"
+            "video_fact": "신금수 타석 타구(36:26) ➔ 우익수 박준성이 대시하여 포구 후 정확한 1루 강견 송구 아웃(9-3) 호수비 판독 완료",
+            "verdict": "외야 보살 공인 (수비 기록)",
+            "youtube_url": "https://www.youtube.com/watch?v=6_sVI5sJbHY&t=2186s"
           }
         ]
       }
@@ -7021,7 +7022,7 @@
         "caught_stealing": 1,
         "cs_rate": "12.5%",
         "grade": "S",
-        "comment": "08.23 Luminous전 1호 실전 도루 저지 (20:46 공인) & 05.10 DoubleB전 9-3 우땅 보살"
+        "comment": "08.23 Luminous전 1호 실전 도루 저지 (20:46 공인) & 05.10 DoubleB전 9-3 우땅 보살 (36:26 공인)"
       },
       {
         "name": "황재민",
@@ -7035,7 +7036,7 @@
         "comment": "06.07 Team-JSB전 1호 실전 도루 저지 (22:22 공인)"
       }
     ],
-    "defense_summary": "수원 퓨리오사 안방은 박준성의 1도루 저지(08.23 Luminous전 20:46 공인) 및 9-3 우땅 외야 보살(05.10 DoubleB전)과 황재민의 1도루 저지(06.07 Team-JSB전 22:22 공인)로 올 시즌 공식 실전 도루 저지 총 2개를 합작했습니다.",
+    "defense_summary": "수원 퓨리오사 안방은 박준성의 1도루 저지(08.23 Luminous전 20:46 공인) 및 9-3 우땅 외야 보살(05.10 DoubleB전 36:26 공인)과 황재민의 1도루 저지(06.07 Team-JSB전 22:22 공인)로 올 시즌 공식 실전 도루 저지 총 2개를 합작했습니다.",
     "video_double_check_system": {
       "status": "active",
       "title": "📹 유니크플레이 경기 영상 기반 이중 체크 시스템 (Video Double-Check)",
@@ -7112,11 +7113,11 @@
           "opponent": "DoubleB",
           "stadium": "유신고등학교 야구장",
           "inning": "2회말",
-          "timestamp": "2회말",
+          "timestamp": "36:26",
           "youtube_id": "6_sVI5sJbHY",
-          "youtube_url": "https://www.youtube.com/watch?v=6_sVI5sJbHY",
+          "youtube_url": "https://www.youtube.com/watch?v=6_sVI5sJbHY&t=2186s",
           "record_type": "공식 스코어북 '우땅' ➔ 영상 1:1 대조",
-          "video_truth": "박준성 3번 우익수 선발 출전. 2회 상대 7번 신금수 타구를 잡아 1루 송구 아웃(9-3) 호수비 판독 완료 (공식 스코어북 '우땅' 팩트 확인)",
+          "video_truth": "박준성 3번 우익수 선발 출전. 2회 상대 7번 신금수 타구(36:26)를 잡아 1루 송구 아웃(9-3) 호수비 판독 완료 (공식 스코어북 '우땅' 팩트 확인)",
           "verdict": "🧤 [외야 보살 공인] 박준성 외야 9-3 우땅 수비 보살 (DoubleB전)",
           "catcher_credit": "박준성 (#13)",
           "is_catcher_cs": false
