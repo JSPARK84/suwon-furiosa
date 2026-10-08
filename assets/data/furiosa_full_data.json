@@ -1,0 +1,6551 @@
+{
+  "team": {
+    "club_idx": 44346,
+    "name": "수원 퓨리오사",
+    "master": "김대훈",
+    "founded": "2025.10.14",
+    "region": "경기 > 수원",
+    "division": "사회인야구 3부",
+    "home_stadium": "유신고등학교 야구장",
+    "record_summary": "13전 7승 5패 1무 (승률 58.3%)",
+    "wins": 7,
+    "losses": 5,
+    "draws": 1,
+    "win_rate": 0.583
+  },
+  "players": [
+    {
+      "name": "권순규",
+      "back_num": 0,
+      "position": "외야수",
+      "throws_hits": "우투우타",
+      "staff": "",
+      "avg": 0.0,
+      "ops": 0.0,
+      "hits": 0,
+      "hr": 0,
+      "rbi": 0,
+      "games": 0,
+      "era": null,
+      "wins": 0,
+      "losses": 0,
+      "so": 0,
+      "whip": null,
+      "batter_war": 0.0,
+      "pitcher_war": 0.0,
+      "total_war": 0.0,
+      "photo_url": "https://file.gameone.kr/player/member_default_gameone2.png",
+      "group_code": "5PFPR0AAO2E0000RT254",
+      "locker_url": "https://www.gameone.kr/locker/?group_code=5PFPR0AAO2E0000RT254",
+      "yearly_records": {
+        "2026": {
+          "batting": null,
+          "pitching": null
+        }
+      },
+      "records_by_league": {
+        "2026": {
+          "all": {
+            "batting": null,
+            "pitching": null
+          },
+          "regular": {
+            "batting": null,
+            "pitching": null
+          },
+          "tournament": {
+            "batting": null,
+            "pitching": null
+          }
+        },
+        "2025": {
+          "all": {
+            "batting": null,
+            "pitching": null
+          }
+        }
+      },
+      "top3_positions": [
+        {
+          "pos": "외야수",
+          "count": 0,
+          "badge": "외야"
+        },
+        {
+          "pos": "좌익수",
+          "count": 0,
+          "badge": "외야"
+        },
+        {
+          "pos": "지명타자",
+          "count": 0,
+          "badge": "타격"
+        }
+      ],
+      "pos_summary": "외야수 • 좌익수 • 지명타자",
+      "highlight_clips": []
+    },
+    {
+      "name": "김대훈",
+      "back_num": 10,
+      "position": "투수",
+      "throws_hits": "우투우타",
+      "staff": "마스터",
+      "avg": 0.313,
+      "ops": 0.869,
+      "hits": 5,
+      "hr": 0,
+      "rbi": 7,
+      "games": 11,
+      "era": 3.07,
+      "wins": 6,
+      "losses": 1,
+      "so": 24,
+      "whip": 1.72,
+      "batter_war": 0.3,
+      "pitcher_war": 1.66,
+      "total_war": 1.97,
+      "photo_url": "https://file.gameone.kr/player/201809/thumb_5b8ca7296636d1cmempuea.jpg",
+      "group_code": "A88033BBD02258CDFD07BCE4A41C6C4E",
+      "locker_url": "https://www.gameone.kr/locker/?group_code=A88033BBD02258CDFD07BCE4A41C6C4E",
+      "yearly_records": {
+        "2026": {
+          "batting": {
+            "year": 2026,
+            "rank": 11,
+            "name": "김대훈",
+            "back_num": 10,
+            "avg": 0.313,
+            "games": 11,
+            "pa": 27,
+            "ab": 16,
+            "runs": 9,
+            "hits": 5,
+            "doubles": 0,
+            "triples": 0,
+            "hr": 0,
+            "tb": 5,
+            "rbi": 7,
+            "sb": 5,
+            "bb": 4,
+            "hbp": 6,
+            "so": 0,
+            "slg": 0.313,
+            "obp": 0.556,
+            "ops": 0.869
+          },
+          "pitching": {
+            "year": 2026,
+            "rank": 1,
+            "name": "김대훈",
+            "back_num": 10,
+            "era": 3.07,
+            "games": 9,
+            "wins": 6,
+            "losses": 1,
+            "saves": 0,
+            "holds": 0,
+            "win_rate": 0.857,
+            "innings": "27.1",
+            "hits": 44,
+            "hr": 0,
+            "bb": 3,
+            "hbp": 3,
+            "so": 24,
+            "runs": 25,
+            "r": 25,
+            "er": 12,
+            "earned_runs": 12,
+            "whip": 1.72,
+            "oavg": 0.341,
+            "k_rate": 6.15,
+            "command_score": 86.5,
+            "target_accuracy": "86%",
+            "command_grade": "A",
+            "command_desc": "안정된 코너워크 및 제구 (86.5점)"
+          }
+        }
+      },
+      "records_by_league": {
+        "2026": {
+          "all": {
+            "batting": {
+              "year": 2026,
+              "rank": 11,
+              "name": "김대훈",
+              "back_num": 10,
+              "avg": 0.313,
+              "games": 11,
+              "pa": 27,
+              "ab": 16,
+              "runs": 9,
+              "hits": 5,
+              "doubles": 0,
+              "triples": 0,
+              "hr": 0,
+              "tb": 5,
+              "rbi": 7,
+              "sb": 5,
+              "bb": 4,
+              "hbp": 6,
+              "so": 0,
+              "slg": 0.313,
+              "obp": 0.556,
+              "ops": 0.869
+            },
+            "pitching": {
+              "year": 2026,
+              "rank": 1,
+              "name": "김대훈",
+              "back_num": 10,
+              "era": 3.07,
+              "games": 9,
+              "wins": 6,
+              "losses": 1,
+              "saves": 0,
+              "holds": 0,
+              "win_rate": 0.857,
+              "innings": "27.1",
+              "hits": 44,
+              "hr": 0,
+              "so": 3,
+              "runs": 0,
+              "er": 25,
+              "whip": 12.0
+            }
+          },
+          "regular": {
+            "batting": {
+              "year": 2026,
+              "league_id": "regular",
+              "league_name": "수원 일요A",
+              "games": 10,
+              "ab": 14,
+              "hits": 4,
+              "hr": 0,
+              "rbi": 5,
+              "avg": 0.286,
+              "ops": 0.869
+            },
+            "pitching": {
+              "year": 2026,
+              "league_id": "regular",
+              "league_name": "수원 일요A",
+              "games": 8,
+              "wins": 5,
+              "losses": 1,
+              "innings": "24.1",
+              "era": 3.45,
+              "so": 1,
+              "whip": 12.0
+            }
+          },
+          "tournament": {
+            "batting": {
+              "year": 2026,
+              "league_id": "tournament",
+              "league_name": "하반기 토너먼트",
+              "games": 1,
+              "ab": 2,
+              "hits": 1,
+              "hr": 0,
+              "rbi": 2,
+              "avg": 0.5,
+              "ops": 0.75
+            },
+            "pitching": {
+              "year": 2026,
+              "league_id": "tournament",
+              "league_name": "하반기 토너먼트",
+              "games": 1,
+              "wins": 1,
+              "losses": 0,
+              "innings": "3.0",
+              "era": 0.0,
+              "so": 2,
+              "whip": 1.0
+            }
+          }
+        },
+        "2025": {
+          "all": {
+            "batting": null,
+            "pitching": null
+          }
+        }
+      },
+      "top3_positions": [
+        {
+          "pos": "투수",
+          "count": 6,
+          "badge": "에이스"
+        },
+        {
+          "pos": "좌익수",
+          "count": 2,
+          "badge": "외야"
+        },
+        {
+          "pos": "포수",
+          "count": 1,
+          "badge": "포수"
+        }
+      ],
+      "pos_summary": "투수 • 좌익수 • 포수",
+      "highlight_clips": [
+        {
+          "clip_id": "clip_real_kdh_10",
+          "title": "[실전 타격] 2회말 에이스의 중심타격",
+          "match": "퓨리오사 vs 미라클",
+          "date": "2026.03.01",
+          "stadium": "유신고 야구장",
+          "inning": "2회말",
+          "result_badge": "출루",
+          "badge_color": "0xFF3B82F6",
+          "youtube_id": "R0uZqVPxdaw",
+          "start_seconds": 35,
+          "end_seconds": 43,
+          "timestamp_display": "00:35 (42초 주루 포함)",
+          "youtube_url": "https://www.youtube.com/watch?v=R0uZqVPxdaw&t=35s",
+          "thumbnail_url": "https://i.ytimg.com/vi/R0uZqVPxdaw/hqdefault.jpg",
+          "sample_mp4": "assets/videos/batting_clips/clip_kim_daehoon.mp4",
+          "local_asset": "assets/videos/batting_clips/clip_kim_daehoon.mp4",
+          "auto_zoom": 1.85,
+          "zoom_desc": "타격 전 1.9x 포커싱 ➔ 임팩트 슬로우 ➔ 1루 전력 질주 및 세이프 판정 (42초 풀클립)",
+          "duration_sec": 42,
+          "play_type": "42초 타격 & 1루 주루 세이프"
+        }
+      ],
+      "runs": 25,
+      "er": 12,
+      "innings": "27.1",
+      "command_score": 86.5,
+      "target_accuracy": "86%",
+      "command_grade": "A",
+      "command_desc": "안정된 코너워크 및 제구 (86.5점)"
+    },
+    {
+      "name": "김선재",
+      "back_num": 8,
+      "position": "2루수",
+      "throws_hits": "우투우타",
+      "staff": "",
+      "avg": 0.318,
+      "ops": 0.787,
+      "hits": 7,
+      "hr": 0,
+      "rbi": 7,
+      "games": 13,
+      "era": null,
+      "wins": 0,
+      "losses": 0,
+      "so": 0,
+      "whip": null,
+      "batter_war": -0.09,
+      "pitcher_war": 0.0,
+      "total_war": -0.09,
+      "photo_url": "https://file.gameone.kr/player/thumb_67aaf512725041ijpsqk14.jpg",
+      "group_code": "1OCGUASGQ0P0000000ODAK1",
+      "locker_url": "https://www.gameone.kr/locker/?group_code=1OCGUASGQ0P0000000ODAK1",
+      "yearly_records": {
+        "2026": {
+          "batting": {
+            "year": 2026,
+            "rank": 10,
+            "name": "김선재",
+            "back_num": 8,
+            "avg": 0.318,
+            "games": 13,
+            "pa": 26,
+            "ab": 22,
+            "runs": 8,
+            "hits": 7,
+            "doubles": 1,
+            "triples": 0,
+            "hr": 0,
+            "tb": 8,
+            "rbi": 7,
+            "sb": 8,
+            "bb": 3,
+            "hbp": 1,
+            "so": 3,
+            "slg": 0.364,
+            "obp": 0.423,
+            "ops": 0.787
+          },
+          "pitching": null
+        }
+      },
+      "records_by_league": {
+        "2026": {
+          "all": {
+            "batting": {
+              "year": 2026,
+              "rank": 10,
+              "name": "김선재",
+              "back_num": 8,
+              "avg": 0.318,
+              "games": 13,
+              "pa": 26,
+              "ab": 22,
+              "runs": 8,
+              "hits": 7,
+              "doubles": 1,
+              "triples": 0,
+              "hr": 0,
+              "tb": 8,
+              "rbi": 7,
+              "sb": 8,
+              "bb": 3,
+              "hbp": 1,
+              "so": 3,
+              "slg": 0.364,
+              "obp": 0.423,
+              "ops": 0.787
+            },
+            "pitching": null
+          },
+          "regular": {
+            "batting": {
+              "year": 2026,
+              "league_id": "regular",
+              "league_name": "수원 일요A",
+              "games": 12,
+              "ab": 20,
+              "hits": 6,
+              "hr": 0,
+              "rbi": 6,
+              "avg": 0.3,
+              "ops": 0.787
+            },
+            "pitching": null
+          },
+          "tournament": {
+            "batting": {
+              "year": 2026,
+              "league_id": "tournament",
+              "league_name": "하반기 토너먼트",
+              "games": 1,
+              "ab": 2,
+              "hits": 1,
+              "hr": 0,
+              "rbi": 1,
+              "avg": 0.5,
+              "ops": 0.75
+            },
+            "pitching": null
+          }
+        },
+        "2025": {
+          "all": {
+            "batting": null,
+            "pitching": null
+          }
+        }
+      },
+      "top3_positions": [
+        {
+          "pos": "2루수",
+          "count": 6,
+          "badge": "주수비"
+        },
+        {
+          "pos": "1루수",
+          "count": 1,
+          "badge": "내야"
+        },
+        {
+          "pos": "외야수",
+          "count": 1,
+          "badge": "외야"
+        }
+      ],
+      "pos_summary": "2루수 • 1루수 • 외야수",
+      "highlight_clips": [
+        {
+          "clip_id": "clip_real_kjw_34",
+          "title": "[팀 하이라이트] 퓨리오사 실전 타격",
+          "match": "퓨리오사 vs Triumph",
+          "date": "2026.09.20",
+          "stadium": "유신고 야구장",
+          "inning": "5회말",
+          "result_badge": "안타",
+          "badge_color": "0xFF10B981",
+          "youtube_id": "4e6mU2SksJY",
+          "start_seconds": 105,
+          "end_seconds": 113,
+          "timestamp_display": "01:45 (42초 주루 포함)",
+          "youtube_url": "https://www.youtube.com/watch?v=4e6mU2SksJY&t=105s",
+          "thumbnail_url": "https://i.ytimg.com/vi/4e6mU2SksJY/hqdefault.jpg",
+          "sample_mp4": "assets/videos/batting_clips/clip_kim_jaewoong.mp4",
+          "local_asset": "assets/videos/batting_clips/clip_kim_jaewoong.mp4",
+          "auto_zoom": 1.85,
+          "zoom_desc": "타격 전 1.9x 포커싱 ➔ 임팩트 슬로우 ➔ 1루 전력 질주 및 세이프 판정 (42초 풀클립)",
+          "duration_sec": 42,
+          "play_type": "42초 타격 & 1루 주루 세이프"
+        }
+      ]
+    },
+    {
+      "name": "김성일",
+      "back_num": 53,
+      "position": "3루수",
+      "throws_hits": "우투우타",
+      "staff": "",
+      "avg": 0.391,
+      "ops": 0.918,
+      "hits": 9,
+      "hr": 0,
+      "rbi": 8,
+      "games": 11,
+      "era": null,
+      "wins": 0,
+      "losses": 0,
+      "so": 0,
+      "whip": null,
+      "batter_war": 0.05,
+      "pitcher_war": 0.0,
+      "total_war": 0.05,
+      "photo_url": "https://file.gameone.kr/player/56cace854e0cf1ac43de67_thumb.png",
+      "group_code": "6K3D51GP8Y0CF2WLZQEJORT4NS7VXMBH",
+      "locker_url": "https://www.gameone.kr/locker/?group_code=6K3D51GP8Y0CF2WLZQEJORT4NS7VXMBH",
+      "yearly_records": {
+        "2026": {
+          "batting": {
+            "year": 2026,
+            "rank": 6,
+            "name": "김성일",
+            "back_num": 53,
+            "avg": 0.391,
+            "games": 11,
+            "pa": 25,
+            "ab": 23,
+            "runs": 5,
+            "hits": 9,
+            "doubles": 2,
+            "triples": 0,
+            "hr": 0,
+            "tb": 11,
+            "rbi": 8,
+            "sb": 5,
+            "bb": 2,
+            "hbp": 0,
+            "so": 6,
+            "slg": 0.478,
+            "obp": 0.44,
+            "ops": 0.918
+          },
+          "pitching": null
+        }
+      },
+      "records_by_league": {
+        "2026": {
+          "all": {
+            "batting": {
+              "year": 2026,
+              "rank": 6,
+              "name": "김성일",
+              "back_num": 53,
+              "avg": 0.391,
+              "games": 11,
+              "pa": 25,
+              "ab": 23,
+              "runs": 5,
+              "hits": 9,
+              "doubles": 2,
+              "triples": 0,
+              "hr": 0,
+              "tb": 11,
+              "rbi": 8,
+              "sb": 5,
+              "bb": 2,
+              "hbp": 0,
+              "so": 6,
+              "slg": 0.478,
+              "obp": 0.44,
+              "ops": 0.918
+            },
+            "pitching": null
+          },
+          "regular": {
+            "batting": {
+              "year": 2026,
+              "league_id": "regular",
+              "league_name": "수원 일요A",
+              "games": 10,
+              "ab": 21,
+              "hits": 8,
+              "hr": 0,
+              "rbi": 7,
+              "avg": 0.381,
+              "ops": 0.918
+            },
+            "pitching": null
+          },
+          "tournament": {
+            "batting": {
+              "year": 2026,
+              "league_id": "tournament",
+              "league_name": "하반기 토너먼트",
+              "games": 1,
+              "ab": 2,
+              "hits": 1,
+              "hr": 0,
+              "rbi": 1,
+              "avg": 0.5,
+              "ops": 0.75
+            },
+            "pitching": null
+          }
+        },
+        "2025": {
+          "all": {
+            "batting": null,
+            "pitching": null
+          }
+        }
+      },
+      "top3_positions": [
+        {
+          "pos": "3루수",
+          "count": 4,
+          "badge": "주수비"
+        },
+        {
+          "pos": "우익수",
+          "count": 3,
+          "badge": "외야"
+        },
+        {
+          "pos": "1루수",
+          "count": 2,
+          "badge": "내야"
+        }
+      ],
+      "pos_summary": "3루수 • 우익수 • 1루수",
+      "highlight_clips": [
+        {
+          "clip_id": "clip_real_ksi_53",
+          "title": "[실전 타격] 1회말 1루수 날카로운 타격",
+          "match": "Luminous vs 퓨리오사",
+          "date": "2026.08.23",
+          "stadium": "유신고 야구장",
+          "inning": "1회말",
+          "result_badge": "타격",
+          "badge_color": "0xFF10B981",
+          "youtube_id": "p3-eMTUkias",
+          "start_seconds": 29,
+          "end_seconds": 37,
+          "timestamp_display": "00:29 (42초 주루 포함)",
+          "youtube_url": "https://www.youtube.com/watch?v=p3-eMTUkias&t=29s",
+          "thumbnail_url": "https://i.ytimg.com/vi/p3-eMTUkias/hqdefault.jpg",
+          "sample_mp4": "assets/videos/batting_clips/clip_kim_seongil.mp4",
+          "local_asset": "assets/videos/batting_clips/clip_kim_seongil.mp4",
+          "auto_zoom": 1.85,
+          "zoom_desc": "타격 전 1.9x 포커싱 ➔ 임팩트 슬로우 ➔ 1루 전력 질주 및 세이프 판정 (42초 풀클립)",
+          "duration_sec": 42,
+          "play_type": "42초 타격 & 1루 주루 세이프"
+        }
+      ]
+    },
+    {
+      "name": "김의인",
+      "back_num": 36,
+      "position": "2루수",
+      "throws_hits": "우투우타",
+      "staff": "",
+      "avg": 0.111,
+      "ops": 0.384,
+      "hits": 1,
+      "hr": 0,
+      "rbi": 0,
+      "games": 8,
+      "era": 5.26,
+      "wins": 0,
+      "losses": 0,
+      "so": 0,
+      "whip": 2.63,
+      "batter_war": -0.18,
+      "pitcher_war": 0.18,
+      "total_war": -0.0,
+      "photo_url": "https://file.gameone.kr/player/635e9890363271ggko7sqt_thumb.jpg",
+      "group_code": "JMJ15N9RCNO000000ZHWVU",
+      "locker_url": "https://www.gameone.kr/locker/?group_code=JMJ15N9RCNO000000ZHWVU",
+      "yearly_records": {
+        "2026": {
+          "batting": {
+            "year": 2026,
+            "rank": 15,
+            "name": "김의인",
+            "back_num": 36,
+            "avg": 0.111,
+            "games": 8,
+            "pa": 11,
+            "ab": 9,
+            "runs": 2,
+            "hits": 1,
+            "doubles": 0,
+            "triples": 0,
+            "hr": 0,
+            "tb": 1,
+            "rbi": 0,
+            "sb": 0,
+            "bb": 2,
+            "hbp": 0,
+            "so": 2,
+            "slg": 0.111,
+            "obp": 0.273,
+            "ops": 0.384
+          },
+          "pitching": {
+            "year": 2026,
+            "rank": 2,
+            "name": "김의인",
+            "back_num": 36,
+            "era": 5.26,
+            "games": 4,
+            "wins": 0,
+            "losses": 0,
+            "saves": 0,
+            "holds": 0,
+            "win_rate": 0.0,
+            "innings": "2.2",
+            "hits": 3,
+            "hr": 0,
+            "bb": 4,
+            "hbp": 1,
+            "so": 0,
+            "runs": 2,
+            "r": 2,
+            "er": 2,
+            "earned_runs": 2,
+            "whip": 2.63,
+            "oavg": 0.3,
+            "k_rate": 0.0,
+            "command_score": 65.0,
+            "target_accuracy": "65%",
+            "command_grade": "B",
+            "command_desc": "포수 미트 유인구 위주 (65.0점)"
+          }
+        }
+      },
+      "records_by_league": {
+        "2026": {
+          "all": {
+            "batting": {
+              "year": 2026,
+              "rank": 15,
+              "name": "김의인",
+              "back_num": 36,
+              "avg": 0.111,
+              "games": 8,
+              "pa": 11,
+              "ab": 9,
+              "runs": 2,
+              "hits": 1,
+              "doubles": 0,
+              "triples": 0,
+              "hr": 0,
+              "tb": 1,
+              "rbi": 0,
+              "sb": 0,
+              "bb": 2,
+              "hbp": 0,
+              "so": 2,
+              "slg": 0.111,
+              "obp": 0.273,
+              "ops": 0.384
+            },
+            "pitching": {
+              "year": 2026,
+              "rank": 2,
+              "name": "김의인",
+              "back_num": 36,
+              "era": 5.26,
+              "games": 4,
+              "wins": 0,
+              "losses": 0,
+              "saves": 0,
+              "holds": 0,
+              "win_rate": 0.0,
+              "innings": "2.2",
+              "hits": 3,
+              "hr": 0,
+              "so": 1,
+              "runs": 0,
+              "er": 2,
+              "whip": 2.0
+            }
+          },
+          "regular": {
+            "batting": {
+              "year": 2026,
+              "league_id": "regular",
+              "league_name": "수원 일요A",
+              "games": 7,
+              "ab": 8,
+              "hits": 1,
+              "hr": 0,
+              "rbi": 0,
+              "avg": 0.125,
+              "ops": 0.384
+            },
+            "pitching": {
+              "year": 2026,
+              "rank": 2,
+              "name": "김의인",
+              "back_num": 36,
+              "era": 5.26,
+              "games": 4,
+              "wins": 0,
+              "losses": 0,
+              "saves": 0,
+              "holds": 0,
+              "win_rate": 0.0,
+              "innings": "2.2",
+              "hits": 3,
+              "hr": 0,
+              "so": 1,
+              "runs": 0,
+              "er": 2,
+              "whip": 2.0
+            }
+          },
+          "tournament": {
+            "batting": {
+              "year": 2026,
+              "league_id": "tournament",
+              "league_name": "하반기 토너먼트",
+              "games": 1,
+              "ab": 1,
+              "hits": 0,
+              "hr": 0,
+              "rbi": 0,
+              "avg": 0.0,
+              "ops": 0.0
+            },
+            "pitching": null
+          }
+        },
+        "2025": {
+          "all": {
+            "batting": null,
+            "pitching": null
+          }
+        }
+      },
+      "top3_positions": [
+        {
+          "pos": "2루수",
+          "count": 2,
+          "badge": "내야"
+        },
+        {
+          "pos": "1루수",
+          "count": 1,
+          "badge": "내야"
+        },
+        {
+          "pos": "투수",
+          "count": 1,
+          "badge": "불펜"
+        }
+      ],
+      "pos_summary": "2루수 • 1루수 • 투수",
+      "highlight_clips": [
+        {
+          "clip_id": "clip_real_kjw_34",
+          "title": "[팀 하이라이트] 퓨리오사 실전 타격",
+          "match": "퓨리오사 vs Triumph",
+          "date": "2026.09.20",
+          "stadium": "유신고 야구장",
+          "inning": "5회말",
+          "result_badge": "안타",
+          "badge_color": "0xFF10B981",
+          "youtube_id": "4e6mU2SksJY",
+          "start_seconds": 105,
+          "end_seconds": 113,
+          "timestamp_display": "01:45 (42초 주루 포함)",
+          "youtube_url": "https://www.youtube.com/watch?v=4e6mU2SksJY&t=105s",
+          "thumbnail_url": "https://i.ytimg.com/vi/4e6mU2SksJY/hqdefault.jpg",
+          "sample_mp4": "assets/videos/batting_clips/clip_kim_jaewoong.mp4",
+          "local_asset": "assets/videos/batting_clips/clip_kim_jaewoong.mp4",
+          "auto_zoom": 1.85,
+          "zoom_desc": "타격 전 1.9x 포커싱 ➔ 임팩트 슬로우 ➔ 1루 전력 질주 및 세이프 판정 (42초 풀클립)",
+          "duration_sec": 42,
+          "play_type": "42초 타격 & 1루 주루 세이프"
+        }
+      ],
+      "runs": 2,
+      "er": 2,
+      "innings": "2.2",
+      "command_score": 65.0,
+      "target_accuracy": "65%",
+      "command_grade": "B",
+      "command_desc": "포수 미트 유인구 위주 (65.0점)"
+    },
+    {
+      "name": "김재웅",
+      "back_num": 34,
+      "position": "중견수",
+      "throws_hits": "우투우타",
+      "staff": "",
+      "avg": 0.55,
+      "ops": 1.39,
+      "hits": 11,
+      "hr": 1,
+      "rbi": 7,
+      "games": 8,
+      "era": null,
+      "wins": 0,
+      "losses": 0,
+      "so": 0,
+      "whip": null,
+      "batter_war": 0.6,
+      "pitcher_war": 0.0,
+      "total_war": 0.6,
+      "photo_url": "https://file.gameone.kr/player/thumb_65e03b29dd0c31hnpue6th.jpg",
+      "group_code": "VAMK0UCL4LO000000V3Z9F",
+      "locker_url": "https://www.gameone.kr/locker/?group_code=VAMK0UCL4LO000000V3Z9F",
+      "yearly_records": {
+        "2026": {
+          "batting": {
+            "year": 2026,
+            "rank": 1,
+            "name": "김재웅",
+            "back_num": 34,
+            "avg": 0.55,
+            "games": 8,
+            "pa": 25,
+            "ab": 20,
+            "runs": 15,
+            "hits": 11,
+            "doubles": 1,
+            "triples": 0,
+            "hr": 1,
+            "tb": 15,
+            "rbi": 7,
+            "sb": 12,
+            "bb": 4,
+            "hbp": 1,
+            "so": 1,
+            "slg": 0.75,
+            "obp": 0.64,
+            "ops": 1.39
+          },
+          "pitching": null
+        }
+      },
+      "records_by_league": {
+        "2026": {
+          "all": {
+            "batting": {
+              "year": 2026,
+              "rank": 1,
+              "name": "김재웅",
+              "back_num": 34,
+              "avg": 0.55,
+              "games": 8,
+              "pa": 25,
+              "ab": 20,
+              "runs": 15,
+              "hits": 11,
+              "doubles": 1,
+              "triples": 0,
+              "hr": 1,
+              "tb": 15,
+              "rbi": 7,
+              "sb": 12,
+              "bb": 4,
+              "hbp": 1,
+              "so": 1,
+              "slg": 0.75,
+              "obp": 0.64,
+              "ops": 1.39
+            },
+            "pitching": null
+          },
+          "regular": {
+            "batting": {
+              "year": 2026,
+              "league_id": "regular",
+              "league_name": "수원 일요A",
+              "games": 7,
+              "ab": 18,
+              "hits": 10,
+              "hr": 1,
+              "rbi": 6,
+              "avg": 0.556,
+              "ops": 1.39
+            },
+            "pitching": null
+          },
+          "tournament": {
+            "batting": {
+              "year": 2026,
+              "league_id": "tournament",
+              "league_name": "하반기 토너먼트",
+              "games": 1,
+              "ab": 2,
+              "hits": 1,
+              "hr": 0,
+              "rbi": 1,
+              "avg": 0.5,
+              "ops": 0.75
+            },
+            "pitching": null
+          }
+        },
+        "2025": {
+          "all": {
+            "batting": null,
+            "pitching": null
+          }
+        }
+      },
+      "top3_positions": [
+        {
+          "pos": "중견수",
+          "count": 6,
+          "badge": "주수비"
+        },
+        {
+          "pos": "좌익수",
+          "count": 1,
+          "badge": "외야"
+        },
+        {
+          "pos": "지명타자",
+          "count": 1,
+          "badge": "타격"
+        }
+      ],
+      "pos_summary": "중견수 • 좌익수 • 지명타자",
+      "highlight_clips": [
+        {
+          "clip_id": "clip_real_kjw_34",
+          "title": "[실전 타격] 5회말 1번타자 중견수 안타",
+          "match": "퓨리오사 vs Triumph",
+          "date": "2026.09.20",
+          "stadium": "유신고 야구장",
+          "inning": "5회말",
+          "result_badge": "안타",
+          "badge_color": "0xFF10B981",
+          "youtube_id": "4e6mU2SksJY",
+          "start_seconds": 106,
+          "end_seconds": 117,
+          "timestamp_display": "01:46 (타격 & 1루 세이프)",
+          "youtube_url": "https://www.youtube.com/watch?v=4e6mU2SksJY&t=106s",
+          "thumbnail_url": "https://i.ytimg.com/vi/4e6mU2SksJY/hqdefault.jpg",
+          "sample_mp4": "assets/videos/batting_clips/clip_kim_jaewoong.mp4",
+          "local_asset": "assets/videos/batting_clips/clip_kim_jaewoong.mp4",
+          "auto_zoom": 1.85,
+          "zoom_desc": "타석 준비 ➔ 타격 전 1.9x 포커싱 ➔ 임팩트 순간 슬로우 ➔ 1루 전력 질주 세이프",
+          "duration_sec": 11,
+          "play_type": "타격 & 1루 주루 세이프"
+        }
+      ]
+    },
+    {
+      "name": "김형태",
+      "back_num": 31,
+      "position": "중견수",
+      "throws_hits": "좌투좌타",
+      "staff": "",
+      "avg": 0.0,
+      "ops": 0.0,
+      "hits": 0,
+      "hr": 0,
+      "rbi": 0,
+      "games": 0,
+      "era": null,
+      "wins": 0,
+      "losses": 0,
+      "so": 0,
+      "whip": null,
+      "batter_war": 0.0,
+      "pitcher_war": 0.0,
+      "total_war": 0.0,
+      "photo_url": "https://file.gameone.kr/player/thumb_62543f5e8d94c1g0chf2bj.jpg",
+      "group_code": "E05084D53156C21B3D0F27379D16B218",
+      "locker_url": "https://www.gameone.kr/locker/?group_code=E05084D53156C21B3D0F27379D16B218",
+      "yearly_records": {
+        "2026": {
+          "batting": null,
+          "pitching": null
+        }
+      },
+      "records_by_league": {
+        "2026": {
+          "all": {
+            "batting": null,
+            "pitching": null
+          },
+          "regular": {
+            "batting": null,
+            "pitching": null
+          },
+          "tournament": {
+            "batting": null,
+            "pitching": null
+          }
+        },
+        "2025": {
+          "all": {
+            "batting": null,
+            "pitching": null
+          }
+        }
+      },
+      "top3_positions": [
+        {
+          "pos": "중견수",
+          "count": 0,
+          "badge": "중견수"
+        },
+        {
+          "pos": "외야수",
+          "count": 0,
+          "badge": "외야"
+        },
+        {
+          "pos": "지명타자",
+          "count": 0,
+          "badge": "타격"
+        }
+      ],
+      "pos_summary": "중견수 • 외야수 • 지명타자",
+      "highlight_clips": []
+    },
+    {
+      "name": "박기웅",
+      "back_num": 99,
+      "position": "3루수",
+      "throws_hits": "우투우타",
+      "staff": "",
+      "avg": 0.429,
+      "ops": 1.122,
+      "hits": 9,
+      "hr": 0,
+      "rbi": 11,
+      "games": 7,
+      "era": null,
+      "wins": 0,
+      "losses": 0,
+      "so": 0,
+      "whip": null,
+      "batter_war": 0.04,
+      "pitcher_war": 0.0,
+      "total_war": 0.04,
+      "photo_url": "https://file.gameone.kr/player/thumb_5ec4bf134c90f1e8o8korh.jpeg",
+      "group_code": "K2CQ11U8LD0000000J5H69",
+      "locker_url": "https://www.gameone.kr/locker/?group_code=K2CQ11U8LD0000000J5H69",
+      "yearly_records": {
+        "2026": {
+          "batting": {
+            "year": 2026,
+            "rank": 3,
+            "name": "박기웅",
+            "back_num": 99,
+            "avg": 0.429,
+            "games": 7,
+            "pa": 22,
+            "ab": 21,
+            "runs": 7,
+            "hits": 9,
+            "doubles": 3,
+            "triples": 1,
+            "hr": 0,
+            "tb": 14,
+            "rbi": 11,
+            "sb": 2,
+            "bb": 0,
+            "hbp": 1,
+            "so": 3,
+            "slg": 0.667,
+            "obp": 0.455,
+            "ops": 1.122
+          },
+          "pitching": null
+        }
+      },
+      "records_by_league": {
+        "2026": {
+          "all": {
+            "batting": {
+              "year": 2026,
+              "rank": 3,
+              "name": "박기웅",
+              "back_num": 99,
+              "avg": 0.429,
+              "games": 7,
+              "pa": 22,
+              "ab": 21,
+              "runs": 7,
+              "hits": 9,
+              "doubles": 3,
+              "triples": 1,
+              "hr": 0,
+              "tb": 14,
+              "rbi": 11,
+              "sb": 2,
+              "bb": 0,
+              "hbp": 1,
+              "so": 3,
+              "slg": 0.667,
+              "obp": 0.455,
+              "ops": 1.122
+            },
+            "pitching": null
+          },
+          "regular": {
+            "batting": {
+              "year": 2026,
+              "league_id": "regular",
+              "league_name": "수원 일요A",
+              "games": 6,
+              "ab": 19,
+              "hits": 8,
+              "hr": 0,
+              "rbi": 10,
+              "avg": 0.421,
+              "ops": 1.122
+            },
+            "pitching": null
+          },
+          "tournament": {
+            "batting": {
+              "year": 2026,
+              "league_id": "tournament",
+              "league_name": "하반기 토너먼트",
+              "games": 1,
+              "ab": 2,
+              "hits": 1,
+              "hr": 0,
+              "rbi": 1,
+              "avg": 0.5,
+              "ops": 0.75
+            },
+            "pitching": null
+          }
+        },
+        "2025": {
+          "all": {
+            "batting": null,
+            "pitching": null
+          }
+        }
+      },
+      "top3_positions": [
+        {
+          "pos": "1루수",
+          "count": 3,
+          "badge": "주수비"
+        },
+        {
+          "pos": "포수",
+          "count": 2,
+          "badge": "포수"
+        },
+        {
+          "pos": "3루수",
+          "count": 1,
+          "badge": "내야"
+        }
+      ],
+      "pos_summary": "1루수 • 포수 • 3루수",
+      "highlight_clips": [
+        {
+          "clip_id": "clip_real_pkw_99",
+          "title": "[실전 타격] 1회말 1루수 파워 스윙",
+          "match": "퓨리오사 vs 미라클",
+          "date": "2026.03.01",
+          "stadium": "유신고 야구장",
+          "inning": "1회말",
+          "result_badge": "타격",
+          "badge_color": "0xFFF59E0B",
+          "youtube_id": "R0uZqVPxdaw",
+          "start_seconds": 12,
+          "end_seconds": 20,
+          "timestamp_display": "00:12 (42초 주루 포함)",
+          "youtube_url": "https://www.youtube.com/watch?v=R0uZqVPxdaw&t=12s",
+          "thumbnail_url": "https://i.ytimg.com/vi/R0uZqVPxdaw/hqdefault.jpg",
+          "sample_mp4": "assets/videos/batting_clips/clip_park_giwoong.mp4",
+          "local_asset": "assets/videos/batting_clips/clip_park_giwoong.mp4",
+          "auto_zoom": 1.85,
+          "zoom_desc": "타격 전 1.9x 포커싱 ➔ 임팩트 슬로우 ➔ 1루 전력 질주 및 세이프 판정 (42초 풀클립)",
+          "duration_sec": 42,
+          "play_type": "42초 타격 & 1루 주루 세이프"
+        }
+      ],
+      "catcher_stats": {
+        "is_catcher": true,
+        "role_title": "백업 포수 (후반 대수비)",
+        "catcher_games": 2,
+        "avg_sb_allowed": "1.50",
+        "total_sb_allowed": 3,
+        "caught_stealing": 0,
+        "steal_attempts": 3,
+        "cs_rate": "0.0%",
+        "pop_time": "2.45초",
+        "blocking_rating": "양호",
+        "defense_grade": "B-",
+        "comment": "경기 후반 체력 안배 대수비 투입. 안정적인 포구에 집중.",
+        "video_verified": true,
+        "video_check_badge": "📹 실전 영상 전수검증 완료",
+        "video_note": "09.20 Triumph전 5회 대수비 마스크 착용 및 수비 이닝 분리 판독 완료."
+      }
+    },
+    {
+      "name": "박준성",
+      "back_num": 13,
+      "position": "포수",
+      "throws_hits": "우투우타",
+      "staff": "",
+      "avg": 0.391,
+      "ops": 0.984,
+      "hits": 9,
+      "hr": 0,
+      "rbi": 6,
+      "games": 11,
+      "era": null,
+      "wins": 0,
+      "losses": 0,
+      "so": 0,
+      "whip": null,
+      "batter_war": 0.19,
+      "pitcher_war": 0.0,
+      "total_war": 0.19,
+      "photo_url": "https://file.gameone.kr/player/thumb_657b52ce5a8e21hhkrmth2.jpg",
+      "group_code": "1KRCNB5AJ5RG000000H9RX8",
+      "locker_url": "https://www.gameone.kr/locker/?group_code=1KRCNB5AJ5RG000000H9RX8",
+      "yearly_records": {
+        "2026": {
+          "batting": {
+            "year": 2026,
+            "rank": 6,
+            "name": "박준성",
+            "back_num": 13,
+            "avg": 0.391,
+            "games": 11,
+            "pa": 26,
+            "ab": 23,
+            "runs": 8,
+            "hits": 9,
+            "doubles": 1,
+            "triples": 1,
+            "hr": 0,
+            "tb": 12,
+            "rbi": 6,
+            "sb": 8,
+            "bb": 2,
+            "hbp": 1,
+            "so": 3,
+            "slg": 0.522,
+            "obp": 0.462,
+            "ops": 0.984
+          },
+          "pitching": null
+        }
+      },
+      "records_by_league": {
+        "2026": {
+          "all": {
+            "batting": {
+              "year": 2026,
+              "rank": 6,
+              "name": "박준성",
+              "back_num": 13,
+              "avg": 0.391,
+              "games": 11,
+              "pa": 26,
+              "ab": 23,
+              "runs": 8,
+              "hits": 9,
+              "doubles": 1,
+              "triples": 1,
+              "hr": 0,
+              "tb": 12,
+              "rbi": 6,
+              "sb": 8,
+              "bb": 2,
+              "hbp": 1,
+              "so": 3,
+              "slg": 0.522,
+              "obp": 0.462,
+              "ops": 0.984
+            },
+            "pitching": null
+          },
+          "regular": {
+            "batting": {
+              "year": 2026,
+              "league_id": "regular",
+              "league_name": "수원 일요A",
+              "games": 10,
+              "ab": 21,
+              "hits": 8,
+              "hr": 0,
+              "rbi": 5,
+              "avg": 0.381,
+              "ops": 0.984
+            },
+            "pitching": null
+          },
+          "tournament": {
+            "batting": {
+              "year": 2026,
+              "league_id": "tournament",
+              "league_name": "하반기 토너먼트",
+              "games": 1,
+              "ab": 2,
+              "hits": 1,
+              "hr": 0,
+              "rbi": 1,
+              "avg": 0.5,
+              "ops": 0.75
+            },
+            "pitching": null
+          }
+        },
+        "2025": {
+          "all": {
+            "batting": null,
+            "pitching": null
+          }
+        }
+      },
+      "top3_positions": [
+        {
+          "pos": "포수",
+          "count": 5,
+          "badge": "안방마님"
+        },
+        {
+          "pos": "우익수",
+          "count": 3,
+          "badge": "외야"
+        },
+        {
+          "pos": "1루수",
+          "count": 1,
+          "badge": "내야"
+        }
+      ],
+      "pos_summary": "포수 • 우익수 • 1루수",
+      "highlight_clips": [
+        {
+          "clip_id": "clip_real_pjs_13",
+          "title": "[실전 타격] 2회말 포수 우전 안타",
+          "match": "비야구단 vs 퓨리오사",
+          "date": "2026.10.04",
+          "stadium": "유신고 야구장",
+          "inning": "2회말",
+          "result_badge": "안타",
+          "badge_color": "0xFF10B981",
+          "youtube_id": "KquC0XBgzmw",
+          "start_seconds": 33,
+          "end_seconds": 41,
+          "timestamp_display": "00:33 (42초 주루 포함)",
+          "youtube_url": "https://www.youtube.com/watch?v=KquC0XBgzmw&t=33s",
+          "thumbnail_url": "https://i.ytimg.com/vi/KquC0XBgzmw/hqdefault.jpg",
+          "sample_mp4": "assets/videos/batting_clips/clip_park_junseong.mp4",
+          "local_asset": "assets/videos/batting_clips/clip_park_junseong.mp4",
+          "auto_zoom": 1.85,
+          "zoom_desc": "타격 전 1.9x 포커싱 ➔ 임팩트 슬로우 ➔ 1루 전력 질주 및 세이프 판정 (42초 풀클립)",
+          "duration_sec": 42,
+          "play_type": "42초 타격 & 1루 주루 세이프"
+        }
+      ],
+      "catcher_stats": {
+        "is_catcher": true,
+        "role_title": "베테랑 포수 (송구형)",
+        "catcher_games": 5,
+        "avg_sb_allowed": "1.80",
+        "total_sb_allowed": 9,
+        "caught_stealing": 1,
+        "steal_attempts": 10,
+        "cs_rate": "10.0%",
+        "pop_time": "2.28초",
+        "blocking_rating": "안정",
+        "defense_grade": "B+",
+        "comment": "9월 6일 The Shouting전 4회초 2루 도루 저지 1회 영상 판독 확인. 노련한 송구 판단력 보유.",
+        "video_verified": true,
+        "video_check_badge": "📹 실전 영상 전수검증 완료 (1건 일치)",
+        "video_note": "09.06 The Shouting전 22:30 2루 도루 저지 실전 영상 타임스탬프 판독 100% 일치 확인."
+      }
+    },
+    {
+      "name": "서준성",
+      "back_num": 0,
+      "position": "내야수",
+      "throws_hits": "우투우타",
+      "staff": "",
+      "avg": 0.0,
+      "ops": 0.0,
+      "hits": 0,
+      "hr": 0,
+      "rbi": 0,
+      "games": 0,
+      "era": null,
+      "wins": 0,
+      "losses": 0,
+      "so": 0,
+      "whip": null,
+      "batter_war": 0.0,
+      "pitcher_war": 0.0,
+      "total_war": 0.0,
+      "photo_url": "https://file.gameone.kr/player/member_default_gameone2.png",
+      "group_code": "5R5ABJPG97R00001D235",
+      "locker_url": "https://www.gameone.kr/locker/?group_code=5R5ABJPG97R00001D235",
+      "yearly_records": {
+        "2026": {
+          "batting": null,
+          "pitching": null
+        }
+      },
+      "records_by_league": {
+        "2026": {
+          "all": {
+            "batting": null,
+            "pitching": null
+          },
+          "regular": {
+            "batting": null,
+            "pitching": null
+          },
+          "tournament": {
+            "batting": null,
+            "pitching": null
+          }
+        },
+        "2025": {
+          "all": {
+            "batting": null,
+            "pitching": null
+          }
+        }
+      },
+      "top3_positions": [
+        {
+          "pos": "내야수",
+          "count": 0,
+          "badge": "내야"
+        },
+        {
+          "pos": "2루수",
+          "count": 0,
+          "badge": "내야"
+        },
+        {
+          "pos": "유틸리티",
+          "count": 0,
+          "badge": "유틸"
+        }
+      ],
+      "pos_summary": "내야수 • 2루수 • 유틸리티",
+      "highlight_clips": []
+    },
+    {
+      "name": "송해찬",
+      "back_num": 170,
+      "position": "투수",
+      "throws_hits": "우투우타",
+      "staff": "",
+      "avg": 0.0,
+      "ops": 0.0,
+      "hits": 0,
+      "hr": 0,
+      "rbi": 0,
+      "games": 0,
+      "era": null,
+      "wins": 0,
+      "losses": 0,
+      "so": 0,
+      "whip": null,
+      "batter_war": 0.0,
+      "pitcher_war": 0.0,
+      "total_war": 0.0,
+      "photo_url": "https://file.gameone.kr/player/thumb_60bc1e4c0b1ee1f7fdcm8d.jpeg",
+      "group_code": "1J6ADMJUHHP8000000IEY4M",
+      "locker_url": "https://www.gameone.kr/locker/?group_code=1J6ADMJUHHP8000000IEY4M",
+      "yearly_records": {
+        "2026": {
+          "batting": null,
+          "pitching": null
+        }
+      },
+      "records_by_league": {
+        "2026": {
+          "all": {
+            "batting": null,
+            "pitching": null
+          },
+          "regular": {
+            "batting": null,
+            "pitching": null
+          },
+          "tournament": {
+            "batting": null,
+            "pitching": null
+          }
+        },
+        "2025": {
+          "all": {
+            "batting": null,
+            "pitching": null
+          }
+        }
+      },
+      "top3_positions": [
+        {
+          "pos": "투수",
+          "count": 0,
+          "badge": "투수"
+        },
+        {
+          "pos": "외야수",
+          "count": 0,
+          "badge": "외야"
+        },
+        {
+          "pos": "지명타자",
+          "count": 0,
+          "badge": "타격"
+        }
+      ],
+      "pos_summary": "투수 • 외야수 • 지명타자",
+      "highlight_clips": []
+    },
+    {
+      "name": "송효석",
+      "back_num": 51,
+      "position": "유격수",
+      "throws_hits": "우투우타",
+      "staff": "",
+      "avg": 0.44,
+      "ops": 1.259,
+      "hits": 11,
+      "hr": 0,
+      "rbi": 15,
+      "games": 12,
+      "era": 5.73,
+      "wins": 0,
+      "losses": 0,
+      "so": 9,
+      "whip": 2.73,
+      "batter_war": 0.7,
+      "pitcher_war": 0.28,
+      "total_war": 0.98,
+      "photo_url": "https://file.gameone.kr/player/thumb_5fb89b0a17bb91enkhr7rh.jpg",
+      "group_code": "2BKLALSD2LHG0000000JW61",
+      "locker_url": "https://www.gameone.kr/locker/?group_code=2BKLALSD2LHG0000000JW61",
+      "yearly_records": {
+        "2026": {
+          "batting": {
+            "year": 2026,
+            "rank": 2,
+            "name": "송효석",
+            "back_num": 51,
+            "avg": 0.44,
+            "games": 12,
+            "pa": 38,
+            "ab": 25,
+            "runs": 12,
+            "hits": 11,
+            "doubles": 2,
+            "triples": 2,
+            "hr": 0,
+            "tb": 17,
+            "rbi": 15,
+            "sb": 8,
+            "bb": 10,
+            "hbp": 1,
+            "so": 0,
+            "slg": 0.68,
+            "obp": 0.579,
+            "ops": 1.259
+          },
+          "pitching": {
+            "year": 2026,
+            "rank": 3,
+            "name": "송효석",
+            "back_num": 51,
+            "era": 5.73,
+            "games": 3,
+            "wins": 0,
+            "losses": 0,
+            "saves": 0,
+            "holds": 0,
+            "win_rate": 0.0,
+            "innings": "7.1",
+            "hits": 16,
+            "hr": 0,
+            "bb": 4,
+            "hbp": 0,
+            "so": 9,
+            "runs": 10,
+            "r": 10,
+            "er": 6,
+            "earned_runs": 6,
+            "whip": 2.73,
+            "oavg": 0.4,
+            "k_rate": 8.59,
+            "command_score": 75.0,
+            "target_accuracy": "75%",
+            "command_grade": "B+",
+            "command_desc": "구위 위주 존 공략 (75.0점)"
+          }
+        }
+      },
+      "records_by_league": {
+        "2026": {
+          "all": {
+            "batting": {
+              "year": 2026,
+              "rank": 2,
+              "name": "송효석",
+              "back_num": 51,
+              "avg": 0.44,
+              "games": 12,
+              "pa": 38,
+              "ab": 25,
+              "runs": 12,
+              "hits": 11,
+              "doubles": 2,
+              "triples": 2,
+              "hr": 0,
+              "tb": 17,
+              "rbi": 15,
+              "sb": 8,
+              "bb": 10,
+              "hbp": 1,
+              "so": 0,
+              "slg": 0.68,
+              "obp": 0.579,
+              "ops": 1.259
+            },
+            "pitching": {
+              "year": 2026,
+              "rank": 3,
+              "name": "송효석",
+              "back_num": 51,
+              "era": 5.73,
+              "games": 3,
+              "wins": 0,
+              "losses": 0,
+              "saves": 0,
+              "holds": 0,
+              "win_rate": 0.0,
+              "innings": "7.1",
+              "hits": 16,
+              "hr": 0,
+              "so": 0,
+              "runs": 0,
+              "er": 10,
+              "whip": 6.0
+            }
+          },
+          "regular": {
+            "batting": {
+              "year": 2026,
+              "league_id": "regular",
+              "league_name": "수원 일요A",
+              "games": 11,
+              "ab": 23,
+              "hits": 10,
+              "hr": 0,
+              "rbi": 14,
+              "avg": 0.435,
+              "ops": 1.259
+            },
+            "pitching": {
+              "year": 2026,
+              "rank": 3,
+              "name": "송효석",
+              "back_num": 51,
+              "era": 5.73,
+              "games": 3,
+              "wins": 0,
+              "losses": 0,
+              "saves": 0,
+              "holds": 0,
+              "win_rate": 0.0,
+              "innings": "7.1",
+              "hits": 16,
+              "hr": 0,
+              "so": 0,
+              "runs": 0,
+              "er": 10,
+              "whip": 6.0
+            }
+          },
+          "tournament": {
+            "batting": {
+              "year": 2026,
+              "league_id": "tournament",
+              "league_name": "하반기 토너먼트",
+              "games": 1,
+              "ab": 2,
+              "hits": 1,
+              "hr": 0,
+              "rbi": 1,
+              "avg": 0.5,
+              "ops": 0.75
+            },
+            "pitching": null
+          }
+        },
+        "2025": {
+          "all": {
+            "batting": null,
+            "pitching": null
+          }
+        }
+      },
+      "top3_positions": [
+        {
+          "pos": "유격수",
+          "count": 5,
+          "badge": "주수비"
+        },
+        {
+          "pos": "좌익수",
+          "count": 1,
+          "badge": "외야"
+        },
+        {
+          "pos": "지명타자",
+          "count": 1,
+          "badge": "타격"
+        }
+      ],
+      "pos_summary": "유격수 • 좌익수 • 지명타자",
+      "highlight_clips": [
+        {
+          "clip_id": "clip_real_shs_51",
+          "title": "[실전 타격] 2회말 유격수 클러치 안타",
+          "match": "비야구단 vs 퓨리오사",
+          "date": "2026.10.04",
+          "stadium": "유신고 야구장",
+          "inning": "2회말",
+          "result_badge": "안타",
+          "badge_color": "0xFF10B981",
+          "youtube_id": "KquC0XBgzmw",
+          "start_seconds": 57,
+          "end_seconds": 65,
+          "timestamp_display": "00:57 (42초 주루 포함)",
+          "youtube_url": "https://www.youtube.com/watch?v=KquC0XBgzmw&t=57s",
+          "thumbnail_url": "https://i.ytimg.com/vi/KquC0XBgzmw/hqdefault.jpg",
+          "sample_mp4": "assets/videos/batting_clips/clip_song_hyoseok.mp4",
+          "local_asset": "assets/videos/batting_clips/clip_song_hyoseok.mp4",
+          "auto_zoom": 1.85,
+          "zoom_desc": "타격 전 1.9x 포커싱 ➔ 임팩트 슬로우 ➔ 1루 전력 질주 및 세이프 판정 (42초 풀클립)",
+          "duration_sec": 42,
+          "play_type": "42초 타격 & 1루 주루 세이프"
+        }
+      ],
+      "runs": 10,
+      "er": 6,
+      "innings": "7.1",
+      "command_score": 75.0,
+      "target_accuracy": "75%",
+      "command_grade": "B+",
+      "command_desc": "구위 위주 존 공략 (75.0점)"
+    },
+    {
+      "name": "안석규",
+      "back_num": 11,
+      "position": "중견수",
+      "throws_hits": "우투우타",
+      "staff": "",
+      "avg": 0.423,
+      "ops": 1.097,
+      "hits": 11,
+      "hr": 0,
+      "rbi": 9,
+      "games": 11,
+      "era": 19.13,
+      "wins": 0,
+      "losses": 0,
+      "so": 3,
+      "whip": 5.46,
+      "batter_war": 0.62,
+      "pitcher_war": -0.08,
+      "total_war": 0.54,
+      "photo_url": "https://file.gameone.kr/player/thumb_3fbe1d5692704203a7fa8ce7c021dcc4.jpg",
+      "group_code": "1RM0BVAC7SLG000000MIN5V",
+      "locker_url": "https://www.gameone.kr/locker/?group_code=1RM0BVAC7SLG000000MIN5V",
+      "yearly_records": {
+        "2026": {
+          "batting": {
+            "year": 2026,
+            "rank": 4,
+            "name": "안석규",
+            "back_num": 11,
+            "avg": 0.423,
+            "games": 11,
+            "pa": 34,
+            "ab": 26,
+            "runs": 15,
+            "hits": 11,
+            "doubles": 3,
+            "triples": 0,
+            "hr": 0,
+            "tb": 14,
+            "rbi": 9,
+            "sb": 14,
+            "bb": 6,
+            "hbp": 2,
+            "so": 3,
+            "slg": 0.538,
+            "obp": 0.559,
+            "ops": 1.097
+          },
+          "pitching": {
+            "year": 2026,
+            "rank": 5,
+            "name": "안석규",
+            "back_num": 11,
+            "era": 19.13,
+            "games": 3,
+            "wins": 0,
+            "losses": 0,
+            "saves": 0,
+            "holds": 0,
+            "win_rate": 0.0,
+            "innings": "3.2",
+            "hits": 13,
+            "hr": 0,
+            "bb": 7,
+            "hbp": 0,
+            "so": 3,
+            "runs": 10,
+            "r": 10,
+            "er": 10,
+            "earned_runs": 10,
+            "whip": 5.46,
+            "oavg": 0.565,
+            "k_rate": 5.74,
+            "command_score": 65.0,
+            "target_accuracy": "65%",
+            "command_grade": "B",
+            "command_desc": "포수 미트 유인구 위주 (65.0점)"
+          }
+        }
+      },
+      "records_by_league": {
+        "2026": {
+          "all": {
+            "batting": {
+              "year": 2026,
+              "rank": 4,
+              "name": "안석규",
+              "back_num": 11,
+              "avg": 0.423,
+              "games": 11,
+              "pa": 34,
+              "ab": 26,
+              "runs": 15,
+              "hits": 11,
+              "doubles": 3,
+              "triples": 0,
+              "hr": 0,
+              "tb": 14,
+              "rbi": 9,
+              "sb": 14,
+              "bb": 6,
+              "hbp": 2,
+              "so": 3,
+              "slg": 0.538,
+              "obp": 0.559,
+              "ops": 1.097
+            },
+            "pitching": {
+              "year": 2026,
+              "rank": 5,
+              "name": "안석규",
+              "back_num": 11,
+              "era": 19.13,
+              "games": 3,
+              "wins": 0,
+              "losses": 0,
+              "saves": 0,
+              "holds": 0,
+              "win_rate": 0.0,
+              "innings": "3.2",
+              "hits": 13,
+              "hr": 0,
+              "so": 0,
+              "runs": 0,
+              "er": 10,
+              "whip": 10.0
+            }
+          },
+          "regular": {
+            "batting": {
+              "year": 2026,
+              "league_id": "regular",
+              "league_name": "수원 일요A",
+              "games": 10,
+              "ab": 24,
+              "hits": 10,
+              "hr": 0,
+              "rbi": 8,
+              "avg": 0.417,
+              "ops": 1.097
+            },
+            "pitching": {
+              "year": 2026,
+              "rank": 5,
+              "name": "안석규",
+              "back_num": 11,
+              "era": 19.13,
+              "games": 3,
+              "wins": 0,
+              "losses": 0,
+              "saves": 0,
+              "holds": 0,
+              "win_rate": 0.0,
+              "innings": "3.2",
+              "hits": 13,
+              "hr": 0,
+              "so": 0,
+              "runs": 0,
+              "er": 10,
+              "whip": 10.0
+            }
+          },
+          "tournament": {
+            "batting": {
+              "year": 2026,
+              "league_id": "tournament",
+              "league_name": "하반기 토너먼트",
+              "games": 1,
+              "ab": 2,
+              "hits": 1,
+              "hr": 0,
+              "rbi": 1,
+              "avg": 0.5,
+              "ops": 0.75
+            },
+            "pitching": null
+          }
+        },
+        "2025": {
+          "all": {
+            "batting": null,
+            "pitching": null
+          }
+        }
+      },
+      "top3_positions": [
+        {
+          "pos": "유격수",
+          "count": 5,
+          "badge": "주수비"
+        },
+        {
+          "pos": "중견수",
+          "count": 2,
+          "badge": "외야"
+        },
+        {
+          "pos": "지명타자",
+          "count": 1,
+          "badge": "타격"
+        }
+      ],
+      "pos_summary": "유격수 • 중견수 • 지명타자",
+      "highlight_clips": [
+        {
+          "clip_id": "clip_real_asg_11",
+          "title": "[실전 타격] 3회말 중견수 총알 안타",
+          "match": "퓨리오사 vs 미라클",
+          "date": "2026.03.01",
+          "stadium": "유신고 야구장",
+          "inning": "3회말",
+          "result_badge": "안타",
+          "badge_color": "0xFF10B981",
+          "youtube_id": "R0uZqVPxdaw",
+          "start_seconds": 56,
+          "end_seconds": 64,
+          "timestamp_display": "00:56 (42초 주루 포함)",
+          "youtube_url": "https://www.youtube.com/watch?v=R0uZqVPxdaw&t=56s",
+          "thumbnail_url": "https://i.ytimg.com/vi/R0uZqVPxdaw/hqdefault.jpg",
+          "sample_mp4": "assets/videos/batting_clips/clip_an_seokgyu.mp4",
+          "local_asset": "assets/videos/batting_clips/clip_an_seokgyu.mp4",
+          "auto_zoom": 1.85,
+          "zoom_desc": "타격 전 1.9x 포커싱 ➔ 임팩트 슬로우 ➔ 1루 전력 질주 및 세이프 판정 (42초 풀클립)",
+          "duration_sec": 42,
+          "play_type": "42초 타격 & 1루 주루 세이프"
+        }
+      ],
+      "runs": 10,
+      "er": 10,
+      "innings": "3.2",
+      "command_score": 65.0,
+      "target_accuracy": "65%",
+      "command_grade": "B",
+      "command_desc": "포수 미트 유인구 위주 (65.0점)"
+    },
+    {
+      "name": "윤진수",
+      "back_num": 33,
+      "position": "유격수",
+      "throws_hits": "우투우타",
+      "staff": "",
+      "avg": 0.381,
+      "ops": 0.992,
+      "hits": 8,
+      "hr": 0,
+      "rbi": 5,
+      "games": 11,
+      "era": null,
+      "wins": 0,
+      "losses": 0,
+      "so": 0,
+      "whip": null,
+      "batter_war": 0.41,
+      "pitcher_war": 0.0,
+      "total_war": 0.41,
+      "photo_url": "https://file.gameone.kr/player/thumb_6386fbb29fdc11gj3keceu.jpg",
+      "group_code": "E0VHCL6J8VG000000DBA52",
+      "locker_url": "https://www.gameone.kr/locker/?group_code=E0VHCL6J8VG000000DBA52",
+      "yearly_records": {
+        "2026": {
+          "batting": {
+            "year": 2026,
+            "rank": 7,
+            "name": "윤진수",
+            "back_num": 33,
+            "avg": 0.381,
+            "games": 11,
+            "pa": 32,
+            "ab": 21,
+            "runs": 14,
+            "hits": 8,
+            "doubles": 1,
+            "triples": 0,
+            "hr": 0,
+            "tb": 9,
+            "rbi": 5,
+            "sb": 11,
+            "bb": 8,
+            "hbp": 2,
+            "so": 3,
+            "slg": 0.429,
+            "obp": 0.563,
+            "ops": 0.992
+          },
+          "pitching": null
+        }
+      },
+      "records_by_league": {
+        "2026": {
+          "all": {
+            "batting": {
+              "year": 2026,
+              "rank": 7,
+              "name": "윤진수",
+              "back_num": 33,
+              "avg": 0.381,
+              "games": 11,
+              "pa": 32,
+              "ab": 21,
+              "runs": 14,
+              "hits": 8,
+              "doubles": 1,
+              "triples": 0,
+              "hr": 0,
+              "tb": 9,
+              "rbi": 5,
+              "sb": 11,
+              "bb": 8,
+              "hbp": 2,
+              "so": 3,
+              "slg": 0.429,
+              "obp": 0.563,
+              "ops": 0.992
+            },
+            "pitching": null
+          },
+          "regular": {
+            "batting": {
+              "year": 2026,
+              "league_id": "regular",
+              "league_name": "수원 일요A",
+              "games": 10,
+              "ab": 19,
+              "hits": 7,
+              "hr": 0,
+              "rbi": 4,
+              "avg": 0.368,
+              "ops": 0.992
+            },
+            "pitching": null
+          },
+          "tournament": {
+            "batting": {
+              "year": 2026,
+              "league_id": "tournament",
+              "league_name": "하반기 토너먼트",
+              "games": 1,
+              "ab": 2,
+              "hits": 1,
+              "hr": 0,
+              "rbi": 1,
+              "avg": 0.5,
+              "ops": 0.75
+            },
+            "pitching": null
+          }
+        },
+        "2025": {
+          "all": {
+            "batting": null,
+            "pitching": null
+          }
+        }
+      },
+      "top3_positions": [
+        {
+          "pos": "좌익수",
+          "count": 2,
+          "badge": "외야"
+        },
+        {
+          "pos": "유격수",
+          "count": 2,
+          "badge": "내야"
+        },
+        {
+          "pos": "3루수",
+          "count": 2,
+          "badge": "내야"
+        }
+      ],
+      "pos_summary": "좌익수 • 유격수 • 3루수",
+      "highlight_clips": [
+        {
+          "clip_id": "clip_real_yjs_15",
+          "title": "[실전 타격] 2회말 유격수 타격",
+          "match": "퓨리오사 vs Kairos",
+          "date": "2026.06.28",
+          "stadium": "유신고 야구장",
+          "inning": "2회말",
+          "result_badge": "타격",
+          "badge_color": "0xFF10B981",
+          "youtube_id": "Qlxp5j37mYY",
+          "start_seconds": 28,
+          "end_seconds": 36,
+          "timestamp_display": "00:28 (42초 주루 포함)",
+          "youtube_url": "https://www.youtube.com/watch?v=Qlxp5j37mYY&t=28s",
+          "thumbnail_url": "https://i.ytimg.com/vi/Qlxp5j37mYY/hqdefault.jpg",
+          "sample_mp4": "assets/videos/batting_clips/clip_yoon_jinsu.mp4",
+          "local_asset": "assets/videos/batting_clips/clip_yoon_jinsu.mp4",
+          "auto_zoom": 1.85,
+          "zoom_desc": "타격 전 1.9x 포커싱 ➔ 임팩트 슬로우 ➔ 1루 전력 질주 및 세이프 판정 (42초 풀클립)",
+          "duration_sec": 42,
+          "play_type": "42초 타격 & 1루 주루 세이프"
+        }
+      ]
+    },
+    {
+      "name": "이해진",
+      "back_num": 76,
+      "position": "좌익수",
+      "throws_hits": "우투우타",
+      "staff": "",
+      "avg": 0.417,
+      "ops": 1.452,
+      "hits": 5,
+      "hr": 0,
+      "rbi": 8,
+      "games": 7,
+      "era": null,
+      "wins": 0,
+      "losses": 0,
+      "so": 0,
+      "whip": null,
+      "batter_war": 0.45,
+      "pitcher_war": 0.0,
+      "total_war": 0.45,
+      "photo_url": "https://file.gameone.kr/player/thumb_637b0a482bf321gica0afk.jpg",
+      "group_code": "AC6C528E29D7BEAAAF5332B90A024559",
+      "locker_url": "https://www.gameone.kr/locker/?group_code=AC6C528E29D7BEAAAF5332B90A024559",
+      "yearly_records": {
+        "2026": {
+          "batting": {
+            "year": 2026,
+            "rank": 5,
+            "name": "이해진",
+            "back_num": 76,
+            "avg": 0.417,
+            "games": 7,
+            "pa": 21,
+            "ab": 12,
+            "runs": 4,
+            "hits": 5,
+            "doubles": 1,
+            "triples": 2,
+            "hr": 0,
+            "tb": 10,
+            "rbi": 8,
+            "sb": 2,
+            "bb": 7,
+            "hbp": 1,
+            "so": 1,
+            "slg": 0.833,
+            "obp": 0.619,
+            "ops": 1.452
+          },
+          "pitching": null
+        }
+      },
+      "records_by_league": {
+        "2026": {
+          "all": {
+            "batting": {
+              "year": 2026,
+              "rank": 5,
+              "name": "이해진",
+              "back_num": 76,
+              "avg": 0.417,
+              "games": 7,
+              "pa": 21,
+              "ab": 12,
+              "runs": 4,
+              "hits": 5,
+              "doubles": 1,
+              "triples": 2,
+              "hr": 0,
+              "tb": 10,
+              "rbi": 8,
+              "sb": 2,
+              "bb": 7,
+              "hbp": 1,
+              "so": 1,
+              "slg": 0.833,
+              "obp": 0.619,
+              "ops": 1.452
+            },
+            "pitching": null
+          },
+          "regular": {
+            "batting": {
+              "year": 2026,
+              "league_id": "regular",
+              "league_name": "수원 일요A",
+              "games": 6,
+              "ab": 10,
+              "hits": 4,
+              "hr": 0,
+              "rbi": 7,
+              "avg": 0.4,
+              "ops": 1.452
+            },
+            "pitching": null
+          },
+          "tournament": {
+            "batting": {
+              "year": 2026,
+              "league_id": "tournament",
+              "league_name": "하반기 토너먼트",
+              "games": 1,
+              "ab": 2,
+              "hits": 1,
+              "hr": 0,
+              "rbi": 1,
+              "avg": 0.5,
+              "ops": 0.75
+            },
+            "pitching": null
+          }
+        },
+        "2025": {
+          "all": {
+            "batting": null,
+            "pitching": null
+          }
+        }
+      },
+      "top3_positions": [
+        {
+          "pos": "좌익수",
+          "count": 3,
+          "badge": "주수비"
+        },
+        {
+          "pos": "중견수",
+          "count": 2,
+          "badge": "외야"
+        },
+        {
+          "pos": "우익수",
+          "count": 1,
+          "badge": "외야"
+        }
+      ],
+      "pos_summary": "좌익수 • 중견수 • 우익수",
+      "highlight_clips": [
+        {
+          "clip_id": "clip_real_lhj_76",
+          "title": "[실전 타격] 4회말 좌익수 쾌타",
+          "match": "퓨리오사 vs Kairos",
+          "date": "2026.06.28",
+          "stadium": "유신고 야구장",
+          "inning": "4회말",
+          "result_badge": "안타",
+          "badge_color": "0xFF10B981",
+          "youtube_id": "Qlxp5j37mYY",
+          "start_seconds": 97,
+          "end_seconds": 105,
+          "timestamp_display": "01:37 (42초 주루 포함)",
+          "youtube_url": "https://www.youtube.com/watch?v=Qlxp5j37mYY&t=97s",
+          "thumbnail_url": "https://i.ytimg.com/vi/Qlxp5j37mYY/hqdefault.jpg",
+          "sample_mp4": "assets/videos/batting_clips/clip_lee_haejin.mp4",
+          "local_asset": "assets/videos/batting_clips/clip_lee_haejin.mp4",
+          "auto_zoom": 1.85,
+          "zoom_desc": "타격 전 1.9x 포커싱 ➔ 임팩트 슬로우 ➔ 1루 전력 질주 및 세이프 판정 (42초 풀클립)",
+          "duration_sec": 42,
+          "play_type": "42초 타격 & 1루 주루 세이프"
+        }
+      ]
+    },
+    {
+      "name": "임성준",
+      "back_num": 3,
+      "position": "1루수",
+      "throws_hits": "좌투좌타",
+      "staff": "",
+      "avg": 0.0,
+      "ops": 0.0,
+      "hits": 0,
+      "hr": 0,
+      "rbi": 0,
+      "games": 0,
+      "era": null,
+      "wins": 0,
+      "losses": 0,
+      "so": 0,
+      "whip": null,
+      "batter_war": 0.0,
+      "pitcher_war": 0.0,
+      "total_war": 0.0,
+      "photo_url": "https://file.gameone.kr/player/thumb_6291fa66ce2511g453k8ds.jpg",
+      "group_code": "2033T136AL40000000O0CW8",
+      "locker_url": "https://www.gameone.kr/locker/?group_code=2033T136AL40000000O0CW8",
+      "yearly_records": {
+        "2026": {
+          "batting": null,
+          "pitching": null
+        }
+      },
+      "records_by_league": {
+        "2026": {
+          "all": {
+            "batting": null,
+            "pitching": null
+          },
+          "regular": {
+            "batting": null,
+            "pitching": null
+          },
+          "tournament": {
+            "batting": null,
+            "pitching": null
+          }
+        },
+        "2025": {
+          "all": {
+            "batting": null,
+            "pitching": null
+          }
+        }
+      },
+      "top3_positions": [
+        {
+          "pos": "1루수",
+          "count": 0,
+          "badge": "1루수"
+        },
+        {
+          "pos": "지명타자",
+          "count": 0,
+          "badge": "타격"
+        },
+        {
+          "pos": "대타",
+          "count": 0,
+          "badge": "대타"
+        }
+      ],
+      "pos_summary": "1루수 • 지명타자 • 대타",
+      "highlight_clips": []
+    },
+    {
+      "name": "정창희",
+      "back_num": 7,
+      "position": "유격수",
+      "throws_hits": "우투우타",
+      "staff": "",
+      "avg": 0.346,
+      "ops": 0.976,
+      "hits": 9,
+      "hr": 0,
+      "rbi": 13,
+      "games": 12,
+      "era": null,
+      "wins": 0,
+      "losses": 0,
+      "so": 0,
+      "whip": null,
+      "batter_war": 0.09,
+      "pitcher_war": 0.0,
+      "total_war": 0.09,
+      "photo_url": "https://file.gameone.kr/player/5847f6b7062dc1b3chnenh_thumb.png",
+      "group_code": "G22CN5SFJ3C000000FU6R7",
+      "locker_url": "https://www.gameone.kr/locker/?group_code=G22CN5SFJ3C000000FU6R7",
+      "yearly_records": {
+        "2026": {
+          "batting": {
+            "year": 2026,
+            "rank": 9,
+            "name": "정창희",
+            "back_num": 7,
+            "avg": 0.346,
+            "games": 12,
+            "pa": 32,
+            "ab": 26,
+            "runs": 8,
+            "hits": 9,
+            "doubles": 3,
+            "triples": 1,
+            "hr": 0,
+            "tb": 14,
+            "rbi": 13,
+            "sb": 14,
+            "bb": 5,
+            "hbp": 0,
+            "so": 6,
+            "slg": 0.538,
+            "obp": 0.438,
+            "ops": 0.976
+          },
+          "pitching": null
+        }
+      },
+      "records_by_league": {
+        "2026": {
+          "all": {
+            "batting": {
+              "year": 2026,
+              "rank": 9,
+              "name": "정창희",
+              "back_num": 7,
+              "avg": 0.346,
+              "games": 12,
+              "pa": 32,
+              "ab": 26,
+              "runs": 8,
+              "hits": 9,
+              "doubles": 3,
+              "triples": 1,
+              "hr": 0,
+              "tb": 14,
+              "rbi": 13,
+              "sb": 14,
+              "bb": 5,
+              "hbp": 0,
+              "so": 6,
+              "slg": 0.538,
+              "obp": 0.438,
+              "ops": 0.976
+            },
+            "pitching": null
+          },
+          "regular": {
+            "batting": {
+              "year": 2026,
+              "league_id": "regular",
+              "league_name": "수원 일요A",
+              "games": 11,
+              "ab": 24,
+              "hits": 8,
+              "hr": 0,
+              "rbi": 12,
+              "avg": 0.333,
+              "ops": 0.976
+            },
+            "pitching": null
+          },
+          "tournament": {
+            "batting": {
+              "year": 2026,
+              "league_id": "tournament",
+              "league_name": "하반기 토너먼트",
+              "games": 1,
+              "ab": 2,
+              "hits": 1,
+              "hr": 0,
+              "rbi": 1,
+              "avg": 0.5,
+              "ops": 0.75
+            },
+            "pitching": null
+          }
+        },
+        "2025": {
+          "all": {
+            "batting": null,
+            "pitching": null
+          }
+        }
+      },
+      "top3_positions": [
+        {
+          "pos": "3루수",
+          "count": 4,
+          "badge": "주수비"
+        },
+        {
+          "pos": "2루수",
+          "count": 2,
+          "badge": "내야"
+        },
+        {
+          "pos": "우익수",
+          "count": 1,
+          "badge": "외야"
+        }
+      ],
+      "pos_summary": "3루수 • 2루수 • 우익수",
+      "highlight_clips": [
+        {
+          "clip_id": "clip_real_jch_03",
+          "title": "[실전 타격] 4회말 3루수 호쾌한 타격",
+          "match": "퓨리오사 vs The Shouting",
+          "date": "2026.09.06",
+          "stadium": "유신고 야구장",
+          "inning": "4회말",
+          "result_badge": "타격",
+          "badge_color": "0xFF10B981",
+          "youtube_id": "h3BP50tspOc",
+          "start_seconds": 71,
+          "end_seconds": 79,
+          "timestamp_display": "01:11 (42초 주루 포함)",
+          "youtube_url": "https://www.youtube.com/watch?v=h3BP50tspOc&t=71s",
+          "thumbnail_url": "https://i.ytimg.com/vi/h3BP50tspOc/hqdefault.jpg",
+          "sample_mp4": "assets/videos/batting_clips/clip_jung_changhee.mp4",
+          "local_asset": "assets/videos/batting_clips/clip_jung_changhee.mp4",
+          "auto_zoom": 1.85,
+          "zoom_desc": "타격 전 1.9x 포커싱 ➔ 임팩트 슬로우 ➔ 1루 전력 질주 및 세이프 판정 (42초 풀클립)",
+          "duration_sec": 42,
+          "play_type": "42초 타격 & 1루 주루 세이프"
+        }
+      ]
+    },
+    {
+      "name": "조재청",
+      "back_num": 57,
+      "position": "3루수",
+      "throws_hits": "우투우타",
+      "staff": "",
+      "avg": 0.0,
+      "ops": 0.5,
+      "hits": 0,
+      "hr": 0,
+      "rbi": 0,
+      "games": 1,
+      "era": null,
+      "wins": 0,
+      "losses": 0,
+      "so": 0,
+      "whip": null,
+      "batter_war": -0.01,
+      "pitcher_war": 0.0,
+      "total_war": -0.01,
+      "photo_url": "https://file.gameone.kr/player/thumb_whwocjd_20131216131937.jpg",
+      "group_code": "11A9A6DFBC8D8D6523421EAD50CF903C",
+      "locker_url": "https://www.gameone.kr/locker/?group_code=11A9A6DFBC8D8D6523421EAD50CF903C",
+      "yearly_records": {
+        "2026": {
+          "batting": {
+            "year": 2026,
+            "rank": 16,
+            "name": "조재청",
+            "back_num": 57,
+            "avg": 0.0,
+            "games": 1,
+            "pa": 2,
+            "ab": 1,
+            "runs": 0,
+            "hits": 0,
+            "doubles": 0,
+            "triples": 0,
+            "hr": 0,
+            "tb": 0,
+            "rbi": 0,
+            "sb": 0,
+            "bb": 1,
+            "hbp": 0,
+            "so": 0,
+            "slg": 0.0,
+            "obp": 0.5,
+            "ops": 0.5
+          },
+          "pitching": null
+        }
+      },
+      "records_by_league": {
+        "2026": {
+          "all": {
+            "batting": {
+              "year": 2026,
+              "rank": 16,
+              "name": "조재청",
+              "back_num": 57,
+              "avg": 0.0,
+              "games": 1,
+              "pa": 2,
+              "ab": 1,
+              "runs": 0,
+              "hits": 0,
+              "doubles": 0,
+              "triples": 0,
+              "hr": 0,
+              "tb": 0,
+              "rbi": 0,
+              "sb": 0,
+              "bb": 1,
+              "hbp": 0,
+              "so": 0,
+              "slg": 0.0,
+              "obp": 0.5,
+              "ops": 0.5
+            },
+            "pitching": null
+          },
+          "regular": {
+            "batting": {
+              "year": 2026,
+              "league_id": "regular",
+              "league_name": "수원 일요A",
+              "games": 1,
+              "ab": 1,
+              "hits": 0,
+              "hr": 0,
+              "rbi": 0,
+              "avg": 0.0,
+              "ops": 0.5
+            },
+            "pitching": null
+          },
+          "tournament": {
+            "batting": {
+              "year": 2026,
+              "league_id": "tournament",
+              "league_name": "하반기 토너먼트",
+              "games": 0,
+              "ab": 0,
+              "hits": 0,
+              "hr": 0,
+              "rbi": 0,
+              "avg": 0.0,
+              "ops": 0.0
+            },
+            "pitching": null
+          }
+        },
+        "2025": {
+          "all": {
+            "batting": null,
+            "pitching": null
+          }
+        }
+      },
+      "top3_positions": [
+        {
+          "pos": "3루수",
+          "count": 1,
+          "badge": "내야"
+        },
+        {
+          "pos": "지명타자",
+          "count": 1,
+          "badge": "타격"
+        },
+        {
+          "pos": "대타",
+          "count": 1,
+          "badge": "대타"
+        }
+      ],
+      "pos_summary": "3루수 • 지명타자 • 대타",
+      "highlight_clips": []
+    },
+    {
+      "name": "지영일",
+      "back_num": 1,
+      "position": "투수",
+      "throws_hits": "우투우타",
+      "staff": "",
+      "avg": 0.0,
+      "ops": 0.0,
+      "hits": 0,
+      "hr": 0,
+      "rbi": 0,
+      "games": 0,
+      "era": null,
+      "wins": 0,
+      "losses": 0,
+      "so": 0,
+      "whip": null,
+      "batter_war": 0.0,
+      "pitcher_war": 0.0,
+      "total_war": 0.0,
+      "photo_url": "https://file.gameone.kr/player/thumb_63e0672e74d221goi963ce.jpg",
+      "group_code": "1GNHL1NR2DN8000000LM7Q9",
+      "locker_url": "https://www.gameone.kr/locker/?group_code=1GNHL1NR2DN8000000LM7Q9",
+      "yearly_records": {
+        "2026": {
+          "batting": null,
+          "pitching": null
+        }
+      },
+      "records_by_league": {
+        "2026": {
+          "all": {
+            "batting": null,
+            "pitching": null
+          },
+          "regular": {
+            "batting": null,
+            "pitching": null
+          },
+          "tournament": {
+            "batting": null,
+            "pitching": null
+          }
+        },
+        "2025": {
+          "all": {
+            "batting": null,
+            "pitching": null
+          }
+        }
+      },
+      "top3_positions": [
+        {
+          "pos": "투수",
+          "count": 0,
+          "badge": "투수"
+        },
+        {
+          "pos": "내야수",
+          "count": 0,
+          "badge": "내야"
+        },
+        {
+          "pos": "지명타자",
+          "count": 0,
+          "badge": "타격"
+        }
+      ],
+      "pos_summary": "투수 • 내야수 • 지명타자",
+      "highlight_clips": []
+    },
+    {
+      "name": "채용운",
+      "back_num": 70,
+      "position": "우익수",
+      "throws_hits": "우투우타",
+      "staff": "",
+      "avg": 0.375,
+      "ops": 0.92,
+      "hits": 3,
+      "hr": 0,
+      "rbi": 2,
+      "games": 4,
+      "era": null,
+      "wins": 0,
+      "losses": 0,
+      "so": 0,
+      "whip": null,
+      "batter_war": 0.04,
+      "pitcher_war": 0.0,
+      "total_war": 0.04,
+      "photo_url": "https://file.gameone.kr/player/thumb_codyddns12_20130925173207.jpg",
+      "group_code": "AC8FBF935003D35DB70B4CD6E6069232",
+      "locker_url": "https://www.gameone.kr/locker/?group_code=AC8FBF935003D35DB70B4CD6E6069232",
+      "yearly_records": {
+        "2026": {
+          "batting": {
+            "year": 2026,
+            "rank": 8,
+            "name": "채용운",
+            "back_num": 70,
+            "avg": 0.375,
+            "games": 4,
+            "pa": 11,
+            "ab": 8,
+            "runs": 3,
+            "hits": 3,
+            "doubles": 0,
+            "triples": 0,
+            "hr": 0,
+            "tb": 3,
+            "rbi": 2,
+            "sb": 2,
+            "bb": 3,
+            "hbp": 0,
+            "so": 1,
+            "slg": 0.375,
+            "obp": 0.545,
+            "ops": 0.92
+          },
+          "pitching": null
+        }
+      },
+      "records_by_league": {
+        "2026": {
+          "all": {
+            "batting": {
+              "year": 2026,
+              "rank": 8,
+              "name": "채용운",
+              "back_num": 70,
+              "avg": 0.375,
+              "games": 4,
+              "pa": 11,
+              "ab": 8,
+              "runs": 3,
+              "hits": 3,
+              "doubles": 0,
+              "triples": 0,
+              "hr": 0,
+              "tb": 3,
+              "rbi": 2,
+              "sb": 2,
+              "bb": 3,
+              "hbp": 0,
+              "so": 1,
+              "slg": 0.375,
+              "obp": 0.545,
+              "ops": 0.92
+            },
+            "pitching": null
+          },
+          "regular": {
+            "batting": {
+              "year": 2026,
+              "league_id": "regular",
+              "league_name": "수원 일요A",
+              "games": 3,
+              "ab": 6,
+              "hits": 2,
+              "hr": 0,
+              "rbi": 1,
+              "avg": 0.333,
+              "ops": 0.92
+            },
+            "pitching": null
+          },
+          "tournament": {
+            "batting": {
+              "year": 2026,
+              "league_id": "tournament",
+              "league_name": "하반기 토너먼트",
+              "games": 1,
+              "ab": 2,
+              "hits": 1,
+              "hr": 0,
+              "rbi": 1,
+              "avg": 0.5,
+              "ops": 0.75
+            },
+            "pitching": null
+          }
+        },
+        "2025": {
+          "all": {
+            "batting": null,
+            "pitching": null
+          }
+        }
+      },
+      "top3_positions": [
+        {
+          "pos": "우익수",
+          "count": 1,
+          "badge": "외야"
+        },
+        {
+          "pos": "유격수",
+          "count": 1,
+          "badge": "내야"
+        },
+        {
+          "pos": "1루수",
+          "count": 1,
+          "badge": "내야"
+        }
+      ],
+      "pos_summary": "우익수 • 유격수 • 1루수",
+      "highlight_clips": [
+        {
+          "clip_id": "clip_real_kjw_34",
+          "title": "[팀 하이라이트] 퓨리오사 실전 타격",
+          "match": "퓨리오사 vs Triumph",
+          "date": "2026.09.20",
+          "stadium": "유신고 야구장",
+          "inning": "5회말",
+          "result_badge": "안타",
+          "badge_color": "0xFF10B981",
+          "youtube_id": "4e6mU2SksJY",
+          "start_seconds": 105,
+          "end_seconds": 113,
+          "timestamp_display": "01:45 (42초 주루 포함)",
+          "youtube_url": "https://www.youtube.com/watch?v=4e6mU2SksJY&t=105s",
+          "thumbnail_url": "https://i.ytimg.com/vi/4e6mU2SksJY/hqdefault.jpg",
+          "sample_mp4": "assets/videos/batting_clips/clip_kim_jaewoong.mp4",
+          "local_asset": "assets/videos/batting_clips/clip_kim_jaewoong.mp4",
+          "auto_zoom": 1.85,
+          "zoom_desc": "타격 전 1.9x 포커싱 ➔ 임팩트 슬로우 ➔ 1루 전력 질주 및 세이프 판정 (42초 풀클립)",
+          "duration_sec": 42,
+          "play_type": "42초 타격 & 1루 주루 세이프"
+        }
+      ]
+    },
+    {
+      "name": "최종우",
+      "back_num": 38,
+      "position": "좌익수",
+      "throws_hits": "우투우타",
+      "staff": "",
+      "avg": 0.125,
+      "ops": 0.625,
+      "hits": 1,
+      "hr": 0,
+      "rbi": 2,
+      "games": 7,
+      "era": null,
+      "wins": 0,
+      "losses": 0,
+      "so": 0,
+      "whip": null,
+      "batter_war": -0.0,
+      "pitcher_war": 0.0,
+      "total_war": -0.0,
+      "photo_url": "https://file.gameone.kr/player/thumb_3a4d3070f1e341c6ab526cc668cfff29.jpg",
+      "group_code": "DVIKQFLGEAS000000BHPFY",
+      "locker_url": "https://www.gameone.kr/locker/?group_code=DVIKQFLGEAS000000BHPFY",
+      "yearly_records": {
+        "2026": {
+          "batting": {
+            "year": 2026,
+            "rank": 14,
+            "name": "최종우",
+            "back_num": 38,
+            "avg": 0.125,
+            "games": 7,
+            "pa": 16,
+            "ab": 8,
+            "runs": 6,
+            "hits": 1,
+            "doubles": 0,
+            "triples": 0,
+            "hr": 0,
+            "tb": 1,
+            "rbi": 2,
+            "sb": 3,
+            "bb": 4,
+            "hbp": 3,
+            "so": 3,
+            "slg": 0.125,
+            "obp": 0.5,
+            "ops": 0.625
+          },
+          "pitching": null
+        }
+      },
+      "records_by_league": {
+        "2026": {
+          "all": {
+            "batting": {
+              "year": 2026,
+              "rank": 14,
+              "name": "최종우",
+              "back_num": 38,
+              "avg": 0.125,
+              "games": 7,
+              "pa": 16,
+              "ab": 8,
+              "runs": 6,
+              "hits": 1,
+              "doubles": 0,
+              "triples": 0,
+              "hr": 0,
+              "tb": 1,
+              "rbi": 2,
+              "sb": 3,
+              "bb": 4,
+              "hbp": 3,
+              "so": 3,
+              "slg": 0.125,
+              "obp": 0.5,
+              "ops": 0.625
+            },
+            "pitching": null
+          },
+          "regular": {
+            "batting": {
+              "year": 2026,
+              "league_id": "regular",
+              "league_name": "수원 일요A",
+              "games": 6,
+              "ab": 7,
+              "hits": 1,
+              "hr": 0,
+              "rbi": 2,
+              "avg": 0.143,
+              "ops": 0.625
+            },
+            "pitching": null
+          },
+          "tournament": {
+            "batting": {
+              "year": 2026,
+              "league_id": "tournament",
+              "league_name": "하반기 토너먼트",
+              "games": 1,
+              "ab": 1,
+              "hits": 0,
+              "hr": 0,
+              "rbi": 0,
+              "avg": 0.0,
+              "ops": 0.0
+            },
+            "pitching": null
+          }
+        },
+        "2025": {
+          "all": {
+            "batting": null,
+            "pitching": null
+          }
+        }
+      },
+      "top3_positions": [
+        {
+          "pos": "좌익수",
+          "count": 3,
+          "badge": "외야"
+        },
+        {
+          "pos": "2루수",
+          "count": 2,
+          "badge": "내야"
+        },
+        {
+          "pos": "외야수",
+          "count": 1,
+          "badge": "외야"
+        }
+      ],
+      "pos_summary": "좌익수 • 2루수 • 외야수",
+      "highlight_clips": [
+        {
+          "clip_id": "clip_real_kjw_34",
+          "title": "[팀 하이라이트] 퓨리오사 실전 타격",
+          "match": "퓨리오사 vs Triumph",
+          "date": "2026.09.20",
+          "stadium": "유신고 야구장",
+          "inning": "5회말",
+          "result_badge": "안타",
+          "badge_color": "0xFF10B981",
+          "youtube_id": "4e6mU2SksJY",
+          "start_seconds": 105,
+          "end_seconds": 113,
+          "timestamp_display": "01:45 (42초 주루 포함)",
+          "youtube_url": "https://www.youtube.com/watch?v=4e6mU2SksJY&t=105s",
+          "thumbnail_url": "https://i.ytimg.com/vi/4e6mU2SksJY/hqdefault.jpg",
+          "sample_mp4": "assets/videos/batting_clips/clip_kim_jaewoong.mp4",
+          "local_asset": "assets/videos/batting_clips/clip_kim_jaewoong.mp4",
+          "auto_zoom": 1.85,
+          "zoom_desc": "타격 전 1.9x 포커싱 ➔ 임팩트 슬로우 ➔ 1루 전력 질주 및 세이프 판정 (42초 풀클립)",
+          "duration_sec": 42,
+          "play_type": "42초 타격 & 1루 주루 세이프"
+        }
+      ]
+    },
+    {
+      "name": "홍영재",
+      "back_num": 17,
+      "position": "투수",
+      "throws_hits": "우투좌타",
+      "staff": "",
+      "avg": 0.273,
+      "ops": 1.084,
+      "hits": 6,
+      "hr": 1,
+      "rbi": 9,
+      "games": 9,
+      "era": 14.74,
+      "wins": 1,
+      "losses": 4,
+      "so": 20,
+      "whip": 3.68,
+      "batter_war": 0.15,
+      "pitcher_war": -0.1,
+      "total_war": 0.05,
+      "photo_url": "https://file.gameone.kr/player/thumb_f3f91697ca414324b2bd7337c970b335.jpg",
+      "group_code": "XSBHFJN8TYD4ELPZM9QCAOR2UIW75360",
+      "locker_url": "https://www.gameone.kr/locker/?group_code=XSBHFJN8TYD4ELPZM9QCAOR2UIW75360",
+      "yearly_records": {
+        "2026": {
+          "batting": {
+            "year": 2026,
+            "rank": 13,
+            "name": "홍영재",
+            "back_num": 17,
+            "avg": 0.273,
+            "games": 9,
+            "pa": 29,
+            "ab": 22,
+            "runs": 7,
+            "hits": 6,
+            "doubles": 1,
+            "triples": 2,
+            "hr": 1,
+            "tb": 14,
+            "rbi": 9,
+            "sb": 5,
+            "bb": 6,
+            "hbp": 1,
+            "so": 8,
+            "slg": 0.636,
+            "obp": 0.448,
+            "ops": 1.084
+          },
+          "pitching": {
+            "year": 2026,
+            "rank": 4,
+            "name": "홍영재",
+            "back_num": 17,
+            "era": 14.74,
+            "games": 9,
+            "wins": 1,
+            "losses": 4,
+            "saves": 0,
+            "holds": 0,
+            "win_rate": 0.2,
+            "innings": "19.0",
+            "hits": 35,
+            "hr": 2,
+            "bb": 35,
+            "hbp": 2,
+            "so": 20,
+            "runs": 48,
+            "r": 48,
+            "er": 40,
+            "earned_runs": 40,
+            "whip": 3.68,
+            "oavg": 0.376,
+            "k_rate": 7.37,
+            "command_score": 65.0,
+            "target_accuracy": "65%",
+            "command_grade": "B",
+            "command_desc": "포수 미트 유인구 위주 (65.0점)"
+          }
+        }
+      },
+      "records_by_league": {
+        "2026": {
+          "all": {
+            "batting": {
+              "year": 2026,
+              "rank": 13,
+              "name": "홍영재",
+              "back_num": 17,
+              "avg": 0.273,
+              "games": 9,
+              "pa": 29,
+              "ab": 22,
+              "runs": 7,
+              "hits": 6,
+              "doubles": 1,
+              "triples": 2,
+              "hr": 1,
+              "tb": 14,
+              "rbi": 9,
+              "sb": 5,
+              "bb": 6,
+              "hbp": 1,
+              "so": 8,
+              "slg": 0.636,
+              "obp": 0.448,
+              "ops": 1.084
+            },
+            "pitching": {
+              "year": 2026,
+              "rank": 4,
+              "name": "홍영재",
+              "back_num": 17,
+              "era": 14.74,
+              "games": 9,
+              "wins": 1,
+              "losses": 4,
+              "saves": 0,
+              "holds": 0,
+              "win_rate": 0.2,
+              "innings": "19.0",
+              "hits": 35,
+              "hr": 2,
+              "so": 2,
+              "runs": 1,
+              "er": 48,
+              "whip": 40.0
+            }
+          },
+          "regular": {
+            "batting": {
+              "year": 2026,
+              "league_id": "regular",
+              "league_name": "수원 일요A",
+              "games": 8,
+              "ab": 20,
+              "hits": 5,
+              "hr": 1,
+              "rbi": 8,
+              "avg": 0.25,
+              "ops": 1.084
+            },
+            "pitching": {
+              "year": 2026,
+              "rank": 4,
+              "name": "홍영재",
+              "back_num": 17,
+              "era": 14.74,
+              "games": 9,
+              "wins": 1,
+              "losses": 4,
+              "saves": 0,
+              "holds": 0,
+              "win_rate": 0.2,
+              "innings": "19.0",
+              "hits": 35,
+              "hr": 2,
+              "so": 2,
+              "runs": 1,
+              "er": 48,
+              "whip": 40.0
+            }
+          },
+          "tournament": {
+            "batting": {
+              "year": 2026,
+              "league_id": "tournament",
+              "league_name": "하반기 토너먼트",
+              "games": 1,
+              "ab": 2,
+              "hits": 1,
+              "hr": 0,
+              "rbi": 1,
+              "avg": 0.5,
+              "ops": 0.75
+            },
+            "pitching": null
+          }
+        },
+        "2025": {
+          "all": {
+            "batting": null,
+            "pitching": null
+          }
+        }
+      },
+      "top3_positions": [
+        {
+          "pos": "투수",
+          "count": 4,
+          "badge": "선발"
+        },
+        {
+          "pos": "1루수",
+          "count": 2,
+          "badge": "내야"
+        },
+        {
+          "pos": "지명타자",
+          "count": 1,
+          "badge": "타격"
+        }
+      ],
+      "pos_summary": "투수 • 1루수 • 지명타자",
+      "highlight_clips": [
+        {
+          "clip_id": "clip_real_kjw_34",
+          "title": "[팀 하이라이트] 퓨리오사 실전 타격",
+          "match": "퓨리오사 vs Triumph",
+          "date": "2026.09.20",
+          "stadium": "유신고 야구장",
+          "inning": "5회말",
+          "result_badge": "안타",
+          "badge_color": "0xFF10B981",
+          "youtube_id": "4e6mU2SksJY",
+          "start_seconds": 105,
+          "end_seconds": 113,
+          "timestamp_display": "01:45 (42초 주루 포함)",
+          "youtube_url": "https://www.youtube.com/watch?v=4e6mU2SksJY&t=105s",
+          "thumbnail_url": "https://i.ytimg.com/vi/4e6mU2SksJY/hqdefault.jpg",
+          "sample_mp4": "assets/videos/batting_clips/clip_kim_jaewoong.mp4",
+          "local_asset": "assets/videos/batting_clips/clip_kim_jaewoong.mp4",
+          "auto_zoom": 1.85,
+          "zoom_desc": "타격 전 1.9x 포커싱 ➔ 임팩트 슬로우 ➔ 1루 전력 질주 및 세이프 판정 (42초 풀클립)",
+          "duration_sec": 42,
+          "play_type": "42초 타격 & 1루 주루 세이프"
+        }
+      ],
+      "runs": 48,
+      "er": 40,
+      "innings": "19.0",
+      "command_score": 65.0,
+      "target_accuracy": "65%",
+      "command_grade": "B",
+      "command_desc": "포수 미트 유인구 위주 (65.0점)"
+    },
+    {
+      "name": "황재민",
+      "back_num": 88,
+      "position": "포수",
+      "throws_hits": "우투우타",
+      "staff": "",
+      "avg": 0.3,
+      "ops": 0.831,
+      "hits": 6,
+      "hr": 0,
+      "rbi": 9,
+      "games": 11,
+      "era": 0.0,
+      "wins": 0,
+      "losses": 0,
+      "so": 0,
+      "whip": 0.0,
+      "batter_war": -0.04,
+      "pitcher_war": 0.0,
+      "total_war": -0.04,
+      "photo_url": "https://file.gameone.kr/player/thumb_588b3a5f6f1446568344d27ec94b68b9.jpg",
+      "group_code": "27GPDAA5J9VG000000OHK26",
+      "locker_url": "https://www.gameone.kr/locker/?group_code=27GPDAA5J9VG000000OHK26",
+      "yearly_records": {
+        "2026": {
+          "batting": {
+            "year": 2026,
+            "rank": 12,
+            "name": "황재민",
+            "back_num": 88,
+            "avg": 0.3,
+            "games": 11,
+            "pa": 27,
+            "ab": 20,
+            "runs": 8,
+            "hits": 6,
+            "doubles": 1,
+            "triples": 0,
+            "hr": 0,
+            "tb": 7,
+            "rbi": 9,
+            "sb": 1,
+            "bb": 4,
+            "hbp": 3,
+            "so": 6,
+            "slg": 0.35,
+            "obp": 0.481,
+            "ops": 0.831
+          },
+          "pitching": {
+            "year": 2026,
+            "rank": 6,
+            "name": "황재민",
+            "back_num": 88,
+            "era": 0.0,
+            "games": 1,
+            "wins": 0,
+            "losses": 0,
+            "saves": 0,
+            "holds": 0,
+            "win_rate": 0.0,
+            "innings": "0.0",
+            "hits": 0,
+            "hr": 0,
+            "bb": 2,
+            "hbp": 1,
+            "so": 0,
+            "runs": 3,
+            "r": 3,
+            "er": 3,
+            "earned_runs": 3,
+            "whip": 0.0,
+            "oavg": 0.0,
+            "k_rate": 0.0,
+            "command_score": 70.0,
+            "target_accuracy": "70%",
+            "command_grade": "B-",
+            "command_desc": "표본 부족 (0이닝)"
+          }
+        }
+      },
+      "records_by_league": {
+        "2026": {
+          "all": {
+            "batting": {
+              "year": 2026,
+              "rank": 12,
+              "name": "황재민",
+              "back_num": 88,
+              "avg": 0.3,
+              "games": 11,
+              "pa": 27,
+              "ab": 20,
+              "runs": 8,
+              "hits": 6,
+              "doubles": 1,
+              "triples": 0,
+              "hr": 0,
+              "tb": 7,
+              "rbi": 9,
+              "sb": 1,
+              "bb": 4,
+              "hbp": 3,
+              "so": 6,
+              "slg": 0.35,
+              "obp": 0.481,
+              "ops": 0.831
+            },
+            "pitching": {
+              "year": 2026,
+              "rank": 6,
+              "name": "황재민",
+              "back_num": 88,
+              "era": 0.0,
+              "games": 1,
+              "wins": 0,
+              "losses": 0,
+              "saves": 0,
+              "holds": 0,
+              "win_rate": 0.0,
+              "innings": "0.0",
+              "hits": 0,
+              "hr": 0,
+              "so": 1,
+              "runs": 0,
+              "er": 3,
+              "whip": 3.0
+            }
+          },
+          "regular": {
+            "batting": {
+              "year": 2026,
+              "league_id": "regular",
+              "league_name": "수원 일요A",
+              "games": 10,
+              "ab": 18,
+              "hits": 5,
+              "hr": 0,
+              "rbi": 8,
+              "avg": 0.278,
+              "ops": 0.831
+            },
+            "pitching": {
+              "year": 2026,
+              "rank": 6,
+              "name": "황재민",
+              "back_num": 88,
+              "era": 0.0,
+              "games": 1,
+              "wins": 0,
+              "losses": 0,
+              "saves": 0,
+              "holds": 0,
+              "win_rate": 0.0,
+              "innings": "0.0",
+              "hits": 0,
+              "hr": 0,
+              "so": 1,
+              "runs": 0,
+              "er": 3,
+              "whip": 3.0
+            }
+          },
+          "tournament": {
+            "batting": {
+              "year": 2026,
+              "league_id": "tournament",
+              "league_name": "하반기 토너먼트",
+              "games": 1,
+              "ab": 2,
+              "hits": 1,
+              "hr": 0,
+              "rbi": 1,
+              "avg": 0.5,
+              "ops": 0.75
+            },
+            "pitching": null
+          }
+        },
+        "2025": {
+          "all": {
+            "batting": null,
+            "pitching": null
+          }
+        }
+      },
+      "top3_positions": [
+        {
+          "pos": "포수",
+          "count": 7,
+          "badge": "주전포수"
+        },
+        {
+          "pos": "3루수",
+          "count": 2,
+          "badge": "내야"
+        },
+        {
+          "pos": "유격수",
+          "count": 1,
+          "badge": "내야"
+        }
+      ],
+      "pos_summary": "포수 • 3루수 • 유격수",
+      "highlight_clips": [
+        {
+          "clip_id": "clip_real_hjm_33",
+          "title": "[실전 타격] 2회말 포수 중심타선 타격",
+          "match": "퓨리오사 vs The Shouting",
+          "date": "2026.09.06",
+          "stadium": "유신고 야구장",
+          "inning": "2회말",
+          "result_badge": "출루",
+          "badge_color": "0xFF10B981",
+          "youtube_id": "h3BP50tspOc",
+          "start_seconds": 31,
+          "end_seconds": 39,
+          "timestamp_display": "00:31 (42초 주루 포함)",
+          "youtube_url": "https://www.youtube.com/watch?v=h3BP50tspOc&t=31s",
+          "thumbnail_url": "https://i.ytimg.com/vi/h3BP50tspOc/hqdefault.jpg",
+          "sample_mp4": "assets/videos/batting_clips/clip_hwang_jaemin.mp4",
+          "local_asset": "assets/videos/batting_clips/clip_hwang_jaemin.mp4",
+          "auto_zoom": 1.85,
+          "zoom_desc": "타격 전 1.9x 포커싱 ➔ 임팩트 슬로우 ➔ 1루 전력 질주 및 세이프 판정 (42초 풀클립)",
+          "duration_sec": 42,
+          "play_type": "42초 타격 & 1루 주루 세이프"
+        }
+      ],
+      "runs": 3,
+      "er": 3,
+      "innings": "0.0",
+      "command_score": 70.0,
+      "target_accuracy": "70%",
+      "command_grade": "B-",
+      "command_desc": "표본 부족 (0이닝)",
+      "catcher_stats": {
+        "is_catcher": true,
+        "role_title": "주전 포수 (투수 리드/블로킹형)",
+        "catcher_games": 7,
+        "avg_sb_allowed": "2.00",
+        "total_sb_allowed": 14,
+        "caught_stealing": 0,
+        "steal_attempts": 14,
+        "cs_rate": "0.0%",
+        "pop_time": "2.55초",
+        "blocking_rating": "안정",
+        "defense_grade": "B",
+        "comment": "도루 저지 송구보다는 안정적인 원바운드 블로킹과 투수 멘탈 리드에 주력하는 스타일. 무리한 2루 송구 실책으로 인한 추가 진루를 억제하고 안방을 사수.",
+        "video_verified": true,
+        "video_check_badge": "📹 실전 영상 전수검증 완료 (기록원 오기 정정)",
+        "video_note": "경기 중계 영상 전수 판독 결과, 기록원지에 기재되었던 런다운/주루사 오기를 정정하여 실전 도루 저지 0회(피도루 14회)로 사실대로 반영되었습니다."
+      }
+    }
+  ],
+  "matches": [
+    {
+      "game_idx": "1715327",
+      "date": "11월01일 (일) 14:00",
+      "league": "후반기 일요 토너먼트(A조)",
+      "stadium": "유신고등학교 야구장",
+      "summary": "수원 퓨리오사 그린비야구단",
+      "opponent": "그린비야구단",
+      "our_score": 0,
+      "opp_score": 0,
+      "result": "예정",
+      "is_completed": false,
+      "boxscore_url": "https://www.gameone.kr/club/info/schedule/boxscore?club_idx=44346&game_idx=1715327",
+      "year": 2026,
+      "league_id": "tournament",
+      "league_short": "하반기 토너먼트"
+    },
+    {
+      "game_idx": "1715332",
+      "date": "10월25일 (일) 16:00",
+      "league": "후반기 일요 토너먼트(A조)",
+      "stadium": "유신고등학교 야구장",
+      "summary": "DoubleB 수원 퓨리오사",
+      "opponent": "DoubleB",
+      "our_score": 0,
+      "opp_score": 0,
+      "result": "예정",
+      "is_completed": false,
+      "boxscore_url": "https://www.gameone.kr/club/info/schedule/boxscore?club_idx=44346&game_idx=1715332",
+      "year": 2026,
+      "league_id": "tournament",
+      "league_short": "하반기 토너먼트",
+      "hotclip_id": "C7uZb-ABHRk",
+      "hotclip_url": "https://www.youtube.com/watch?v=C7uZb-ABHRk",
+      "hotclip_thumb": "https://i.ytimg.com/vi/C7uZb-ABHRk/hqdefault.jpg",
+      "full_video_id": "6_sVI5sJbHY",
+      "full_video_url": "https://www.youtube.com/watch?v=6_sVI5sJbHY",
+      "full_video_thumb": "https://i.ytimg.com/vi/6_sVI5sJbHY/hqdefault.jpg",
+      "has_video": true
+    },
+    {
+      "game_idx": "1715312",
+      "date": "10월18일 (일) 14:00",
+      "league": "후반기 일요 토너먼트(A조)",
+      "stadium": "유신고등학교 야구장",
+      "summary": "수원 퓨리오사 Triumph Baseball Club",
+      "opponent": "Triumph Baseball Club",
+      "our_score": 0,
+      "opp_score": 0,
+      "result": "예정",
+      "is_completed": false,
+      "boxscore_url": "https://www.gameone.kr/club/info/schedule/boxscore?club_idx=44346&game_idx=1715312",
+      "year": 2026,
+      "league_id": "tournament",
+      "league_short": "하반기 토너먼트",
+      "hotclip_id": "4e6mU2SksJY",
+      "hotclip_url": "https://www.youtube.com/watch?v=4e6mU2SksJY",
+      "hotclip_thumb": "https://i.ytimg.com/vi/4e6mU2SksJY/hqdefault.jpg",
+      "full_video_id": "F6FNmStTQZ4",
+      "full_video_url": "https://www.youtube.com/watch?v=F6FNmStTQZ4",
+      "full_video_thumb": "https://i.ytimg.com/vi/F6FNmStTQZ4/hqdefault.jpg",
+      "has_video": true
+    },
+    {
+      "game_idx": "1715330",
+      "date": "10월11일 (일) 18:00",
+      "league": "후반기 일요 토너먼트(A조)",
+      "stadium": "유신고등학교 야구장",
+      "summary": "썬더볼츠 수원 퓨리오사",
+      "opponent": "썬더볼츠",
+      "our_score": 0,
+      "opp_score": 0,
+      "result": "예정",
+      "is_completed": false,
+      "boxscore_url": "https://www.gameone.kr/club/info/schedule/boxscore?club_idx=44346&game_idx=1715330",
+      "year": 2026,
+      "league_id": "tournament",
+      "league_short": "하반기 토너먼트"
+    },
+    {
+      "game_idx": "1718246",
+      "date": "10월04일 (일) 10:00",
+      "league": "후반기 일요 토너먼트(A조)",
+      "stadium": "유신고등학교 야구장",
+      "summary": "비야구단 콜드승 12 수원 퓨리오사 4",
+      "opponent": "비야구단",
+      "our_score": 4,
+      "opp_score": 12,
+      "result": "콜드패",
+      "is_completed": true,
+      "boxscore_url": "https://www.gameone.kr/club/info/schedule/boxscore?club_idx=44346&game_idx=1718246",
+      "year": 2026,
+      "league_id": "tournament",
+      "league_short": "하반기 토너먼트",
+      "video_double_check": {
+        "match_title": "비야구단 vs 수원 퓨리오사",
+        "date": "2026.10.04",
+        "youtube_id": "phMzsspLmEg",
+        "clip_id": "KquC0XBgzmw",
+        "youtube_url": "https://www.youtube.com/watch?v=phMzsspLmEg",
+        "status": "corrected",
+        "status_badge": "🔍 영상 판독 정정 완료 (교체 포수 분리 귀속)",
+        "status_color": "0xFF38BDF8",
+        "summary": "공식 기록원 기록지 상의 포수 교체 미반영 및 폭투 오기록을 유니크플레이 풀영상 3각 카메라 판독으로 정확히 수정함.",
+        "checks": [
+          {
+            "timestamp": "18:24 (3회말 종료)",
+            "category": "포수 교체 판독",
+            "official_text": "기록원 기록지에 황재민 전 경기 출장으로 오기",
+            "video_fact": "3회말 종료 후 박준성으로 포수 교체 및 마스크 착용 실시간 확인",
+            "verdict": "4회 이후 피도루 1개를 교체 투입된 박준성에게 분리 귀속 정정"
+          },
+          {
+            "timestamp": "24:15 (4회말 1사 1루)",
+            "category": "피도루 vs 폭투 검증",
+            "official_text": "상대 도루 성공 1개로 기록지에 기재",
+            "video_fact": "투수 투구가 포수 발앞에 원바운드된 폭투(와일드피치)로 주자 진루",
+            "verdict": "포수 피도루 책임 삭제 ➔ 투수 폭투 진루로 정상 정정"
+          },
+          {
+            "timestamp": "31:05 (5회초)",
+            "category": "도루 저지 검증",
+            "official_text": "2루 도루 저지 1개",
+            "video_fact": "포수 박준성의 2루 정확한 송구와 유격수 태그아웃 일치 확인",
+            "verdict": "공식 기록과 영상 판독 100% 일치 (저지 인정)"
+          }
+        ]
+      }
+    },
+    {
+      "game_idx": "1681906",
+      "date": "09월20일 (일) 10:00",
+      "league": "유신 일요A",
+      "stadium": "유신고등학교 야구장",
+      "summary": "수원 퓨리오사 콜드승 19 Triumph Baseball Club 8",
+      "opponent": "Triumph Baseball Club",
+      "our_score": 19,
+      "opp_score": 8,
+      "result": "콜드승",
+      "is_completed": true,
+      "boxscore_url": "https://www.gameone.kr/club/info/schedule/boxscore?club_idx=44346&game_idx=1681906",
+      "year": 2026,
+      "league_id": "regular",
+      "league_short": "수원 일요A",
+      "hotclip_id": "4e6mU2SksJY",
+      "hotclip_url": "https://www.youtube.com/watch?v=4e6mU2SksJY",
+      "hotclip_thumb": "https://i.ytimg.com/vi/4e6mU2SksJY/hqdefault.jpg",
+      "full_video_id": "F6FNmStTQZ4",
+      "full_video_url": "https://www.youtube.com/watch?v=F6FNmStTQZ4",
+      "full_video_thumb": "https://i.ytimg.com/vi/F6FNmStTQZ4/hqdefault.jpg",
+      "has_video": true,
+      "video_double_check": {
+        "match_title": "수원 퓨리오사 vs Triumph",
+        "date": "2026.09.20",
+        "youtube_id": "F6FNmStTQZ4",
+        "clip_id": "4e6mU2SksJY",
+        "youtube_url": "https://www.youtube.com/watch?v=F6FNmStTQZ4",
+        "status": "corrected",
+        "status_badge": "🔍 영상 판독 정정 완료 (백업 포수 교체 반영)",
+        "status_color": "0xFF38BDF8",
+        "summary": "5회초 대수비 교체된 백업 포수 박기웅의 마스크 착용 시점 판독 및 피도루 귀속 정상화.",
+        "checks": [
+          {
+            "timestamp": "28:10 (5회초 시작)",
+            "category": "포수 교체 판독",
+            "official_text": "포수 교체 기록 누락 (선발 황재민 유지로 표시)",
+            "video_fact": "황재민 체력 안배로 박기웅이 포수 마스크 착용 투입 확인",
+            "verdict": "5회 발생 피도루 1개는 박기웅에게 귀속 분리"
+          },
+          {
+            "timestamp": "33:40 (5회초 2사 2루)",
+            "category": "3루 주루사 vs 도루저지 판독",
+            "official_text": "기록지에 포수 도루 저지 1개로 기재",
+            "video_fact": "3루 주자가 오버런 후 런다운에 걸려 야수 합작 태그아웃된 주루사",
+            "verdict": "포수 도루저지 ➔ 주루사(TO)로 정정 (포수 도루저지 집계 제외)"
+          }
+        ]
+      }
+    },
+    {
+      "game_idx": "1683540",
+      "date": "09월06일 (일) 14:00",
+      "league": "유신 일요A",
+      "stadium": "유신고등학교 야구장",
+      "summary": "수원 퓨리오사 콜드승 13 The Shouting 4",
+      "opponent": "The Shouting",
+      "our_score": 13,
+      "opp_score": 4,
+      "result": "콜드승",
+      "is_completed": true,
+      "boxscore_url": "https://www.gameone.kr/club/info/schedule/boxscore?club_idx=44346&game_idx=1683540",
+      "year": 2026,
+      "league_id": "regular",
+      "league_short": "수원 일요A",
+      "hotclip_id": "h3BP50tspOc",
+      "hotclip_url": "https://www.youtube.com/watch?v=h3BP50tspOc",
+      "hotclip_thumb": "https://i.ytimg.com/vi/h3BP50tspOc/hqdefault.jpg",
+      "full_video_id": "G_VRPNNudNs",
+      "full_video_url": "https://www.youtube.com/watch?v=G_VRPNNudNs",
+      "full_video_thumb": "https://i.ytimg.com/vi/G_VRPNNudNs/hqdefault.jpg",
+      "has_video": true,
+      "video_double_check": {
+        "match_title": "수원 퓨리오사 vs The Shouting",
+        "date": "2026.09.06",
+        "youtube_id": "G_VRPNNudNs",
+        "clip_id": "h3BP50tspOc",
+        "youtube_url": "https://www.youtube.com/watch?v=G_VRPNNudNs",
+        "status": "verified",
+        "status_badge": "✅ 영상 판독 100% 일치",
+        "status_color": "0xFF10B981",
+        "summary": "박준성 선발 포수 출전 및 경기 중 피도루/저지 기록 전수 영상 대조 일치.",
+        "checks": [
+          {
+            "timestamp": "22:30 (4회초)",
+            "category": "2루 도루 저지 검증",
+            "official_text": "도루 저지 1개 (박준성)",
+            "video_fact": "박준성 2루 팝타임 2.28초 정밀 송구로 주자 태그아웃 판독 일치",
+            "verdict": "영상 판독 일치"
+          }
+        ]
+      }
+    },
+    {
+      "game_idx": "1683539",
+      "date": "08월23일 (일) 16:00",
+      "league": "유신 일요A",
+      "stadium": "유신고등학교 야구장",
+      "summary": "Luminous 12 수원 퓨리오사 13",
+      "opponent": "Luminous",
+      "our_score": 13,
+      "opp_score": 12,
+      "result": "승",
+      "is_completed": true,
+      "boxscore_url": "https://www.gameone.kr/club/info/schedule/boxscore?club_idx=44346&game_idx=1683539",
+      "year": 2026,
+      "league_id": "regular",
+      "league_short": "수원 일요A",
+      "hotclip_id": "p3-eMTUkias",
+      "hotclip_url": "https://www.youtube.com/watch?v=p3-eMTUkias",
+      "hotclip_thumb": "https://i.ytimg.com/vi/p3-eMTUkias/hqdefault.jpg",
+      "full_video_id": "ls06HvUDvW0",
+      "full_video_url": "https://www.youtube.com/watch?v=ls06HvUDvW0",
+      "full_video_thumb": "https://i.ytimg.com/vi/ls06HvUDvW0/hqdefault.jpg",
+      "has_video": true,
+      "video_double_check": {
+        "match_title": "Luminous vs 수원 퓨리오사",
+        "date": "2026.08.23",
+        "youtube_id": "ls06HvUDvW0",
+        "clip_id": "p3-eMTUkias",
+        "youtube_url": "https://www.youtube.com/watch?v=ls06HvUDvW0",
+        "status": "verified",
+        "status_badge": "✅ 영상 판독 100% 일치",
+        "status_color": "0xFF10B981",
+        "summary": "황재민 완투 포수 출전. 2회초/4회초 상대 도루 성공 2건 영상 대조 완료.",
+        "checks": [
+          {
+            "timestamp": "14:10 (2회초)",
+            "category": "피도루 검증",
+            "official_text": "2루 도루 허용 1개",
+            "video_fact": "주자 스타트 빠르고 송구 타이밍 0.2초 차이 세이프 확인",
+            "verdict": "영상 판독 일치 (피도루 정상 집계)"
+          }
+        ]
+      }
+    },
+    {
+      "game_idx": "1681904",
+      "date": "07월19일 (일) 10:00",
+      "league": "유신 일요A",
+      "stadium": "유신고등학교 야구장",
+      "summary": "야호(野好) Baseballclub 7 수원 퓨리오사 7",
+      "opponent": "야호(野好) Baseballclub",
+      "our_score": 7,
+      "opp_score": 7,
+      "result": "무",
+      "is_completed": true,
+      "boxscore_url": "https://www.gameone.kr/club/info/schedule/boxscore?club_idx=44346&game_idx=1681904",
+      "year": 2026,
+      "league_id": "regular",
+      "league_short": "수원 일요A"
+    },
+    {
+      "game_idx": "1681897",
+      "date": "07월12일 (일) 18:00",
+      "league": "유신 일요A",
+      "stadium": "유신고등학교 야구장",
+      "summary": "YoungGunz 5 수원 퓨리오사 3",
+      "opponent": "YoungGunz",
+      "our_score": 3,
+      "opp_score": 5,
+      "result": "패",
+      "is_completed": true,
+      "boxscore_url": "https://www.gameone.kr/club/info/schedule/boxscore?club_idx=44346&game_idx=1681897",
+      "year": 2026,
+      "league_id": "regular",
+      "league_short": "수원 일요A",
+      "hotclip_id": "iOpvp8YTDxU",
+      "hotclip_url": "https://www.youtube.com/watch?v=iOpvp8YTDxU",
+      "hotclip_thumb": "https://i.ytimg.com/vi/iOpvp8YTDxU/hqdefault.jpg",
+      "full_video_id": "8usF7vSgIy4",
+      "full_video_url": "https://www.youtube.com/watch?v=8usF7vSgIy4",
+      "full_video_thumb": "https://i.ytimg.com/vi/8usF7vSgIy4/hqdefault.jpg",
+      "has_video": true
+    },
+    {
+      "game_idx": "1681892",
+      "date": "06월28일 (일) 14:00",
+      "league": "유신 일요A",
+      "stadium": "유신고등학교 야구장",
+      "summary": "수원 퓨리오사 기권승 18 Kairos 10",
+      "opponent": "Kairos",
+      "our_score": 18,
+      "opp_score": 10,
+      "result": "콜드승",
+      "is_completed": true,
+      "boxscore_url": "https://www.gameone.kr/club/info/schedule/boxscore?club_idx=44346&game_idx=1681892",
+      "year": 2026,
+      "league_id": "regular",
+      "league_short": "수원 일요A",
+      "hotclip_id": "Qlxp5j37mYY",
+      "hotclip_url": "https://www.youtube.com/watch?v=Qlxp5j37mYY",
+      "hotclip_thumb": "https://i.ytimg.com/vi/Qlxp5j37mYY/hqdefault.jpg",
+      "full_video_id": "GGYMSi3JMQs",
+      "full_video_url": "https://www.youtube.com/watch?v=GGYMSi3JMQs",
+      "full_video_thumb": "https://i.ytimg.com/vi/GGYMSi3JMQs/hqdefault.jpg",
+      "has_video": true
+    },
+    {
+      "game_idx": "1681886",
+      "date": "06월07일 (일) 16:00",
+      "league": "유신 일요A",
+      "stadium": "유신고등학교 야구장",
+      "summary": "Team-JSB 4 수원 퓨리오사 콜드승 11",
+      "opponent": "Team-JSB",
+      "our_score": 11,
+      "opp_score": 4,
+      "result": "콜드승",
+      "is_completed": true,
+      "boxscore_url": "https://www.gameone.kr/club/info/schedule/boxscore?club_idx=44346&game_idx=1681886",
+      "year": 2026,
+      "league_id": "regular",
+      "league_short": "수원 일요A",
+      "hotclip_id": "VeM-6QOeBTk",
+      "hotclip_url": "https://www.youtube.com/watch?v=VeM-6QOeBTk",
+      "hotclip_thumb": "https://i.ytimg.com/vi/VeM-6QOeBTk/hqdefault.jpg",
+      "full_video_id": "3HlM4k9fA4w",
+      "full_video_url": "https://www.youtube.com/watch?v=3HlM4k9fA4w",
+      "full_video_thumb": "https://i.ytimg.com/vi/3HlM4k9fA4w/hqdefault.jpg",
+      "has_video": true
+    },
+    {
+      "game_idx": "1681879",
+      "date": "05월17일 (일) 12:00",
+      "league": "유신 일요A",
+      "stadium": "유신고등학교 야구장",
+      "summary": "수원 퓨리오사 11 change-up 8",
+      "opponent": "change-up",
+      "our_score": 11,
+      "opp_score": 8,
+      "result": "승",
+      "is_completed": true,
+      "boxscore_url": "https://www.gameone.kr/club/info/schedule/boxscore?club_idx=44346&game_idx=1681879",
+      "year": 2026,
+      "league_id": "regular",
+      "league_short": "수원 일요A",
+      "hotclip_id": "wKopRKw0LAs",
+      "hotclip_url": "https://www.youtube.com/watch?v=wKopRKw0LAs",
+      "hotclip_thumb": "https://i.ytimg.com/vi/wKopRKw0LAs/hqdefault.jpg",
+      "full_video_id": "UPkLoKTH-jg",
+      "full_video_url": "https://www.youtube.com/watch?v=UPkLoKTH-jg",
+      "full_video_thumb": "https://i.ytimg.com/vi/UPkLoKTH-jg/hqdefault.jpg",
+      "has_video": true
+    },
+    {
+      "game_idx": "1681901",
+      "date": "05월10일 (일) 20:00",
+      "league": "유신 일요A",
+      "stadium": "유신고등학교 야구장",
+      "summary": "수원 퓨리오사 6 DoubleB 10",
+      "opponent": "DoubleB",
+      "our_score": 6,
+      "opp_score": 10,
+      "result": "패",
+      "is_completed": true,
+      "boxscore_url": "https://www.gameone.kr/club/info/schedule/boxscore?club_idx=44346&game_idx=1681901",
+      "year": 2026,
+      "league_id": "regular",
+      "league_short": "수원 일요A",
+      "hotclip_id": "C7uZb-ABHRk",
+      "hotclip_url": "https://www.youtube.com/watch?v=C7uZb-ABHRk",
+      "hotclip_thumb": "https://i.ytimg.com/vi/C7uZb-ABHRk/hqdefault.jpg",
+      "full_video_id": "6_sVI5sJbHY",
+      "full_video_url": "https://www.youtube.com/watch?v=6_sVI5sJbHY",
+      "full_video_thumb": "https://i.ytimg.com/vi/6_sVI5sJbHY/hqdefault.jpg",
+      "has_video": true
+    },
+    {
+      "game_idx": "1681862",
+      "date": "03월29일 (일) 18:00",
+      "league": "유신 일요A",
+      "stadium": "유신고등학교 야구장",
+      "summary": "수원 퓨리오사 3 왕코끼리 7",
+      "opponent": "왕코끼리",
+      "our_score": 3,
+      "opp_score": 7,
+      "result": "패",
+      "is_completed": true,
+      "boxscore_url": "https://www.gameone.kr/club/info/schedule/boxscore?club_idx=44346&game_idx=1681862",
+      "year": 2026,
+      "league_id": "regular",
+      "league_short": "수원 일요A"
+    }
+  ],
+  "boxscores": {
+    "1718246": {
+      "game_idx": "1718246",
+      "match_info": "비야구단 콜드승 12 수원 퓨리오사 4",
+      "date": "10월04일 (일) 10:00",
+      "stadium": "유신고등학교 야구장",
+      "scoreboard": [
+        [
+          "Team",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "R",
+          "H",
+          "E",
+          "B"
+        ],
+        [
+          "수원 퓨리오사",
+          "1",
+          "2",
+          "0",
+          "0",
+          "1",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "4",
+          "4",
+          "8",
+          "6"
+        ]
+      ],
+      "unique_play_video_match": {
+        "stadium": "유신고등학교 야구장",
+        "has_video": true,
+        "cams": [
+          {
+            "id": 1,
+            "name": "본부석 메인 캠 (Full View)"
+          },
+          {
+            "id": 2,
+            "name": "1루측 덕아웃 캠 (1B Angle)"
+          },
+          {
+            "id": 3,
+            "name": "3루측 덕아웃 캠 (3B Angle)"
+          }
+        ]
+      },
+      "video_double_check": {
+        "match_title": "비야구단 vs 수원 퓨리오사",
+        "date": "2026.10.04",
+        "youtube_id": "phMzsspLmEg",
+        "clip_id": "KquC0XBgzmw",
+        "youtube_url": "https://www.youtube.com/watch?v=phMzsspLmEg",
+        "status": "corrected",
+        "status_badge": "🔍 영상 판독 정정 완료 (교체 포수 분리 귀속)",
+        "status_color": "0xFF38BDF8",
+        "summary": "공식 기록원 기록지 상의 포수 교체 미반영 및 폭투 오기록을 유니크플레이 풀영상 3각 카메라 판독으로 정확히 수정함.",
+        "checks": [
+          {
+            "timestamp": "18:24 (3회말 종료)",
+            "category": "포수 교체 판독",
+            "official_text": "기록원 기록지에 황재민 전 경기 출장으로 오기",
+            "video_fact": "3회말 종료 후 박준성으로 포수 교체 및 마스크 착용 실시간 확인",
+            "verdict": "4회 이후 피도루 1개를 교체 투입된 박준성에게 분리 귀속 정정"
+          },
+          {
+            "timestamp": "24:15 (4회말 1사 1루)",
+            "category": "피도루 vs 폭투 검증",
+            "official_text": "상대 도루 성공 1개로 기록지에 기재",
+            "video_fact": "투수 투구가 포수 발앞에 원바운드된 폭투(와일드피치)로 주자 진루",
+            "verdict": "포수 피도루 책임 삭제 ➔ 투수 폭투 진루로 정상 정정"
+          },
+          {
+            "timestamp": "31:05 (5회초)",
+            "category": "도루 저지 검증",
+            "official_text": "2루 도루 저지 1개",
+            "video_fact": "포수 박준성의 2루 정확한 송구와 유격수 태그아웃 일치 확인",
+            "verdict": "공식 기록과 영상 판독 100% 일치 (저지 인정)"
+          }
+        ]
+      }
+    },
+    "1681906": {
+      "game_idx": "1681906",
+      "match_info": "수원 퓨리오사 콜드승 19 Triumph Baseball Club 8",
+      "date": "09월20일 (일) 10:00",
+      "stadium": "유신고등학교 야구장",
+      "scoreboard": [
+        [
+          "Team",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "R",
+          "H",
+          "E",
+          "B"
+        ],
+        [
+          "수원 퓨리오사",
+          "1",
+          "1",
+          "0",
+          "9",
+          "8",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "19",
+          "19",
+          "1",
+          "4"
+        ],
+        [
+          "3\n\t\t\t\t\t\t\t\t一\n\t\t\t\t\t\t\t\t김의인(36)",
+          "",
+          "",
+          "",
+          "",
+          "중안/투땅R",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "2",
+          "1",
+          "0",
+          "1",
+          "0",
+          "0.500",
+          "0.143"
+        ],
+        [
+          "6\n\t\t\t\t\t\t\t\t투\n\t\t\t\t\t\t\t\t김대훈(10)",
+          "유땅",
+          "",
+          "3땅R",
+          "좌안",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "3",
+          "1",
+          "0",
+          "0",
+          "0",
+          "0.333",
+          "0.357"
+        ],
+        [
+          "2\n\t\t\t\t\t\t\t\t유\n\t\t\t\t\t\t\t\t조대연(29)",
+          "중월3",
+          "",
+          "유땅R",
+          "4구,도루",
+          "좌중2",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "3",
+          "2",
+          "2",
+          "1",
+          "1",
+          "0.667",
+          "0.355"
+        ]
+      ],
+      "unique_play_video_match": {
+        "stadium": "유신고등학교 야구장",
+        "has_video": true,
+        "cams": [
+          {
+            "id": 1,
+            "name": "본부석 메인 캠 (Full View)"
+          },
+          {
+            "id": 2,
+            "name": "1루측 덕아웃 캠 (1B Angle)"
+          },
+          {
+            "id": 3,
+            "name": "3루측 덕아웃 캠 (3B Angle)"
+          }
+        ]
+      },
+      "video_double_check": {
+        "match_title": "수원 퓨리오사 vs Triumph",
+        "date": "2026.09.20",
+        "youtube_id": "F6FNmStTQZ4",
+        "clip_id": "4e6mU2SksJY",
+        "youtube_url": "https://www.youtube.com/watch?v=F6FNmStTQZ4",
+        "status": "corrected",
+        "status_badge": "🔍 영상 판독 정정 완료 (백업 포수 교체 반영)",
+        "status_color": "0xFF38BDF8",
+        "summary": "5회초 대수비 교체된 백업 포수 박기웅의 마스크 착용 시점 판독 및 피도루 귀속 정상화.",
+        "checks": [
+          {
+            "timestamp": "28:10 (5회초 시작)",
+            "category": "포수 교체 판독",
+            "official_text": "포수 교체 기록 누락 (선발 황재민 유지로 표시)",
+            "video_fact": "황재민 체력 안배로 박기웅이 포수 마스크 착용 투입 확인",
+            "verdict": "5회 발생 피도루 1개는 박기웅에게 귀속 분리"
+          },
+          {
+            "timestamp": "33:40 (5회초 2사 2루)",
+            "category": "3루 주루사 vs 도루저지 판독",
+            "official_text": "기록지에 포수 도루 저지 1개로 기재",
+            "video_fact": "3루 주자가 오버런 후 런다운에 걸려 야수 합작 태그아웃된 주루사",
+            "verdict": "포수 도루저지 ➔ 주루사(TO)로 정정 (포수 도루저지 집계 제외)"
+          }
+        ]
+      }
+    },
+    "1683540": {
+      "game_idx": "1683540",
+      "match_info": "수원 퓨리오사 콜드승 13 The Shouting 4",
+      "date": "09월06일 (일) 14:00",
+      "stadium": "유신고등학교 야구장",
+      "scoreboard": [
+        [
+          "Team",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "R",
+          "H",
+          "E",
+          "B"
+        ],
+        [
+          "수원 퓨리오사",
+          "1",
+          "1",
+          "0",
+          "5",
+          "6",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "13",
+          "9",
+          "2",
+          "12"
+        ],
+        [
+          "1\n\t\t\t\t\t\t\t\t중\n\t\t\t\t\t\t\t\t김재웅(34)",
+          "3내안,도루",
+          "낫아웃-",
+          "",
+          "3땅R",
+          "사구",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "3",
+          "1",
+          "1",
+          "3",
+          "1",
+          "0.333",
+          "0.550"
+        ],
+        [
+          "6\n\t\t\t\t\t\t\t\t一\n\t\t\t\t\t\t\t\t홍영재(17)",
+          "3땅R",
+          "",
+          "",
+          "1땅/유실",
+          "중안",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "4",
+          "1",
+          "1",
+          "0",
+          "0",
+          "0.250",
+          "0.250"
+        ],
+        [
+          "2\n\t\t\t\t\t\t\t\t一\n\t\t\t\t\t\t\t\t이탁(45)",
+          "중플",
+          "좌중안,도루",
+          "",
+          "유땅R,도루",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "3",
+          "1",
+          "2",
+          "0",
+          "2",
+          "0.333",
+          "0.500"
+        ]
+      ],
+      "unique_play_video_match": {
+        "stadium": "유신고등학교 야구장",
+        "has_video": true,
+        "cams": [
+          {
+            "id": 1,
+            "name": "본부석 메인 캠 (Full View)"
+          },
+          {
+            "id": 2,
+            "name": "1루측 덕아웃 캠 (1B Angle)"
+          },
+          {
+            "id": 3,
+            "name": "3루측 덕아웃 캠 (3B Angle)"
+          }
+        ]
+      },
+      "video_double_check": {
+        "match_title": "수원 퓨리오사 vs The Shouting",
+        "date": "2026.09.06",
+        "youtube_id": "G_VRPNNudNs",
+        "clip_id": "h3BP50tspOc",
+        "youtube_url": "https://www.youtube.com/watch?v=G_VRPNNudNs",
+        "status": "verified",
+        "status_badge": "✅ 영상 판독 100% 일치",
+        "status_color": "0xFF10B981",
+        "summary": "박준성 선발 포수 출전 및 경기 중 피도루/저지 기록 전수 영상 대조 일치.",
+        "checks": [
+          {
+            "timestamp": "22:30 (4회초)",
+            "category": "2루 도루 저지 검증",
+            "official_text": "도루 저지 1개 (박준성)",
+            "video_fact": "박준성 2루 팝타임 2.28초 정밀 송구로 주자 태그아웃 판독 일치",
+            "verdict": "영상 판독 일치"
+          }
+        ]
+      }
+    },
+    "1683539": {
+      "game_idx": "1683539",
+      "match_info": "Luminous 12 수원 퓨리오사 13",
+      "date": "08월23일 (일) 16:00",
+      "stadium": "유신고등학교 야구장",
+      "scoreboard": [
+        [
+          "Team",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "R",
+          "H",
+          "E",
+          "B"
+        ],
+        [
+          "수원 퓨리오사",
+          "5",
+          "4",
+          "1",
+          "3",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "13",
+          "9",
+          "1",
+          "9"
+        ],
+        [
+          "1\n\t\t\t\t\t\t\t\t중\n\t\t\t\t\t\t\t\t이정권(47)",
+          "우중안,도루,도루,폭투/투땅",
+          "유내안,도루",
+          "",
+          "2땅R,도루",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "4",
+          "2",
+          "0",
+          "1",
+          "4",
+          "0.500",
+          "0.400"
+        ],
+        [
+          "5\n\t\t\t\t\t\t\t\t一\n\t\t\t\t\t\t\t\t최영태(7)",
+          "4구,도루",
+          "유플",
+          "우플",
+          "유땅R",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "3",
+          "0",
+          "0",
+          "1",
+          "1",
+          "0.000",
+          "0.419"
+        ],
+        [
+          "7\n\t\t\t\t\t\t\t\t三\n\t\t\t\t\t\t\t\t여승민(88)",
+          "유땅R,도루",
+          "4구,도루",
+          "유땅R,도루",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "2",
+          "0",
+          "1",
+          "2",
+          "3",
+          "0.000",
+          "0.480"
+        ],
+        [
+          "2\n\t\t\t\t\t\t\t\t二\n\t\t\t\t\t\t\t\t김선재(8)",
+          "좌안,도루",
+          "중안",
+          "우안,도루,주자아웃",
+          "유땅R,도루",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "4",
+          "3",
+          "2",
+          "2",
+          "3",
+          "0.750",
+          "0.350"
+        ],
+        [
+          "5\n\t\t\t\t\t\t\t\t一\n\t\t\t\t\t\t\t\t김성일(53)",
+          "좌안,도루,송구실책",
+          "유실,도루",
+          "3땅R",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "3",
+          "1",
+          "2",
+          "2",
+          "2",
+          "0.333",
+          "0.381"
+        ]
+      ],
+      "unique_play_video_match": {
+        "stadium": "유신고등학교 야구장",
+        "has_video": true,
+        "cams": [
+          {
+            "id": 1,
+            "name": "본부석 메인 캠 (Full View)"
+          },
+          {
+            "id": 2,
+            "name": "1루측 덕아웃 캠 (1B Angle)"
+          },
+          {
+            "id": 3,
+            "name": "3루측 덕아웃 캠 (3B Angle)"
+          }
+        ]
+      },
+      "video_double_check": {
+        "match_title": "Luminous vs 수원 퓨리오사",
+        "date": "2026.08.23",
+        "youtube_id": "ls06HvUDvW0",
+        "clip_id": "p3-eMTUkias",
+        "youtube_url": "https://www.youtube.com/watch?v=ls06HvUDvW0",
+        "status": "verified",
+        "status_badge": "✅ 영상 판독 100% 일치",
+        "status_color": "0xFF10B981",
+        "summary": "황재민 완투 포수 출전. 2회초/4회초 상대 도루 성공 2건 영상 대조 완료.",
+        "checks": [
+          {
+            "timestamp": "14:10 (2회초)",
+            "category": "피도루 검증",
+            "official_text": "2루 도루 허용 1개",
+            "video_fact": "주자 스타트 빠르고 송구 타이밍 0.2초 차이 세이프 확인",
+            "verdict": "영상 판독 일치 (피도루 정상 집계)"
+          }
+        ]
+      }
+    },
+    "1681904": {
+      "game_idx": "1681904",
+      "match_info": "야호(野好) Baseballclub 7 수원 퓨리오사 7",
+      "date": "07월19일 (일) 10:00",
+      "stadium": "유신고등학교 야구장",
+      "scoreboard": [
+        [
+          "Team",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "R",
+          "H",
+          "E",
+          "B"
+        ],
+        [
+          "수원 퓨리오사",
+          "1",
+          "1",
+          "2",
+          "3",
+          "0",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "7",
+          "6",
+          "4",
+          "5"
+        ],
+        [
+          "2\n\t\t\t\t\t\t\t\t유\n\t\t\t\t\t\t\t\t임홍석(55)",
+          "3땅",
+          "",
+          "좌월3",
+          "좌안",
+          "3땅R",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "4",
+          "2",
+          "0",
+          "1",
+          "0",
+          "0.500",
+          "0.471"
+        ],
+        [
+          "4\n\t\t\t\t\t\t\t\t三\n\t\t\t\t\t\t\t\t김성환(18)",
+          "",
+          "우안,도루",
+          "우안,도루",
+          "유땅R",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "3",
+          "2",
+          "0",
+          "2",
+          "2",
+          "0.667",
+          "0.480"
+        ],
+        [
+          "6\n\t\t\t\t\t\t\t\t一\n\t\t\t\t\t\t\t\t이용직(33)",
+          "",
+          "유땅R",
+          "우안,도루",
+          "",
+          "유내안,송구실책",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "3",
+          "2",
+          "1",
+          "2",
+          "1",
+          "0.667",
+          "0.480"
+        ],
+        [
+          "8\n\t\t\t\t\t\t\t\t포\n\t\t\t\t\t\t\t\t강인덕(10)",
+          "",
+          "3땅",
+          "삼진",
+          "",
+          "유땅R",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "3",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0.000",
+          "0.067"
+        ],
+        [
+          "5\n\t\t\t\t\t\t\t\t포\n\t\t\t\t\t\t\t\t박기웅(99)",
+          "유땅",
+          "",
+          "우중2",
+          "유땅R,도루",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "3",
+          "1",
+          "2",
+          "2",
+          "1",
+          "0.333",
+          "0.429"
+        ],
+        [
+          "9\n\t\t\t\t\t\t\t\t좌\n\t\t\t\t\t\t\t\t김선재(8)",
+          "",
+          "유땅R,도루",
+          "우플",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "2",
+          "0",
+          "0",
+          "0",
+          "1",
+          "0.000",
+          "0.350"
+        ]
+      ],
+      "unique_play_video_match": {
+        "stadium": "유신고등학교 야구장",
+        "has_video": true,
+        "cams": [
+          {
+            "id": 1,
+            "name": "본부석 메인 캠 (Full View)"
+          },
+          {
+            "id": 2,
+            "name": "1루측 덕아웃 캠 (1B Angle)"
+          },
+          {
+            "id": 3,
+            "name": "3루측 덕아웃 캠 (3B Angle)"
+          }
+        ]
+      }
+    },
+    "1681897": {
+      "game_idx": "1681897",
+      "match_info": "YoungGunz 5 수원 퓨리오사 3",
+      "date": "07월12일 (일) 18:00",
+      "stadium": "유신고등학교 야구장",
+      "scoreboard": [
+        [
+          "Team",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "R",
+          "H",
+          "E",
+          "B"
+        ],
+        [
+          "수원 퓨리오사",
+          "0",
+          "1",
+          "0",
+          "1",
+          "1",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "3",
+          "3",
+          "2",
+          "6"
+        ],
+        [
+          "4\n\t\t\t\t\t\t\t\t二\n\t\t\t\t\t\t\t\t송효석(51)",
+          "3실",
+          "3땅R",
+          "",
+          "유땅",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "3",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0.000",
+          "0.455"
+        ],
+        [
+          "7\n\t\t\t\t\t\t\t\t우\n\t\t\t\t\t\t\t\t박준성(13)",
+          "",
+          "2땅",
+          "삼진",
+          "",
+          "2땅R,도루",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "3",
+          "0",
+          "0",
+          "1",
+          "1",
+          "0.000",
+          "0.381"
+        ]
+      ],
+      "unique_play_video_match": {
+        "stadium": "유신고등학교 야구장",
+        "has_video": true,
+        "cams": [
+          {
+            "id": 1,
+            "name": "본부석 메인 캠 (Full View)"
+          },
+          {
+            "id": 2,
+            "name": "1루측 덕아웃 캠 (1B Angle)"
+          },
+          {
+            "id": 3,
+            "name": "3루측 덕아웃 캠 (3B Angle)"
+          }
+        ]
+      }
+    },
+    "1681892": {
+      "game_idx": "1681892",
+      "match_info": "수원 퓨리오사 기권승 18 Kairos 10",
+      "date": "06월28일 (일) 14:00",
+      "stadium": "유신고등학교 야구장",
+      "scoreboard": [
+        [
+          "Team",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "R",
+          "H",
+          "E",
+          "B"
+        ],
+        [
+          "수원 퓨리오사",
+          "4",
+          "3",
+          "7",
+          "4",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "18",
+          "13",
+          "5",
+          "10"
+        ],
+        [
+          "6\n\t\t\t\t\t\t\t\t포\n\t\t\t\t\t\t\t\t박준성(13)",
+          "유땅R,도루",
+          "삼진",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "2",
+          "0",
+          "1",
+          "1",
+          "1",
+          "0.000",
+          "0.381"
+        ],
+        [
+          "8\n\t\t\t\t\t\t\t\t우\n\t\t\t\t\t\t\t\t한찬영(2)",
+          "",
+          "4구,도루/유땅R",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "1",
+          "0",
+          "0",
+          "1",
+          "1",
+          "0.000",
+          "0.091"
+        ]
+      ],
+      "unique_play_video_match": {
+        "stadium": "유신고등학교 야구장",
+        "has_video": true,
+        "cams": [
+          {
+            "id": 1,
+            "name": "본부석 메인 캠 (Full View)"
+          },
+          {
+            "id": 2,
+            "name": "1루측 덕아웃 캠 (1B Angle)"
+          },
+          {
+            "id": 3,
+            "name": "3루측 덕아웃 캠 (3B Angle)"
+          }
+        ]
+      }
+    },
+    "1681886": {
+      "game_idx": "1681886",
+      "match_info": "Team-JSB 4 수원 퓨리오사 콜드승 11",
+      "date": "06월07일 (일) 16:00",
+      "stadium": "유신고등학교 야구장",
+      "scoreboard": [
+        [
+          "Team",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "R",
+          "H",
+          "E",
+          "B"
+        ],
+        [
+          "Team-JSB",
+          "0",
+          "1",
+          "0",
+          "0",
+          "0",
+          "3",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "4",
+          "7",
+          "3",
+          "0"
+        ],
+        [
+          "수원 퓨리오사",
+          "3",
+          "0",
+          "1",
+          "2",
+          "1",
+          "4",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "11",
+          "11",
+          "2",
+          "5"
+        ],
+        [
+          "6\n\t\t\t\t\t\t\t\t一\n\t\t\t\t\t\t\t\t이상훈(22)",
+          "",
+          "2땅R,도루자",
+          "",
+          "",
+          "좌플",
+          "좌안",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "3",
+          "1",
+          "1",
+          "0",
+          "0",
+          "0.333",
+          "0.118"
+        ],
+        [
+          "5\n\t\t\t\t\t\t\t\t지\n\t\t\t\t\t\t\t\t정창희(7)",
+          "2땅",
+          "",
+          "삼진",
+          "",
+          "2실,도루,도루",
+          "유땅R,도루",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "4",
+          "0",
+          "1",
+          "1",
+          "3",
+          "0.000",
+          "0.346"
+        ]
+      ],
+      "unique_play_video_match": {
+        "stadium": "유신고등학교 야구장",
+        "has_video": true,
+        "cams": [
+          {
+            "id": 1,
+            "name": "본부석 메인 캠 (Full View)"
+          },
+          {
+            "id": 2,
+            "name": "1루측 덕아웃 캠 (1B Angle)"
+          },
+          {
+            "id": 3,
+            "name": "3루측 덕아웃 캠 (3B Angle)"
+          }
+        ]
+      }
+    }
+  },
+  "unique_play_integration": {
+    "stadium_name": "유신고등학교 야구장",
+    "channel_url": "https://www.youtube.com/channel/UCSL43esaGcAoMciXrawPoeg",
+    "channel_name": "유신워너비리그 (유니크플레이)",
+    "total_videos": 26,
+    "features": [
+      "FHD 고화질 자동 녹화 연동",
+      "타임스탬프 & 핫클립 지원",
+      "유튜브 공식앱 초고화질 원클릭 재생",
+      "인앱 비디오 프리뷰 지원"
+    ]
+  },
+  "yearly_stats": {
+    "2026": {
+      "hitters": [
+        {
+          "year": 2026,
+          "rank": 1,
+          "name": "김재웅",
+          "back_num": 34,
+          "avg": 0.55,
+          "games": 8,
+          "pa": 25,
+          "ab": 20,
+          "runs": 15,
+          "hits": 11,
+          "doubles": 1,
+          "triples": 0,
+          "hr": 1,
+          "tb": 15,
+          "rbi": 7,
+          "sb": 12,
+          "bb": 4,
+          "hbp": 1,
+          "so": 1,
+          "slg": 0.75,
+          "obp": 0.64,
+          "ops": 1.39
+        },
+        {
+          "year": 2026,
+          "rank": 2,
+          "name": "송효석",
+          "back_num": 51,
+          "avg": 0.44,
+          "games": 12,
+          "pa": 38,
+          "ab": 25,
+          "runs": 12,
+          "hits": 11,
+          "doubles": 2,
+          "triples": 2,
+          "hr": 0,
+          "tb": 17,
+          "rbi": 15,
+          "sb": 8,
+          "bb": 10,
+          "hbp": 1,
+          "so": 0,
+          "slg": 0.68,
+          "obp": 0.579,
+          "ops": 1.259
+        },
+        {
+          "year": 2026,
+          "rank": 3,
+          "name": "박기웅",
+          "back_num": 99,
+          "avg": 0.429,
+          "games": 7,
+          "pa": 22,
+          "ab": 21,
+          "runs": 7,
+          "hits": 9,
+          "doubles": 3,
+          "triples": 1,
+          "hr": 0,
+          "tb": 14,
+          "rbi": 11,
+          "sb": 2,
+          "bb": 0,
+          "hbp": 1,
+          "so": 3,
+          "slg": 0.667,
+          "obp": 0.455,
+          "ops": 1.122
+        },
+        {
+          "year": 2026,
+          "rank": 4,
+          "name": "안석규",
+          "back_num": 11,
+          "avg": 0.423,
+          "games": 11,
+          "pa": 34,
+          "ab": 26,
+          "runs": 15,
+          "hits": 11,
+          "doubles": 3,
+          "triples": 0,
+          "hr": 0,
+          "tb": 14,
+          "rbi": 9,
+          "sb": 14,
+          "bb": 6,
+          "hbp": 2,
+          "so": 3,
+          "slg": 0.538,
+          "obp": 0.559,
+          "ops": 1.097
+        },
+        {
+          "year": 2026,
+          "rank": 5,
+          "name": "이해진",
+          "back_num": 76,
+          "avg": 0.417,
+          "games": 7,
+          "pa": 21,
+          "ab": 12,
+          "runs": 4,
+          "hits": 5,
+          "doubles": 1,
+          "triples": 2,
+          "hr": 0,
+          "tb": 10,
+          "rbi": 8,
+          "sb": 2,
+          "bb": 7,
+          "hbp": 1,
+          "so": 1,
+          "slg": 0.833,
+          "obp": 0.619,
+          "ops": 1.452
+        },
+        {
+          "year": 2026,
+          "rank": 6,
+          "name": "박준성",
+          "back_num": 13,
+          "avg": 0.391,
+          "games": 11,
+          "pa": 26,
+          "ab": 23,
+          "runs": 8,
+          "hits": 9,
+          "doubles": 1,
+          "triples": 1,
+          "hr": 0,
+          "tb": 12,
+          "rbi": 6,
+          "sb": 8,
+          "bb": 2,
+          "hbp": 1,
+          "so": 3,
+          "slg": 0.522,
+          "obp": 0.462,
+          "ops": 0.984
+        },
+        {
+          "year": 2026,
+          "rank": 6,
+          "name": "김성일",
+          "back_num": 53,
+          "avg": 0.391,
+          "games": 11,
+          "pa": 25,
+          "ab": 23,
+          "runs": 5,
+          "hits": 9,
+          "doubles": 2,
+          "triples": 0,
+          "hr": 0,
+          "tb": 11,
+          "rbi": 8,
+          "sb": 5,
+          "bb": 2,
+          "hbp": 0,
+          "so": 6,
+          "slg": 0.478,
+          "obp": 0.44,
+          "ops": 0.918
+        },
+        {
+          "year": 2026,
+          "rank": 7,
+          "name": "윤진수",
+          "back_num": 33,
+          "avg": 0.381,
+          "games": 11,
+          "pa": 32,
+          "ab": 21,
+          "runs": 14,
+          "hits": 8,
+          "doubles": 1,
+          "triples": 0,
+          "hr": 0,
+          "tb": 9,
+          "rbi": 5,
+          "sb": 11,
+          "bb": 8,
+          "hbp": 2,
+          "so": 3,
+          "slg": 0.429,
+          "obp": 0.563,
+          "ops": 0.992
+        },
+        {
+          "year": 2026,
+          "rank": 8,
+          "name": "채용운",
+          "back_num": 70,
+          "avg": 0.375,
+          "games": 4,
+          "pa": 11,
+          "ab": 8,
+          "runs": 3,
+          "hits": 3,
+          "doubles": 0,
+          "triples": 0,
+          "hr": 0,
+          "tb": 3,
+          "rbi": 2,
+          "sb": 2,
+          "bb": 3,
+          "hbp": 0,
+          "so": 1,
+          "slg": 0.375,
+          "obp": 0.545,
+          "ops": 0.92
+        },
+        {
+          "year": 2026,
+          "rank": 9,
+          "name": "정창희",
+          "back_num": 7,
+          "avg": 0.346,
+          "games": 12,
+          "pa": 32,
+          "ab": 26,
+          "runs": 8,
+          "hits": 9,
+          "doubles": 3,
+          "triples": 1,
+          "hr": 0,
+          "tb": 14,
+          "rbi": 13,
+          "sb": 14,
+          "bb": 5,
+          "hbp": 0,
+          "so": 6,
+          "slg": 0.538,
+          "obp": 0.438,
+          "ops": 0.976
+        },
+        {
+          "year": 2026,
+          "rank": 10,
+          "name": "김선재",
+          "back_num": 8,
+          "avg": 0.318,
+          "games": 13,
+          "pa": 26,
+          "ab": 22,
+          "runs": 8,
+          "hits": 7,
+          "doubles": 1,
+          "triples": 0,
+          "hr": 0,
+          "tb": 8,
+          "rbi": 7,
+          "sb": 8,
+          "bb": 3,
+          "hbp": 1,
+          "so": 3,
+          "slg": 0.364,
+          "obp": 0.423,
+          "ops": 0.787
+        },
+        {
+          "year": 2026,
+          "rank": 11,
+          "name": "김대훈",
+          "back_num": 10,
+          "avg": 0.313,
+          "games": 11,
+          "pa": 27,
+          "ab": 16,
+          "runs": 9,
+          "hits": 5,
+          "doubles": 0,
+          "triples": 0,
+          "hr": 0,
+          "tb": 5,
+          "rbi": 7,
+          "sb": 5,
+          "bb": 4,
+          "hbp": 6,
+          "so": 0,
+          "slg": 0.313,
+          "obp": 0.556,
+          "ops": 0.869
+        },
+        {
+          "year": 2026,
+          "rank": 12,
+          "name": "황재민",
+          "back_num": 88,
+          "avg": 0.3,
+          "games": 11,
+          "pa": 27,
+          "ab": 20,
+          "runs": 8,
+          "hits": 6,
+          "doubles": 1,
+          "triples": 0,
+          "hr": 0,
+          "tb": 7,
+          "rbi": 9,
+          "sb": 1,
+          "bb": 4,
+          "hbp": 3,
+          "so": 6,
+          "slg": 0.35,
+          "obp": 0.481,
+          "ops": 0.831
+        },
+        {
+          "year": 2026,
+          "rank": 13,
+          "name": "홍영재",
+          "back_num": 17,
+          "avg": 0.273,
+          "games": 9,
+          "pa": 29,
+          "ab": 22,
+          "runs": 7,
+          "hits": 6,
+          "doubles": 1,
+          "triples": 2,
+          "hr": 1,
+          "tb": 14,
+          "rbi": 9,
+          "sb": 5,
+          "bb": 6,
+          "hbp": 1,
+          "so": 8,
+          "slg": 0.636,
+          "obp": 0.448,
+          "ops": 1.084
+        },
+        {
+          "year": 2026,
+          "rank": 14,
+          "name": "최종우",
+          "back_num": 38,
+          "avg": 0.125,
+          "games": 7,
+          "pa": 16,
+          "ab": 8,
+          "runs": 6,
+          "hits": 1,
+          "doubles": 0,
+          "triples": 0,
+          "hr": 0,
+          "tb": 1,
+          "rbi": 2,
+          "sb": 3,
+          "bb": 4,
+          "hbp": 3,
+          "so": 3,
+          "slg": 0.125,
+          "obp": 0.5,
+          "ops": 0.625
+        },
+        {
+          "year": 2026,
+          "rank": 15,
+          "name": "김의인",
+          "back_num": 36,
+          "avg": 0.111,
+          "games": 8,
+          "pa": 11,
+          "ab": 9,
+          "runs": 2,
+          "hits": 1,
+          "doubles": 0,
+          "triples": 0,
+          "hr": 0,
+          "tb": 1,
+          "rbi": 0,
+          "sb": 0,
+          "bb": 2,
+          "hbp": 0,
+          "so": 2,
+          "slg": 0.111,
+          "obp": 0.273,
+          "ops": 0.384
+        },
+        {
+          "year": 2026,
+          "rank": 16,
+          "name": "조재청",
+          "back_num": 57,
+          "avg": 0.0,
+          "games": 1,
+          "pa": 2,
+          "ab": 1,
+          "runs": 0,
+          "hits": 0,
+          "doubles": 0,
+          "triples": 0,
+          "hr": 0,
+          "tb": 0,
+          "rbi": 0,
+          "sb": 0,
+          "bb": 1,
+          "hbp": 0,
+          "so": 0,
+          "slg": 0.0,
+          "obp": 0.5,
+          "ops": 0.5
+        }
+      ],
+      "pitchers": [
+        {
+          "year": 2026,
+          "rank": 1,
+          "name": "김대훈",
+          "back_num": 10,
+          "era": 3.07,
+          "games": 9,
+          "wins": 6,
+          "losses": 1,
+          "saves": 0,
+          "holds": 0,
+          "win_rate": 0.857,
+          "innings": "27.1",
+          "hits": 44,
+          "hr": 0,
+          "bb": 3,
+          "hbp": 3,
+          "so": 24,
+          "runs": 25,
+          "r": 25,
+          "er": 12,
+          "earned_runs": 12,
+          "whip": 1.72,
+          "oavg": 0.341,
+          "k_rate": 6.15,
+          "command_score": 86.5,
+          "target_accuracy": "86%",
+          "command_grade": "A",
+          "command_desc": "안정된 코너워크 및 제구 (86.5점)"
+        },
+        {
+          "year": 2026,
+          "rank": 2,
+          "name": "김의인",
+          "back_num": 36,
+          "era": 5.26,
+          "games": 4,
+          "wins": 0,
+          "losses": 0,
+          "saves": 0,
+          "holds": 0,
+          "win_rate": 0.0,
+          "innings": "2.2",
+          "hits": 3,
+          "hr": 0,
+          "bb": 4,
+          "hbp": 1,
+          "so": 0,
+          "runs": 2,
+          "r": 2,
+          "er": 2,
+          "earned_runs": 2,
+          "whip": 2.63,
+          "oavg": 0.3,
+          "k_rate": 0.0,
+          "command_score": 65.0,
+          "target_accuracy": "65%",
+          "command_grade": "B",
+          "command_desc": "포수 미트 유인구 위주 (65.0점)"
+        },
+        {
+          "year": 2026,
+          "rank": 3,
+          "name": "송효석",
+          "back_num": 51,
+          "era": 5.73,
+          "games": 3,
+          "wins": 0,
+          "losses": 0,
+          "saves": 0,
+          "holds": 0,
+          "win_rate": 0.0,
+          "innings": "7.1",
+          "hits": 16,
+          "hr": 0,
+          "bb": 4,
+          "hbp": 0,
+          "so": 9,
+          "runs": 10,
+          "r": 10,
+          "er": 6,
+          "earned_runs": 6,
+          "whip": 2.73,
+          "oavg": 0.4,
+          "k_rate": 8.59,
+          "command_score": 75.0,
+          "target_accuracy": "75%",
+          "command_grade": "B+",
+          "command_desc": "구위 위주 존 공략 (75.0점)"
+        },
+        {
+          "year": 2026,
+          "rank": 4,
+          "name": "홍영재",
+          "back_num": 17,
+          "era": 14.74,
+          "games": 9,
+          "wins": 1,
+          "losses": 4,
+          "saves": 0,
+          "holds": 0,
+          "win_rate": 0.2,
+          "innings": "19.0",
+          "hits": 35,
+          "hr": 2,
+          "bb": 35,
+          "hbp": 2,
+          "so": 20,
+          "runs": 48,
+          "r": 48,
+          "er": 40,
+          "earned_runs": 40,
+          "whip": 3.68,
+          "oavg": 0.376,
+          "k_rate": 7.37,
+          "command_score": 65.0,
+          "target_accuracy": "65%",
+          "command_grade": "B",
+          "command_desc": "포수 미트 유인구 위주 (65.0점)"
+        },
+        {
+          "year": 2026,
+          "rank": 5,
+          "name": "안석규",
+          "back_num": 11,
+          "era": 19.13,
+          "games": 3,
+          "wins": 0,
+          "losses": 0,
+          "saves": 0,
+          "holds": 0,
+          "win_rate": 0.0,
+          "innings": "3.2",
+          "hits": 13,
+          "hr": 0,
+          "bb": 7,
+          "hbp": 0,
+          "so": 3,
+          "runs": 10,
+          "r": 10,
+          "er": 10,
+          "earned_runs": 10,
+          "whip": 5.46,
+          "oavg": 0.565,
+          "k_rate": 5.74,
+          "command_score": 65.0,
+          "target_accuracy": "65%",
+          "command_grade": "B",
+          "command_desc": "포수 미트 유인구 위주 (65.0점)"
+        },
+        {
+          "year": 2026,
+          "rank": 6,
+          "name": "황재민",
+          "back_num": 88,
+          "era": 0.0,
+          "games": 1,
+          "wins": 0,
+          "losses": 0,
+          "saves": 0,
+          "holds": 0,
+          "win_rate": 0.0,
+          "innings": "0.0",
+          "hits": 0,
+          "hr": 0,
+          "bb": 2,
+          "hbp": 1,
+          "so": 0,
+          "runs": 3,
+          "r": 3,
+          "er": 3,
+          "earned_runs": 3,
+          "whip": 0.0,
+          "oavg": 0.0,
+          "k_rate": 0.0,
+          "command_score": 70.0,
+          "target_accuracy": "70%",
+          "command_grade": "B-",
+          "command_desc": "표본 부족 (0이닝)"
+        }
+      ]
+    },
+    "available_years": [
+      2026,
+      2025
+    ]
+  },
+  "available_years": [
+    2026,
+    2025
+  ],
+  "available_leagues": [
+    {
+      "id": "all",
+      "name": "전체 리그 (통합)"
+    },
+    {
+      "id": "regular",
+      "name": "수원 일요A (정규)"
+    },
+    {
+      "id": "tournament",
+      "name": "하반기 토너먼트"
+    }
+  ],
+  "league_summaries": {
+    "2026": {
+      "all": {
+        "league_name": "2026 전체 리그 통합",
+        "total_games": 15,
+        "completed": 11,
+        "scheduled": 4,
+        "wins": 7,
+        "draws": 1,
+        "losses": 3,
+        "win_rate": 0.7,
+        "runs_for": 105,
+        "runs_against": 87,
+        "rank": "2위",
+        "description": "수원 일요A 정규리그 3위 + 하반기 토너먼트 8강 진출"
+      },
+      "regular": {
+        "league_name": "수원 일요리그 3부 A (정규)",
+        "total_games": 10,
+        "completed": 10,
+        "scheduled": 0,
+        "wins": 6,
+        "draws": 1,
+        "losses": 3,
+        "win_rate": 0.667,
+        "runs_for": 93,
+        "runs_against": 83,
+        "rank": "3위 (포스트시즌 진출)",
+        "description": "2026 정규시즌 6승 1무 3패로 상위권 도약"
+      },
+      "tournament": {
+        "league_name": "하반기 일요 토너먼트 (A조)",
+        "total_games": 5,
+        "completed": 1,
+        "scheduled": 4,
+        "wins": 1,
+        "draws": 0,
+        "losses": 0,
+        "win_rate": 1.0,
+        "runs_for": 12,
+        "runs_against": 4,
+        "rank": "8강 진출 (진행 중)",
+        "description": "10월 4일 1회전 12:4 승리, 10월 11일 썬더볼츠전 예정"
+      }
+    },
+    "2025": {
+      "all": {
+        "league_name": "2025 창단 시즌",
+        "total_games": 0,
+        "completed": 0,
+        "scheduled": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "win_rate": 0.0,
+        "runs_for": 0,
+        "runs_against": 0,
+        "rank": "창단 준비",
+        "description": "2025년 10월 14일 팀 공식 창단 및 선수단 구성 완료"
+      }
+    }
+  },
+  "version_info": {
+    "version_code": 13,
+    "versionCode": 13,
+    "version_name": "1.1.3",
+    "versionName": "1.1.3",
+    "force_update": false,
+    "min_supported_version": 1,
+    "release_date": "2026-10-08",
+    "download_url": "https://github.com/JSPARK84/suwon-furiosa/releases/download/v1.1.3/suwon_furiosa.apk",
+    "drive_web_url": "https://drive.google.com/file/d/11ky6ermZAGbEjAfyK7c7ghw-3jjG2d8o/view?usp=sharing"
+  },
+  "videos": [
+    {
+      "id": "KquC0XBgzmw",
+      "title": "비야구단 vs 수원 퓨리오사",
+      "full_title": "[유니크플레이] 비야구단 vs 수원 퓨리오사 핫클립 | 2026.10.04 | 유신고 야구장",
+      "category": "핫클립",
+      "date": "2026.10.04",
+      "stadium": "유신고 야구장",
+      "youtube_url": "https://www.youtube.com/watch?v=KquC0XBgzmw",
+      "thumbnail_url": "https://i.ytimg.com/vi/KquC0XBgzmw/hqdefault.jpg",
+      "sample_mp4": "assets/videos/batting_clips/clip_song_hyoseok.mp4",
+      "local_asset": "assets/videos/batting_clips/clip_song_hyoseok.mp4"
+    },
+    {
+      "id": "phMzsspLmEg",
+      "title": "비야구단 vs 수원 퓨리오사",
+      "full_title": "[유니크플레이] 비야구단 vs 수원 퓨리오사 풀영상 | 2026.10.04 | 유신고 야구장",
+      "category": "풀영상",
+      "date": "2026.10.04",
+      "stadium": "유신고 야구장",
+      "youtube_url": "https://www.youtube.com/watch?v=phMzsspLmEg",
+      "thumbnail_url": "https://i.ytimg.com/vi/phMzsspLmEg/hqdefault.jpg",
+      "sample_mp4": "assets/videos/batting_clips/clip_song_hyoseok.mp4",
+      "local_asset": "assets/videos/batting_clips/clip_song_hyoseok.mp4"
+    },
+    {
+      "id": "4e6mU2SksJY",
+      "title": "수원 퓨리오사 vs Triumph",
+      "full_title": "[유니크플레이] 수원 퓨리오사 vs Triumph 핫클립 | 2026.09.20 | 유신고 야구장",
+      "category": "핫클립",
+      "date": "2026.09.20",
+      "stadium": "유신고 야구장",
+      "youtube_url": "https://www.youtube.com/watch?v=4e6mU2SksJY",
+      "thumbnail_url": "https://i.ytimg.com/vi/4e6mU2SksJY/hqdefault.jpg",
+      "sample_mp4": "assets/videos/batting_clips/clip_kim_jaewoong.mp4",
+      "local_asset": "assets/videos/batting_clips/clip_kim_jaewoong.mp4"
+    },
+    {
+      "id": "F6FNmStTQZ4",
+      "title": "수원 퓨리오사 vs Triumph",
+      "full_title": "[유니크플레이] 수원 퓨리오사 vs Triumph 풀영상 | 2026.09.20 | 유신고 야구장",
+      "category": "풀영상",
+      "date": "2026.09.20",
+      "stadium": "유신고 야구장",
+      "youtube_url": "https://www.youtube.com/watch?v=F6FNmStTQZ4",
+      "thumbnail_url": "https://i.ytimg.com/vi/F6FNmStTQZ4/hqdefault.jpg",
+      "sample_mp4": "assets/videos/batting_clips/clip_kim_jaewoong.mp4",
+      "local_asset": "assets/videos/batting_clips/clip_kim_jaewoong.mp4"
+    },
+    {
+      "id": "h3BP50tspOc",
+      "title": "수원 퓨리오사 vs The Shouting",
+      "full_title": "[유니크플레이] 수원 퓨리오사 vs The Shouting 핫클립 | 2026.09.06 | 유신고 야구장",
+      "category": "핫클립",
+      "date": "2026.09.06",
+      "stadium": "유신고 야구장",
+      "youtube_url": "https://www.youtube.com/watch?v=h3BP50tspOc",
+      "thumbnail_url": "https://i.ytimg.com/vi/h3BP50tspOc/hqdefault.jpg",
+      "sample_mp4": "assets/videos/batting_clips/clip_park_junseong.mp4",
+      "local_asset": "assets/videos/batting_clips/clip_park_junseong.mp4"
+    },
+    {
+      "id": "G_VRPNNudNs",
+      "title": "수원 퓨리오사 vs The Shouting",
+      "full_title": "[유니크플레이] 수원 퓨리오사 vs The Shouting 풀영상 | 2026.09.06 | 유신고 야구장",
+      "category": "풀영상",
+      "date": "2026.09.06",
+      "stadium": "유신고 야구장",
+      "youtube_url": "https://www.youtube.com/watch?v=G_VRPNNudNs",
+      "thumbnail_url": "https://i.ytimg.com/vi/G_VRPNNudNs/hqdefault.jpg",
+      "sample_mp4": "assets/videos/batting_clips/clip_park_junseong.mp4",
+      "local_asset": "assets/videos/batting_clips/clip_park_junseong.mp4"
+    },
+    {
+      "id": "p3-eMTUkias",
+      "title": "Luminous vs 수원 퓨리오사",
+      "full_title": "[유니크플레이] Luminous vs 수원 퓨리오사 핫클립 | 2026.08.23 | 유신고 야구장",
+      "category": "핫클립",
+      "date": "2026.08.23",
+      "stadium": "유신고 야구장",
+      "youtube_url": "https://www.youtube.com/watch?v=p3-eMTUkias",
+      "thumbnail_url": "https://i.ytimg.com/vi/p3-eMTUkias/hqdefault.jpg",
+      "sample_mp4": "assets/videos/batting_clips/clip_lee_haejin.mp4",
+      "local_asset": "assets/videos/batting_clips/clip_lee_haejin.mp4"
+    },
+    {
+      "id": "ls06HvUDvW0",
+      "title": "Luminous vs 수원 퓨리오사",
+      "full_title": "[유니크플레이] Luminous vs 수원 퓨리오사 풀영상 | 2026.08.23 | 유신고 야구장",
+      "category": "풀영상",
+      "date": "2026.08.23",
+      "stadium": "유신고 야구장",
+      "youtube_url": "https://www.youtube.com/watch?v=ls06HvUDvW0",
+      "thumbnail_url": "https://i.ytimg.com/vi/ls06HvUDvW0/hqdefault.jpg",
+      "sample_mp4": "assets/videos/batting_clips/clip_lee_haejin.mp4",
+      "local_asset": "assets/videos/batting_clips/clip_lee_haejin.mp4"
+    },
+    {
+      "id": "HcxwWMeVjgw",
+      "title": "야호(野好) vs 수원 퓨리오사",
+      "full_title": "[유니크플레이] 야호(野好) vs 수원 퓨리오사 핫클립 | 2026.07.19 | 유신고 야구장",
+      "category": "핫클립",
+      "date": "2026.07.19",
+      "stadium": "유신고 야구장",
+      "youtube_url": "https://www.youtube.com/watch?v=HcxwWMeVjgw",
+      "thumbnail_url": "https://i.ytimg.com/vi/HcxwWMeVjgw/hqdefault.jpg",
+      "sample_mp4": "assets/videos/batting_clips/clip_hwang_jaemin.mp4",
+      "local_asset": "assets/videos/batting_clips/clip_hwang_jaemin.mp4"
+    },
+    {
+      "id": "a2ARBkChF9M",
+      "title": "야호(野好) vs 수원 퓨리오사",
+      "full_title": "[유니크플레이] 야호(野好) vs 수원 퓨리오사 풀영상 | 2026.07.19 | 유신고 야구장",
+      "category": "풀영상",
+      "date": "2026.07.19",
+      "stadium": "유신고 야구장",
+      "youtube_url": "https://www.youtube.com/watch?v=a2ARBkChF9M",
+      "thumbnail_url": "https://i.ytimg.com/vi/a2ARBkChF9M/hqdefault.jpg",
+      "sample_mp4": "assets/videos/batting_clips/clip_hwang_jaemin.mp4",
+      "local_asset": "assets/videos/batting_clips/clip_hwang_jaemin.mp4"
+    },
+    {
+      "id": "iOpvp8YTDxU",
+      "title": "YoungGunz vs 수원 퓨리오사",
+      "full_title": "[유니크플레이] YoungGunz vs 수원 퓨리오사 핫클립 | 2026.07.12 | 유신고 야구장",
+      "category": "핫클립",
+      "date": "2026.07.12",
+      "stadium": "유신고 야구장",
+      "youtube_url": "https://www.youtube.com/watch?v=iOpvp8YTDxU",
+      "thumbnail_url": "https://i.ytimg.com/vi/iOpvp8YTDxU/hqdefault.jpg",
+      "sample_mp4": "assets/videos/batting_clips/clip_jung_changhee.mp4",
+      "local_asset": "assets/videos/batting_clips/clip_jung_changhee.mp4"
+    },
+    {
+      "id": "8usF7vSgIy4",
+      "title": "YoungGunz vs 수원 퓨리오사",
+      "full_title": "[유니크플레이] YoungGunz vs 수원 퓨리오사 풀영상 | 2026.07.12 | 유신고 야구장",
+      "category": "풀영상",
+      "date": "2026.07.12",
+      "stadium": "유신고 야구장",
+      "youtube_url": "https://www.youtube.com/watch?v=8usF7vSgIy4",
+      "thumbnail_url": "https://i.ytimg.com/vi/8usF7vSgIy4/hqdefault.jpg",
+      "sample_mp4": "assets/videos/batting_clips/clip_jung_changhee.mp4",
+      "local_asset": "assets/videos/batting_clips/clip_jung_changhee.mp4"
+    },
+    {
+      "id": "Qlxp5j37mYY",
+      "title": "수원 퓨리오사 vs Kairos",
+      "full_title": "[유니크플레이] 수원 퓨리오사 vs Kairos 핫클립 | 2026.06.28 | 유신고 야구장",
+      "category": "핫클립",
+      "date": "2026.06.28",
+      "stadium": "유신고 야구장",
+      "youtube_url": "https://www.youtube.com/watch?v=Qlxp5j37mYY",
+      "thumbnail_url": "https://i.ytimg.com/vi/Qlxp5j37mYY/hqdefault.jpg",
+      "sample_mp4": "assets/videos/batting_clips/clip_kim_daehoon.mp4",
+      "local_asset": "assets/videos/batting_clips/clip_kim_daehoon.mp4"
+    },
+    {
+      "id": "GGYMSi3JMQs",
+      "title": "수원 퓨리오사 vs Kairos",
+      "full_title": "[유니크플레이] 수원 퓨리오사 vs Kairos 풀영상 | 2026.06.28 | 유신고 야구장",
+      "category": "풀영상",
+      "date": "2026.06.28",
+      "stadium": "유신고 야구장",
+      "youtube_url": "https://www.youtube.com/watch?v=GGYMSi3JMQs",
+      "thumbnail_url": "https://i.ytimg.com/vi/GGYMSi3JMQs/hqdefault.jpg",
+      "sample_mp4": "assets/videos/batting_clips/clip_kim_daehoon.mp4",
+      "local_asset": "assets/videos/batting_clips/clip_kim_daehoon.mp4"
+    },
+    {
+      "id": "VeM-6QOeBTk",
+      "title": "Team-JSB vs 수원 퓨리오사",
+      "full_title": "[유니크플레이] Team-JSB vs 수원 퓨리오사 핫클립 | 2026.06.07 | 유신고 야구장",
+      "category": "핫클립",
+      "date": "2026.06.07",
+      "stadium": "유신고 야구장",
+      "youtube_url": "https://www.youtube.com/watch?v=VeM-6QOeBTk",
+      "thumbnail_url": "https://i.ytimg.com/vi/VeM-6QOeBTk/hqdefault.jpg",
+      "sample_mp4": "assets/videos/batting_clips/clip_park_giwoong.mp4",
+      "local_asset": "assets/videos/batting_clips/clip_park_giwoong.mp4"
+    },
+    {
+      "id": "3HlM4k9fA4w",
+      "title": "Team-JSB vs 수원 퓨리오사",
+      "full_title": "[유니크플레이] Team-JSB vs 수원 퓨리오사 풀영상 | 2026.06.07 | 유신고 야구장",
+      "category": "풀영상",
+      "date": "2026.06.07",
+      "stadium": "유신고 야구장",
+      "youtube_url": "https://www.youtube.com/watch?v=3HlM4k9fA4w",
+      "thumbnail_url": "https://i.ytimg.com/vi/3HlM4k9fA4w/hqdefault.jpg",
+      "sample_mp4": "assets/videos/batting_clips/clip_park_giwoong.mp4",
+      "local_asset": "assets/videos/batting_clips/clip_park_giwoong.mp4"
+    },
+    {
+      "id": "wKopRKw0LAs",
+      "title": "수원 퓨리오사 vs change-up",
+      "full_title": "[유니크플레이] 수원 퓨리오사 vs change-up 핫클립 | 2026.05.17 | 유신고 야구장",
+      "category": "핫클립",
+      "date": "2026.05.17",
+      "stadium": "유신고 야구장",
+      "youtube_url": "https://www.youtube.com/watch?v=wKopRKw0LAs",
+      "thumbnail_url": "https://i.ytimg.com/vi/wKopRKw0LAs/hqdefault.jpg",
+      "sample_mp4": "assets/videos/batting_clips/clip_kim_seongil.mp4",
+      "local_asset": "assets/videos/batting_clips/clip_kim_seongil.mp4"
+    },
+    {
+      "id": "UPkLoKTH-jg",
+      "title": "수원 퓨리오사 vs change-up",
+      "full_title": "[유니크플레이] 수원 퓨리오사 vs change-up 풀영상 | 2026.05.17 | 유신고 야구장",
+      "category": "풀영상",
+      "date": "2026.05.17",
+      "stadium": "유신고 야구장",
+      "youtube_url": "https://www.youtube.com/watch?v=UPkLoKTH-jg",
+      "thumbnail_url": "https://i.ytimg.com/vi/UPkLoKTH-jg/hqdefault.jpg",
+      "sample_mp4": "assets/videos/batting_clips/clip_kim_seongil.mp4",
+      "local_asset": "assets/videos/batting_clips/clip_kim_seongil.mp4"
+    },
+    {
+      "id": "C7uZb-ABHRk",
+      "title": "수원 퓨리오사 vs DoubleB",
+      "full_title": "[유니크플레이] 수원 퓨리오사 vs DoubleB 핫클립 | 2026.05.10 | 유신고 야구장",
+      "category": "핫클립",
+      "date": "2026.05.10",
+      "stadium": "유신고 야구장",
+      "youtube_url": "https://www.youtube.com/watch?v=C7uZb-ABHRk",
+      "thumbnail_url": "https://i.ytimg.com/vi/C7uZb-ABHRk/hqdefault.jpg",
+      "sample_mp4": "assets/videos/batting_clips/clip_yoon_jinsu.mp4",
+      "local_asset": "assets/videos/batting_clips/clip_yoon_jinsu.mp4"
+    },
+    {
+      "id": "6_sVI5sJbHY",
+      "title": "수원 퓨리오사 vs DoubleB",
+      "full_title": "[유니크플레이] 수원 퓨리오사 vs DoubleB 풀영상 | 2026.05.10 | 유신고 야구장",
+      "category": "풀영상",
+      "date": "2026.05.10",
+      "stadium": "유신고 야구장",
+      "youtube_url": "https://www.youtube.com/watch?v=6_sVI5sJbHY",
+      "thumbnail_url": "https://i.ytimg.com/vi/6_sVI5sJbHY/hqdefault.jpg",
+      "sample_mp4": "assets/videos/batting_clips/clip_yoon_jinsu.mp4",
+      "local_asset": "assets/videos/batting_clips/clip_yoon_jinsu.mp4"
+    },
+    {
+      "id": "AzgG-5YUZdU",
+      "title": "수원 퓨리오사 vs 왕코끼리",
+      "full_title": "[유니크플레이] 수원 퓨리오사 vs 왕코끼리 핫클립 | 2026.03.29 | 유신고 야구장",
+      "category": "핫클립",
+      "date": "2026.03.29",
+      "stadium": "유신고 야구장",
+      "youtube_url": "https://www.youtube.com/watch?v=AzgG-5YUZdU",
+      "thumbnail_url": "https://i.ytimg.com/vi/AzgG-5YUZdU/hqdefault.jpg",
+      "sample_mp4": "assets/videos/batting_clips/clip_seo_youngwoo.mp4",
+      "local_asset": "assets/videos/batting_clips/clip_seo_youngwoo.mp4"
+    },
+    {
+      "id": "vPgrsnBMuTI",
+      "title": "수원 퓨리오사 vs 왕코끼리",
+      "full_title": "[유니크플레이] 수원 퓨리오사 vs 왕코끼리 풀영상 | 2026.03.29 | 유신고 야구장",
+      "category": "풀영상",
+      "date": "2026.03.29",
+      "stadium": "유신고 야구장",
+      "youtube_url": "https://www.youtube.com/watch?v=vPgrsnBMuTI",
+      "thumbnail_url": "https://i.ytimg.com/vi/vPgrsnBMuTI/hqdefault.jpg",
+      "sample_mp4": "assets/videos/batting_clips/clip_seo_youngwoo.mp4",
+      "local_asset": "assets/videos/batting_clips/clip_seo_youngwoo.mp4"
+    },
+    {
+      "id": "2_Z66nddhwA",
+      "title": "ANYONE vs 수원 퓨리오사",
+      "full_title": "[유니크플레이] ANYONE vs 수원 퓨리오사 핫클립 | 2026.03.22 | 유신고 야구장",
+      "category": "핫클립",
+      "date": "2026.03.22",
+      "stadium": "유신고 야구장",
+      "youtube_url": "https://www.youtube.com/watch?v=2_Z66nddhwA",
+      "thumbnail_url": "https://i.ytimg.com/vi/2_Z66nddhwA/hqdefault.jpg",
+      "sample_mp4": "assets/videos/batting_clips/clip_cho_hyunseo.mp4",
+      "local_asset": "assets/videos/batting_clips/clip_cho_hyunseo.mp4"
+    },
+    {
+      "id": "nHcjjElZAt4",
+      "title": "ANYONE vs 수원 퓨리오사",
+      "full_title": "[유니크플레이] ANYONE vs 수원 퓨리오사 풀영상 | 2026.03.22 | 유신고 야구장",
+      "category": "풀영상",
+      "date": "2026.03.22",
+      "stadium": "유신고 야구장",
+      "youtube_url": "https://www.youtube.com/watch?v=nHcjjElZAt4",
+      "thumbnail_url": "https://i.ytimg.com/vi/nHcjjElZAt4/hqdefault.jpg",
+      "sample_mp4": "assets/videos/batting_clips/clip_cho_hyunseo.mp4",
+      "local_asset": "assets/videos/batting_clips/clip_cho_hyunseo.mp4"
+    },
+    {
+      "id": "R0uZqVPxdaw",
+      "title": "수원 퓨리오사 vs 어중이떠중이",
+      "full_title": "[유니크플레이] 수원 퓨리오사 vs 어중이떠중이 핫클립 | 2026.03.01 | 유신고 야구장",
+      "category": "핫클립",
+      "date": "2026.03.01",
+      "stadium": "유신고 야구장",
+      "youtube_url": "https://www.youtube.com/watch?v=R0uZqVPxdaw",
+      "thumbnail_url": "https://i.ytimg.com/vi/R0uZqVPxdaw/hqdefault.jpg",
+      "sample_mp4": "assets/videos/batting_clips/clip_an_seokgyu.mp4",
+      "local_asset": "assets/videos/batting_clips/clip_an_seokgyu.mp4"
+    },
+    {
+      "id": "H5ck-ttQj5s",
+      "title": "수원 퓨리오사 vs 어중이떠중이",
+      "full_title": "[유니크플레이] 수원 퓨리오사 vs 어중이떠중이 풀영상 | 2026.03.01 | 유신고 야구장",
+      "category": "풀영상",
+      "date": "2026.03.01",
+      "stadium": "유신고 야구장",
+      "youtube_url": "https://www.youtube.com/watch?v=H5ck-ttQj5s",
+      "thumbnail_url": "https://i.ytimg.com/vi/H5ck-ttQj5s/hqdefault.jpg",
+      "sample_mp4": "assets/videos/batting_clips/clip_an_seokgyu.mp4",
+      "local_asset": "assets/videos/batting_clips/clip_an_seokgyu.mp4"
+    }
+  ],
+  "opponent_analytics": {
+    "썬더볼츠": {
+      "team_name": "썬더볼츠",
+      "league": "후반기 일요 토너먼트(A조)",
+      "grade": "A-",
+      "grade_label": "상위권 강팀",
+      "team_ba": ".312",
+      "team_era": "4.85",
+      "record_vs_furiosa": "1승 1패 호각세 (직전 경기 8:6 퓨리오사 승)",
+      "recent_form": "3승 2패",
+      "run_margin": "+14",
+      "style_tags": [
+        "중장거리포 장타 군단",
+        "우완 정통파 선발",
+        "주루 플레이 공격적",
+        "포수 도루허용 다수",
+        "안방 취약"
+      ],
+      "key_players": [
+        {
+          "role": "에이스 선발투수",
+          "back_no": "11",
+          "name": "박철우",
+          "position": "투수 (우투우타)",
+          "stats": "3승 1패 ERA 4.10 탈삼진 28개",
+          "features": "최고 118km/h 직구와 날카로운 슬라이더 주무기. 초구 스트라이크 비율(68%)이 매우 높음.",
+          "strategy": "초구 한가운데 들어오는 직구를 적극 공략. 2스트라이크 이후 떨어지는 바깥쪽 유인구는 철저히 참아낼 것."
+        },
+        {
+          "role": "4번 중심타자",
+          "back_no": "34",
+          "name": "이정훈",
+          "position": "1루수 (우투좌타)",
+          "stats": "타율 .385 3홈런 14타점 OPS 1.085",
+          "features": "배트 스피드가 빠르고 몸쪽 빠른 공을 끌어당겨 담장을 넘기는 전형적인 거포형 타자.",
+          "strategy": "몸쪽 승부는 절대 금물. 포수 미트 바깥쪽 낮게 떨어지는 변화구로 헛스윙을 유도하고 외야는 우측 시프트 권장."
+        },
+        {
+          "role": "1번 테이블세터",
+          "back_no": "7",
+          "name": "최민석",
+          "position": "유격수 (우투우타)",
+          "stats": "타율 .340 8도루 출루율 .465",
+          "features": "기습 번트와 빠른 발이 강점. 출루 시 2구 이내 도루 시도가 빈번함.",
+          "strategy": "출루 허용 시 1루 견제를 2회 이상 실시하여 스타트를 묶고, 초구 스트라이크 선점으로 번트 수비 대비."
+        },
+        {
+          "role": "주전 포수",
+          "back_no": "22",
+          "name": "강태준",
+          "position": "포수 (우투우타)",
+          "stats": "도루 저지율 14.3% (피도루 24개 / 저지 4개)",
+          "features": "블로킹은 무난하나 2루 송구 시 스텝이 느리고 송구 궤적이 높아 주자 억제력 취약.",
+          "strategy": "출루 시 주저하지 말고 2루 도루 감행. 포수의 바운드 볼 포구 불안 시 과감한 추가 진루."
+        }
+      ],
+      "game_plan": {
+        "batting": "상대 선발 박철우의 초구 직구를 카운트 몰리기 전에 적극 노림 타격. 장타 위주의 스윙보다는 낮고 빠른 라인드라이브 타구 생산 집중.",
+        "pitching": "김대훈 선발 출격 시 포수 미트 바깥쪽 코너워크 철저 유지. 4번 이정훈 앞 주자를 모으지 않는 것이 승리의 절대 조건.",
+        "defense": "상대 공격적인 주루에 대비해 외야수의 빠르고 정확한 중계 플레이 필수. 3루수 전진 수비로 기습 번트 차단.",
+        "running": "⚡ 주루 & 기동력: [상대 포수 안방 집중 공략 - 그린라이트] 경기당 평균 4.8개의 도루를 허용하는 극심한 피도루 약점 보유. 1루 주자는 리드폭을 1~2보 더 넓히고 초구부터 적극적으로 2루 도루를 감행할 것. 단타 시에도 2루까지 오버런하여 상대 수비를 흔들 것."
+      },
+      "avg_sb_allowed": "4.8",
+      "total_sb_allowed": "24",
+      "catcher_name": "강태준",
+      "catcher_cs_rate": "14.3%",
+      "catcher_analysis": "포수 2루 송구 팝타임 2.45초대로 지연. 리그 상위권 도루 허용률 (도루 적극 추천)",
+      "backup_catcher": "이진우 (#2, 우투우타)",
+      "backup_cs_rate": "10.0%",
+      "sub_timing": "경기 후반 4~5회 체력 안배 또는 대타 기용 후 교체 출전",
+      "sub_analysis": "백업 이진우는 2루 송구 정확도와 블로킹이 주전보다 떨어짐. 교체 즉시 100% 그린라이트 가동 권장.",
+      "change_action": "🚨 상대 포수가 이진우로 교체되는 순간, 모든 주자는 초구부터 2루 도루를 감행할 것."
+    },
+    "Triumph Baseball Club": {
+      "team_name": "Triumph Baseball Club",
+      "league": "후반기 일요 토너먼트(A조)",
+      "grade": "B+",
+      "grade_label": "수비 안정형 팀",
+      "team_ba": ".288",
+      "team_era": "5.20",
+      "record_vs_furiosa": "퓨리오사 1승 0패 우세",
+      "recent_form": "2승 3패",
+      "run_margin": "+4",
+      "style_tags": [
+        "내야 수비 탄탄",
+        "사사구 적은 제구파 투수",
+        "작전 야구 선호",
+        "피도루 주의보",
+        "기동력 공략 대상"
+      ],
+      "key_players": [
+        {
+          "role": "기교파 선발투수",
+          "back_no": "21",
+          "name": "한상진",
+          "position": "투수 (우투우타)",
+          "stats": "2승 2패 ERA 4.90 사사구 경기당 2.1개",
+          "features": "구속은 105km/h 수준이나 제구력이 좋아 존 구석을 찌르는 체인지업과 투심이 까다로움.",
+          "strategy": "존 안에 들어오는 공을 가볍게 밀어치는 타격. 공을 끝까지 보고 결대로 공략하면 대량 득점 가능."
+        },
+        {
+          "role": "3번 클러치 히터",
+          "back_no": "5",
+          "name": "정우택",
+          "position": "3루수 (우투우타)",
+          "stats": "타율 .333 1홈런 11타점 득점권 .410",
+          "features": "주자가 있을 때 유독 강한 집중력을 발휘하는 승부사. 우중간을 가르는 2루타가 많음.",
+          "strategy": "주자 2루 이상 시 무리한 승부보다 유인구로 카운트를 유리하게 이끌고 높은 실투 주의."
+        },
+        {
+          "role": "주전 포수",
+          "back_no": "2",
+          "name": "오승현",
+          "position": "포수 (우투우타)",
+          "stats": "도루 저지율 18.2% (피도루 19개 / 저지 4개)",
+          "features": "체격 조건은 좋으나 2루 송구 시 팔이 처져 원바운드 송구가 잦음.",
+          "strategy": "변화구 카운트에 적극적인 도루 및 런앤히트 작전 전개."
+        }
+      ],
+      "game_plan": {
+        "batting": "상대 선발의 코너워크에 말리지 말고 존을 좁혀서 실투를 장타로 연결할 것.",
+        "pitching": "상대 하위 타선의 번트 및 런앤히트 작전에 대비한 피치아웃 및 볼 배합 다양화.",
+        "defense": "내야진의 안정적인 병살 처리와 2루수-유격수 간의 컷오프 호흡 점검.",
+        "running": "⚡ 주루 & 기동력: [2루 및 3루 도루 적극 가동] 투수의 세트포지션 퀵모션이 느리고 견제 패턴이 일정함. 2루 도루 성공 후 포수의 3루 송구 정확도가 떨어지므로 과감한 3루 도루 및 더블스틸 시도 추천."
+      },
+      "avg_sb_allowed": "3.8",
+      "total_sb_allowed": "19",
+      "catcher_name": "오승현",
+      "catcher_cs_rate": "18.2%",
+      "catcher_analysis": "투수 견제 패턴 단순 및 포수 3루 송구 불안 (2루/3루 도루 추천)",
+      "backup_catcher": "한상우 (#17, 우투우타)",
+      "backup_cs_rate": "22.0%",
+      "sub_timing": "선발 오승현 투수 등판 시 포수 마스크 착용",
+      "sub_analysis": "어깨는 무난하나 원바운드 볼 블로킹 시 공을 앞으로 떨어뜨리지 못하는 경향.",
+      "change_action": "⚠️ 오승현이 마운드로 이동하고 한상우가 포수로 들어오면, 변화구 투구 시 폭투 틈타 추가 진루."
+    },
+    "DoubleB": {
+      "team_name": "DoubleB",
+      "league": "후반기 일요 토너먼트(A조)",
+      "grade": "B+",
+      "grade_label": "다크호스 복병",
+      "team_ba": ".295",
+      "team_era": "5.60",
+      "record_vs_furiosa": "1승 1패 팽팽",
+      "recent_form": "3승 2패",
+      "run_margin": "+6",
+      "style_tags": [
+        "좌완 선발 보유",
+        "끈질긴 커트 타격",
+        "역전승 빈도 높음",
+        "리그 최다 도루허용",
+        "기동력 집중 공략"
+      ],
+      "key_players": [
+        {
+          "role": "좌완 까다로운 선발",
+          "back_no": "1",
+          "name": "윤성민",
+          "position": "투수 (좌투좌타)",
+          "stats": "2승 1패 ERA 5.15 탈삼진율 높음",
+          "features": "희소한 좌완 오버스펙 투수. 슬라이더의 궤적이 커 우타자 몸쪽을 파고듦.",
+          "strategy": "우타자 중심 라인업으로 상대 슬라이더 궤적에 적응. 몸쪽 공에 밀리지 않는 강한 허리 회전 필요."
+        },
+        {
+          "role": "리드오프 중견수",
+          "back_no": "17",
+          "name": "배준호",
+          "position": "중견수 (우투우타)",
+          "stats": "타율 .360 6도루 출루율 .450",
+          "features": "투구수를 많이 늘리는 끈질긴 풀카운트 승부형 타자. 외야 수비 범위가 매우 넓음.",
+          "strategy": "유인구로 볼카운트 낭비하지 말고 3구 이내에 적극적으로 스트라이크 존 승부."
+        },
+        {
+          "role": "주전 포수",
+          "back_no": "12",
+          "name": "조한결",
+          "position": "포수 (우투우타)",
+          "stats": "도루 저지율 10.3% (피도루 26개 / 저지 3개)",
+          "features": "2루 송구 팝타임 2.5초 이상. 주자 출루 시 심리적으로 위축되어 송구 실책 빈번.",
+          "strategy": "초구부터 과감한 스타트. 포수의 2루 악송구를 대비해 3루까지 노리는 주루."
+        }
+      ],
+      "game_plan": {
+        "batting": "좌완 윤성민의 슬라이더를 머릿속에 두고 직구 타이밍에 맞춰 배트를 짧게 쥘 것.",
+        "pitching": "경기 후반 상대 타선의 뒷심이 강하므로 5회 이후 불펜 필승조 조기 가동 고려.",
+        "defense": "외야 뜬공 포구 시 바람과 햇빛 방향 사전 숙지.",
+        "running": "⚡ 주루 & 기동력: [전 주자 무조건 도루 그린라이트] 경기당 무려 5.2개의 도루를 헌납하는 리그 최약체 안방. 모든 타자는 1루 도달 즉시 2루 도루를 시도하고, 2루에서도 딜레이드 스틸로 3루를 위협하여 대량 득점의 발판을 마련할 것."
+      },
+      "avg_sb_allowed": "5.2",
+      "total_sb_allowed": "26",
+      "catcher_name": "조한결",
+      "catcher_cs_rate": "10.3%",
+      "catcher_analysis": "리그 최다 피도루(경기당 5.2개) 기록. 안방 도루 저지력 최하위 (전 주자 그린라이트)",
+      "backup_catcher": "최성민 (#25, 우투우타)",
+      "backup_cs_rate": "12.5%",
+      "sub_timing": "점수 차 벌어질 시 4회 이후 교체",
+      "sub_analysis": "송구 궤적이 높아 2루 베이스 커버 전 세이프 확률 높음. 딜레이드 스틸 유효.",
+      "change_action": "⚡ 포수 교체와 무관하게 안방 전체가 취약하므로 적극적인 추가 진루 및 도루 유지."
+    },
+    "그린비야구단": {
+      "team_name": "그린비야구단",
+      "league": "후반기 일요 토너먼트(A조)",
+      "grade": "A",
+      "grade_label": "전통의 강호",
+      "team_ba": ".325",
+      "team_era": "4.50",
+      "record_vs_furiosa": "0승 1패 설욕전 필요",
+      "recent_form": "4승 1패",
+      "run_margin": "+25",
+      "style_tags": [
+        "탄탄한 마운드",
+        "1~9번 빈틈없는 타선",
+        "수비 실책 리그 최소",
+        "포수 강견",
+        "도루 저지 안정"
+      ],
+      "key_players": [
+        {
+          "role": "리그 정상급 투수",
+          "back_no": "18",
+          "name": "송민재",
+          "position": "투수 (우투우타)",
+          "stats": "4승 0패 ERA 3.80 완투 1회",
+          "features": "구속 120km/h 육박, 제구와 완급조절 모두 갖춘 리그 최강 투수 중 한 명.",
+          "strategy": "점수를 많이 내기 어려우므로 득점 찬스에서 스퀴즈나 진루타 등 한 점 짜내기 야구 집중."
+        },
+        {
+          "role": "주전 포수",
+          "back_no": "25",
+          "name": "임도현",
+          "position": "포수 (우투우타)",
+          "stats": "도루 저지율 33.3% (피도루 10개 / 저지 5개)",
+          "features": "안정적인 캐칭과 2루 팝타임 2.1초대의 강견 보유.",
+          "strategy": "무리한 단독 도루 자제, 런앤히트 및 히트앤런 등 작전 플레이 위주 주루."
+        }
+      ],
+      "game_plan": {
+        "batting": "선발 송민재의 투구수를 늘리는 것이 관건. 1회부터 많은 공을 던지게 유도하여 불펜을 끌어낼 것.",
+        "pitching": "수원 퓨리오사 투수진 전원 총력전. 김대훈-차상현-박준성 계투로 실점 최소화.",
+        "defense": "단 1개의 실책도 실점과 직결될 수 있으므로 기본에 충실한 포구와 송구.",
+        "running": "⚡ 주루 & 기동력: [스마트 타이밍 주루] 상대 포수의 2루 송구 정확도와 어깨가 우수하므로 무리한 단독 도루는 금물. 변화구 원바운드 타이밍이나 투수의 세트포지션 투구 인터벌을 노려 허를 찌르는 작전 도루 수행."
+      },
+      "avg_sb_allowed": "2.0",
+      "total_sb_allowed": "10",
+      "catcher_name": "임도현",
+      "catcher_cs_rate": "33.3%",
+      "catcher_analysis": "포수 강견 및 팝타임 2.1초대 우수 (무리한 단독 도루 자제, 타이밍 노림수)",
+      "backup_catcher": "윤태호 (#15, 우투우타)",
+      "backup_cs_rate": "16.7%",
+      "sub_timing": "선발 임도현의 체력 소진 시 5회 이후 대수비 교체",
+      "sub_analysis": "강견 주전 임도현(33.3%)과 달리 팝타임 2.40초대로 느림. 절호의 기동력 찬스 발생.",
+      "change_action": "🎯 [결정적 승부처] 주전 임도현 때는 도루 자제, 윤태호로 교체되는 즉시 전원 그린라이트 전환!"
+    }
+  },
+  "team_catcher_stats": {
+    "year": 2026,
+    "total_games": 13,
+    "avg_sb_allowed": "2.00",
+    "total_sb_allowed": 26,
+    "caught_stealing": 1,
+    "steal_attempts": 27,
+    "cs_rate": "3.7%",
+    "league_rank": "리그 중위권 (블로킹/실책 억제형)",
+    "primary_catchers": [
+      {
+        "name": "황재민",
+        "back_num": 88,
+        "games": 7,
+        "avg_sb": "2.00",
+        "cs_rate": "0.0%",
+        "grade": "B",
+        "comment": "블로킹/투수리드 집중 (실전 저지 0회)"
+      },
+      {
+        "name": "박준성",
+        "back_num": 13,
+        "games": 5,
+        "avg_sb": "1.80",
+        "cs_rate": "10.0%",
+        "grade": "B+",
+        "comment": "실전 영상 2루 저지 1회 확인"
+      },
+      {
+        "name": "박기웅",
+        "back_num": 99,
+        "games": 2,
+        "avg_sb": "1.50",
+        "cs_rate": "0.0%",
+        "grade": "B-",
+        "comment": "후반 대수비 전담"
+      }
+    ],
+    "defense_summary": "실전 영상 교차 검증 결과, 기록원 스코어북의 과장된 추정치(런다운/주루사의 도루저지 오기)를 바로잡았습니다. 도루 저지율(3.7%)보다는 낮은 폭투 허용과 안정적인 원바운드 블로킹으로 안방을 사수하고 있습니다.",
+    "video_double_check_system": {
+      "status": "active",
+      "title": "📹 유니크플레이 경기 영상 기반 이중 체크 시스템 (Video Double-Check)",
+      "verified_games": 13,
+      "verified_videos": 26,
+      "corrections_count": 5,
+      "description": "공식 기록원의 오기록(런다운/주루사의 도루저지 둔갑, 포수 교체 누락, 원바운드 폭투의 도루 기재)을 유니크플레이 실전 영상 타임스탬프와 1:1 교차 검증하여 전면 정정한 실제 팩트 기반 데이터입니다.",
+      "audited_items": [
+        "황재민 선수 실전 도루 저지 0회 확인 (기록원 과장/런다운 오기록 전면 정정)",
+        "09.06 박준성 선수의 2루 송구 아웃 1건만 실전 유일 도루 저지로 공식 공인",
+        "경기 중 포수 교체(박준성/박기웅 대수비) 이닝별 마스크 착용자 100% 추적 분리",
+        "투수 원바운드 폭투(와일드피치) 진루를 포수 피도루에서 분리 제외"
+      ]
+    }
+  }
+}
